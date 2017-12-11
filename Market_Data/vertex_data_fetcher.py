@@ -42,12 +42,11 @@ for url in url_list:
 					download_url = data.RTickLead.fLeadPath
 					print (download_url)
 					product_name = data.RTickLead.fLeadSymb
-					download_url = r'%s'% ('http://Restv3.vertex-analytics.com:8080/V1/Data//ZNZ7_20171204/ZNZ7_20171204_10_OptRec_Events_20171204.zip')
-				#	urllib.request.urlretrieve(download_url, file_path + product_name + '_' + date + '.zip')
-					urllib.request.urlretrieve(download_url)
+				#	download_url = r'%s'% ('http://Restv3.vertex-analytics.com:8080/V1/Data//ZNZ7_20171204/ZNZ7_20171204_10_OptRec_Events_20171204.zip')
+					urllib.request.urlretrieve(download_url, file_path + product_name + '_' + date + '.zip')
 					time.sleep(10)
 					break
-			time.sleep(10)
+			time.sleep(5)
 
 	except Exception as e:
 		logf.write("Failed to download {0}: {1}\n".format(str(url), str(e)))
