@@ -1,0 +1,66 @@
+<!DOCTYPE <!DOCTYPE html>
+{% extends "base.html" %}
+
+{% block css%}
+{% load staticfiles %}
+    <link rel="stylesheet" type="text/css" media="screen" href={% static "user.css" %} />
+{% endblock %}
+
+
+    {% block body_block %}
+        <div class="container">
+            {% if form %}
+            <form method="POST">
+                {% csrf_token %}
+                <div class="row justify-content-around form-row">
+                    <div class="col-md-auto">
+                        <div class="row justify-content-md-center form-row">
+                            <h2>Select Trader</h2>
+                        </div>
+                        <div class="row justify-content-md-center form-row">
+                            
+                            {{form.trader}}
+                            
+                        </div>
+                        
+                    </div>
+
+                    <div class="col-md-auto">
+                        <div class="row justify-content-md-center form-row">
+                            <h2>Enter Threashold Values</h2>
+                        </div>
+
+                        <!--
+                            <div class="row form-row">
+                                <label for="{{form.price.id_for_label}}" class="col-sm-6 col-form-label">Price (> 0)</label>
+                                <div class="col-sm-6">
+                                    {{form.price}}
+                                </div>
+                            </div>
+                            <div class="row form-row">
+        
+                                <label for="{{form.percent.id_for_label}}" class="col-sm-6 col-form-label">Percent (0 - 100)</label>
+                                <div class="col-sm-6">
+                                    {{form.percent}}
+                                </div>
+                            </div>
+                        -->
+                            <div class="row form-row">
+                                <label for="{{form.days.id_for_label}}" class="col-sm-6 col-form-label">Days (from expiry)</label>
+                                <div class="col-sm-6">
+                                    {{form.days}}
+                                </div>
+                            </div>
+                       
+                    </div>
+                    
+                </div>
+
+                <div class="row form-row justify-content-md-center">
+                    <input type="submit" class="btn btn-primary" value="Download">
+                </div>
+            </form>
+            {% endif %}
+        </div>
+    {% endblock %}
+    

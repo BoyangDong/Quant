@@ -1,0 +1,20 @@
+<!DOCTYPE <!DOCTYPE html>
+{% extends "base.html" %}
+
+{% block css%}
+{% load staticfiles %}
+<link rel="stylesheet" type="text/css" media="screen" href={% static "main.css" %} />
+{% endblock %}
+
+
+    {% block body_block %}
+        <div class="container">
+            {% csrf_token %}
+            {% if  traders %}
+                {% for trader in traders %}
+                <p>{{trader}}</p>
+                {% endfor %}
+            {% endif %}
+        </div>
+    {% endblock %}
+    

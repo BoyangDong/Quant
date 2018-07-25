@@ -1,0 +1,1 @@
+select portfolioName from portfolioName

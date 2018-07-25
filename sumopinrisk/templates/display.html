@@ -1,0 +1,47 @@
+<!DOCTYPE <!DOCTYPE html>
+{% extends "base.html" %}
+{% load humanize %}
+{% block css%}
+{% load staticfiles %}
+<link rel="stylesheet" type="text/css" media="screen" href={% static "display.css" %} />
+{% endblock %}
+
+
+    {% block body_block %}
+        <div class="container">
+            {% csrf_token %}
+            <h2>Pin Risk</h2>
+            {% if data %}
+                <table class="table table-striped table-sm table-hover">  
+                    <thead>
+                        <th>Trader</th>
+                        <th>Symbol</th>
+                        <th>Expiration Date</th>
+                        <th>Call/Put</th>
+                        <th>Position</th>
+                        <th>Stock Price</th>
+                        <th>Strike Price</th>
+                        <th>Price Diff</th>
+                        <th>Percent Diff</th>
+                    </thead>
+                    <tbody>
+                    {% for pos in data%}
+                        <tr>
+                            <td>{{pos.trader}}</td>
+                            <td>{{pos.symbol}}</td>
+                            <td>{{pos.expiration_date|date:"M d, Y"}}</td>
+                            <td>{{pos.call_put}}</td>
+                            <td>{{pos.positions}}</td>
+                            <td>${{pos.stock_price|floatformat:2|intcomma}}</td>
+                            <td>${{pos.strike_price|floatformat:2|intcomma}}</td>
+                            <td>${{pos.price_diff|floatformat:2|intcomma}}</td>
+                            <td>{{pos.percent_diff|floatformat:2|intcomma}}</td>
+                        </tr>
+                    {% endfor %}
+                </tbody>
+                   
+                </table>
+            {% endif %}
+        </div>
+    {% endblock %}
+    
