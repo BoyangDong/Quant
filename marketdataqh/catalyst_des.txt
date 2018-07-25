@@ -1,0 +1,454 @@
+10.10.4.6	catalyst
+SEND COMMAND: show interface description
+THROUGH AWAY: Interface                      Status         Protocol Description
+THROUGH AWAY: Vl1                            admin down     down     
+THROUGH AWAY: Vl4                            up             up       Management Interface
+THROUGH AWAY: Fa0                            down           down     
+THROUGH AWAY: Gi1/0/7                        down           down     
+THROUGH AWAY: Gi1/0/8                        down           down     
+THROUGH AWAY: Gi1/0/11                       up             up       fw-vpn-1-755s g0/0
+THROUGH AWAY: Gi1/0/13                       down           down     
+THROUGH AWAY: Gi1/0/14                       down           down     
+THROUGH AWAY: Gi1/0/15                       down           down     
+THROUGH AWAY: Gi1/0/17                       up             up       fw-vpn-1-755s g0/1 
+THROUGH AWAY: Gi1/0/18                       up             up       fw-net-1-755s e1/4 Internet DMZ
+THROUGH AWAY: Gi1/0/34                       admin down     down     SM-NY4-DAV1-mgmt
+THROUGH AWAY: Gi1/0/37                       down           down     
+THROUGH AWAY: Gi1/0/40                       up             up       ES030
+THROUGH AWAY: Gi1/0/41                       down           down     
+THROUGH AWAY: Gi1/0/47                       up             up       Trunk to ml3-core-2-755s
+THROUGH AWAY: Gi1/0/48                       up             up       Trunk to ml3-core-2-755s
+THROUGH AWAY: Gi1/0/50                       up             up       Citi
+THROUGH AWAY: Po1                            down           down     
+THROUGH AWAY: Po2                            down           down     
+THROUGH AWAY: Po5                            down           down     Trunk to ml3-core-1-755s
+Gi1/0/1	down	down	Edgerouter-E0
+Gi1/0/2	up	up	SM-NY4-RISK-1-mgt
+Gi1/0/3	up	up	HE-SRV-RDP-4-iLO
+Gi1/0/4	up	up	UR-SRV-EVM-1
+Gi1/0/5	down	down	Edgerouter-E1
+Gi1/0/6	up	up	TA-SRV-JB-5-mgt
+Gi1/0/9	up	up	MST-NY4-5
+Gi1/0/10	up	up	VN-NY4-CAP-1-mgt
+Gi1/0/12	up	up	VIV-NY4-PROD-1
+Gi1/0/16	up	up	SC-NY4-JME-5-mgmt
+Gi1/0/19	up	up	SM-NY4-LAE-8-iLO
+Gi1/0/20	up	up	TA-SRV-JB-4-mgt
+Gi1/0/21	up	up	VN-NY4-VPN-1-OUTSIDE
+Gi1/0/22	up	up	VN-NY4-VPN-1-INSIDE
+Gi1/0/23	up	up	VN-NY4-SANDBOX-2
+Gi1/0/24	down	down	SM-NY4-SBM-1(PROD149)-MGT-unplugged
+Gi1/0/25	up	up	SM-NY4-DAV-3-MGT
+Gi1/0/26	up	up	MS-NY4-CAP-2
+Gi1/0/27	up	up	MT-NY4-BRY-3-mgmt
+Gi1/0/28	up	up	SB-SRV-SBM-1
+Gi1/0/29	up	up	VN-NY4-SANDBOX-1
+Gi1/0/30	up	up	SM-NY4-STE-1-iLO
+Gi1/0/31	up	up	SM-NY4-LAW-2-mgmt
+Gi1/0/32	up	up	SM-NY4-IMPT-2-MGMT
+Gi1/0/33	up	up	CT-SRV-GNN-1
+Gi1/0/35	up	up	EW-SRV-DZL-1-iLO
+Gi1/0/36	up	up	SP-SRV-ORC-2
+Gi1/0/38	up	up	UR-SRV-EVM-1
+Gi1/0/39	up	up	MT-SRV-BRY-1-eth1
+Gi1/0/42	up	up	HE-SRV-RDP-1
+Gi1/0/43	up	up	SM-NY4-DUG-1-mgmt
+Gi1/0/44	up	up	HE-SRV-RDP-3
+Gi1/0/45	up	up	SC-NY4-JME-4-mgt
+Gi1/0/46	up	up	TA-SRV-JB-5-iLO
+Gi1/0/49	up	up	BOA-cross-connect
+Gi1/0/51	up	up	LiquidPoint-B
+Gi1/0/52	up	up	Goldman-VDI
+Po4	up	up	VN-NY4-LF-2
+10.10.129.3	catalyst
+SEND COMMAND: show interface description
+THROUGH AWAY: Interface                      Status         Protocol Description
+THROUGH AWAY: Vl1                            down           down     
+THROUGH AWAY: Vl1006                         admin down     down     
+THROUGH AWAY: Gi1/1                          up             up       PROD23
+THROUGH AWAY: Gi1/10                         down           down     
+THROUGH AWAY: Gi1/13                         down           down     
+THROUGH AWAY: Gi1/19                         down           down     
+THROUGH AWAY: Gi1/29                         up             up       PROD18
+THROUGH AWAY: Gi1/30                         up             up       BladeChassis
+THROUGH AWAY: Gi1/31                         up             up       BladeChassis
+THROUGH AWAY: Gi1/32                         up             up       DEV17
+THROUGH AWAY: Gi1/39                         down           down     
+THROUGH AWAY: Gi1/47                         up             up       DEBIAN2
+THROUGH AWAY: Po3                            up             up       BladeChassis
+Vl41	up	up	MGT-10.40.0.0/24
+Vl52	down	down	Succession-MGT-10.10.5.16/28
+Vl53	up	up	ORATS-10.40.10.0/27
+Vl70	down	down	EdgeCapture-10.75.2.136/29
+Vl72	up	up	CNC-ILO-10.40.1.160/28
+Vl73	up	up	Alapax-iLO-10.40.1.176/28
+Vl201	up	up	ORATS-DEV-10.75.4.0/29
+Vl265	up	up	VDI-ACTIV-10.207.43.0/25
+Vl267	up	up	Geneva-GS-10.172.1.0/24
+Vl270	up	up	VDI-CBOE-10.46.28.0/25
+Vl405	up	up	QIP-10.40.17.0/27
+Vl664	up	up	Goldman-Geneva-10.95.30.60/30
+Vl665	up	up	C&C-MGT-10.40.2.0/27
+Vl1001	up	up	VN-NY5-SP-2-10.40.253.4/30
+Gi1/2	down	down	EC-NY5-SRV-3
+Gi1/3	down	down	EC-NY5-SRV-4
+Gi1/4	up	up	STRATCC3-iLO
+Gi1/5	up	up	CCSTRAT12-iLO
+Gi1/6	up	up	STRATCC1-iLO
+Gi1/7	up	up	CCSTRAT11-iLO
+Gi1/8	down	down	ALP-NY5-PROD-1-iLO
+Gi1/9	up	up	ALP-NY5-PROD-2-iLO
+Gi1/11	up	up	CC-SEC2-PROD-1
+Gi1/12	up	up	CC-SEC2-PROD-2
+Gi1/14	up	up	Gserver176T-NIC-1
+Gi1/15	up	up	Gserver176T-NIC-2
+Gi1/16	up	up	Gserver177T-NIC-1
+Gi1/17	up	up	Gserver177T-NIC-2
+Gi1/18	up	up	GS-NY5-PROD-11
+Gi1/20	down	down	VN-NY5-NETMON-1
+Gi1/21	up	up	Gserver179V-NIC-2
+Gi1/22	up	up	Gserver180T-NIC-1
+Gi1/23	up	up	Gserver180T-NIC-2
+Gi1/24	up	up	Gserver181T-NIC-1
+Gi1/25	up	up	Gserver181T-NIC-2
+Gi1/26	up	up	VN-NY4-VM-1-vmnic0
+Gi1/27	up	up	VN-NY4-VM-2-vmnic2
+Gi1/28	up	up	QIP-NY4-APP-1
+Gi1/33	up	up	VN-NY5-NAS-1-mgt
+Gi1/34	down	down	VN-NY5-NAS-2-mgt
+Gi1/35	up	up	CC-SEC-PROD-3
+Gi1/36	up	up	EC-NY4-SRV-1
+Gi1/37	up	up	Fred-PC-NY5
+Gi1/38	up	up	ORATS-NO1
+Gi1/40	up	up	VN-NY5-MGT-1
+Gi1/41	up	up	VN-NY5-SP-2
+Gi1/42	up	up	VN-NY5-SP-2
+Gi1/43	up	up	VN-NY5-SP-2
+Gi1/44	up	up	VN-NY5-SP-2
+Gi1/45	up	up	BTestDBStore-NIC1
+Gi1/46	up	up	BTestDBStore-NIC2
+Gi1/48	down	down	ORC-NY5-DEV-1-iLO
+Po2	up	up	VN-NY5-SP-2
+10.10.0.2	catalyst
+SEND COMMAND: show interface description
+THROUGH AWAY: Interface                      Status         Protocol Description
+THROUGH AWAY: Vl1                            admin down     down     
+THROUGH AWAY: Vl20                           up             up       
+THROUGH AWAY: Vl201                          up             up       
+THROUGH AWAY: Vl400                          up             down     
+THROUGH AWAY: Fa0                            admin down     down     
+THROUGH AWAY: Gi1/0/1                        down           down     
+THROUGH AWAY: Gi1/0/2                        up             up       
+THROUGH AWAY: Gi1/0/3                        up             up       
+THROUGH AWAY: Gi1/0/5                        down           down     PROD112
+THROUGH AWAY: Gi1/0/6                        down           down     
+THROUGH AWAY: Gi1/0/8                        up             up       PROD31
+THROUGH AWAY: Gi1/0/9                        up             up       PROD112 
+THROUGH AWAY: Gi1/0/10                       down           down     
+THROUGH AWAY: Gi1/0/11                       up             up       
+THROUGH AWAY: Gi1/0/13                       up             up       
+THROUGH AWAY: Gi1/0/14                       down           down     
+THROUGH AWAY: Gi1/0/15                       up             up       
+THROUGH AWAY: Gi1/0/17                       admin down     down     
+THROUGH AWAY: Gi1/0/18                       admin down     down     
+THROUGH AWAY: Gi1/0/19                       down           down     LINK TO ACTIV FINANCIAL
+THROUGH AWAY: Gi1/0/20                       down           down     
+THROUGH AWAY: Gi1/0/21                       down           down     
+THROUGH AWAY: Gi1/0/22                       down           down     
+THROUGH AWAY: Gi1/0/23                       down           down     *** ASA5540 INSIDE ***
+THROUGH AWAY: Gi1/0/24                       up             up       
+THROUGH AWAY: Gi1/0/25                       down           down     To PHLX
+THROUGH AWAY: Gi1/0/26                       down           down     
+THROUGH AWAY: Gi2/0/1                        down           down     
+THROUGH AWAY: Gi2/0/2                        up             up       
+THROUGH AWAY: Gi2/0/3                        down           down     
+THROUGH AWAY: Gi2/0/5                        down           down     PROD112
+THROUGH AWAY: Gi2/0/6                        down           down     
+THROUGH AWAY: Gi2/0/8                        up             up       PROD31
+THROUGH AWAY: Gi2/0/9                        up             up       PROD112
+THROUGH AWAY: Gi2/0/10                       down           down     
+THROUGH AWAY: Gi2/0/11                       up             up       
+THROUGH AWAY: Gi2/0/13                       up             up       
+THROUGH AWAY: Gi2/0/14                       down           down     
+THROUGH AWAY: Gi2/0/15                       up             up       
+THROUGH AWAY: Gi2/0/17                       admin down     down     
+THROUGH AWAY: Gi2/0/18                       admin down     down     
+THROUGH AWAY: Gi2/0/19                       down           down     
+THROUGH AWAY: Gi2/0/20                       down           down     
+THROUGH AWAY: Gi2/0/21                       down           down     
+THROUGH AWAY: Gi2/0/22                       down           down     
+THROUGH AWAY: Gi2/0/23                       down           down     
+THROUGH AWAY: Gi2/0/24                       up             up       
+THROUGH AWAY: Gi2/0/25                       up             up       Trunk to ml3-core-2-755s
+THROUGH AWAY: Gi2/0/26                       up             up       Trunk to ml3-core-2-755s
+THROUGH AWAY: Po1                            up             up       Trunk to ml3-core-2-755s
+THROUGH AWAY: Po3                            down           down     
+Gi1/0/4	down	down	SM-NY4-RISK-2
+Gi1/0/7	up	up	LTN-SRV-WEB-2
+Gi1/0/12	down	down	PROD105-Rob-Dev
+Gi1/0/16	up	up	ORATS-NY5-DEV-1
+Gi2/0/4	down	down	SM-NY4-RISK-2
+Gi2/0/7	up	up	LTN-SRV-WEB-2
+Gi2/0/12	up	up	PROD105-Rob-Dev
+Gi2/0/16	up	up	ORATS-NY5-DEV-1
+10.10.4.200	catalyst
+SEND COMMAND: show interface description
+THROUGH AWAY: Interface                      Status         Protocol Description
+THROUGH AWAY: Vl1                            admin down     down     
+THROUGH AWAY: Vl4                            up             up       
+THROUGH AWAY: Vl10                           up             up       management interface
+THROUGH AWAY: Vl99                           up             down     
+THROUGH AWAY: Fa0/38                         up             up       fw-net-1-755s mgt
+THROUGH AWAY: Fa0/41                         up             up       xl2-dist-2-755s mgt
+THROUGH AWAY: Fa0/42                         up             up       xl2-dist-1-755s mgt
+THROUGH AWAY: Fa0/46                         down           down     temp-7150s-64 management port
+THROUGH AWAY: Gi0/1                          up             up       To ml3-core-2-755s
+THROUGH AWAY: Gi0/2                          down           down     
+Fa0/1	up	up	SM-NY4-MD-1-iLO
+Fa0/2	up	up	ts1-755s
+Fa0/3	up	up	SM-NY4-AC-1-mgt
+Fa0/4	up	up	SM-NY4-FRM-1-iLO
+Fa0/5	up	up	VN-NY4-TP-2-iLO
+Fa0/6	down	down	Spare-Arista-mgmt
+Fa0/7	up	up	VN-NY4-SANDBOX-1-iLO
+Fa0/8	up	up	VN-NY4-SANDBOX-2-iLO
+Fa0/9	up	up	prod144-iLO
+Fa0/10	up	up	prod143-iLO
+Fa0/11	up	up	VN-NY4-NAS-2-iLO
+Fa0/12	down	down	desk-at-NY4
+Fa0/13	up	up	VN-NY4-DB-1-iLO
+Fa0/14	down	down	ZY-SRV-ACE-1-iLO
+Fa0/15	up	up	MT-NY4-BRY-3-iLO
+Fa0/16	up	up	SB-SRV-SBM-1-iLO
+Fa0/17	up	up	MT-NY4-BRY-2-iLO
+Fa0/18	down	down	Andrie-NY4-OC-2-iLO
+Fa0/19	up	up	SM-NY4-LAW-3-iLO
+Fa0/20	up	up	EC-NY5-SRV-4-iLO
+Fa0/21	up	up	CT-SRV-GNN-1-iLO
+Fa0/22	up	up	DW-SRV-JAW-1-iLO
+Fa0/23	up	up	AT-SRV-JMS-2-iLO
+Fa0/24	up	up	SP-SRV-ORC-2-iLO
+Fa0/25	down	down	prod25-ilo
+Fa0/26	down	down	prod26-ilo
+Fa0/27	up	up	SC-SRV-JME-2-iLO
+Fa0/28	up	up	UR-SRV-EVM-1-iLO
+Fa0/29	up	up	SM-NY4-RG-DEV1-iLO
+Fa0/30	up	up	ES030-iLO
+Fa0/31	up	up	MCM-NY4-PROD-1-iLO
+Fa0/32	up	up	EC-NY5-SRV-3-iLO
+Fa0/33	up	up	SP-SRV-ORC-3-iLO
+Fa0/34	up	up	SM-NY4-LAW-2-iLO
+Fa0/35	down	down	Andrie-NY4-OC-1-iLO
+Fa0/36	up	up	VN-SRV-TP-1-iLO
+Fa0/37	up	up	HE-SRV-RDP-2-iLO
+Fa0/39	up	up	SM-NY4-LAW-1-iLO
+Fa0/40	up	up	HE-SRV-RDP-3-iLO
+Fa0/43	up	up	MT-SRV-BRY-1-iLO
+Fa0/44	up	up	SC-NY4-JME-4-iLO
+Fa0/45	down	down	ml3-core-1-mgt
+Fa0/47	up	up	HE-SRV-RDP-1-iLO
+Fa0/48	up	up	VN-NY4-NET-2-MGMT
+10.10.4.201	catalyst
+SEND COMMAND: show interface description
+THROUGH AWAY: Interface                      Status         Protocol Description
+THROUGH AWAY: Vl1                            admin down     down     
+THROUGH AWAY: Vl4                            up             up       
+THROUGH AWAY: Gi0/1                          up             up       To ml3-core-2-755s
+THROUGH AWAY: Gi0/2                          down           down     
+Fa0/1	up	up	SM-NY4-RISK-1-iLO
+Fa0/2	down	down	SM-SRV-SAKI-1-iLO
+Fa0/3	down	down	ES-SRV-DEV-1-iLO
+Fa0/4	up	up	MS-SRV-NY4-1-iLO
+Fa0/5	up	up	SM-NY4-DAV-3-iLO
+Fa0/6	up	up	VN-NY4-CAP-1-iLO
+Fa0/7	up	up	VN-NY4-TP-3-iLO
+Fa0/8	up	up	VN-NY4-TP-4-iLO
+Fa0/9	up	up	VN-NY4-NET-1-MGT
+Fa0/10	down	down	PROD147-iLO
+Fa0/11	down	down	SM-NY4-LAE-12-iLO
+Fa0/12	up	up	TA-SRV-JB-3-iLO
+Fa0/13	up	up	SM-NY4-RG-DEV2-iLO
+Fa0/14	up	up	SM-NY4-LAE-13-iLO
+Fa0/15	up	up	MST-NY4-5-iLO
+Fa0/16	up	up	SC-NY4-JME-5-iLO
+Fa0/17	up	up	SM-NY4-JAE-1-iLO
+Fa0/18	up	up	SM-NY4-JAE-2-iLO
+Fa0/19	up	up	SM-NY4-JAE-3-iLO
+Fa0/20	up	up	EW-SV-DZL-2-iLO
+Fa0/21	up	up	SM-NY4-JAE-4-iLO
+Fa0/22	up	up	SM-NY4-CNL-1-iLO
+Fa0/23	up	up	SM-NY4-JAE-5-iLO
+Fa0/24	up	up	DW-SRV-LUC-1-iLO
+Fa0/25	down	down	ANDRIE-NY4-BRICK-2-iLO
+Fa0/26	up	up	SM-NY4-AC-1-iLO
+Fa0/27	up	up	MP-SRV-CAP-22-iLO
+Fa0/28	down	down	MP-SRV-CAP-14-iLO
+Fa0/29	up	up	NY4-DVMETALS-01-iLO
+Fa0/30	up	up	TA-SRV-JB-5-iLO
+Fa0/31	down	down	VN-NY4-TP-7-iLO
+Fa0/32	up	up	SM-NY4-JAE-6-iLO
+Fa0/33	up	up	SM-NY4-JAE-7-iLO
+Fa0/34	up	up	VN-NY4-TP-5-iLO
+Fa0/35	up	up	SM-NY4-JAE-9-iLO
+Fa0/36	up	up	SM-NY4-JAE-10-iLO
+Fa0/37	up	up	PDU-02
+Fa0/38	up	up	PDU-03
+Fa0/39	up	up	PDU-04
+Fa0/40	up	up	PDU-05
+Fa0/41	up	up	MS-NY4-CAP-2-iLO
+Fa0/42	up	up	VIV-NY4-PROD-1-iLO
+Fa0/43	up	up	VN-NY4-TP-6-iLO
+Fa0/44	up	up	SM-NY4-LAE-11-iLO
+Fa0/45	up	up	SM-NY4-DAV-1-iLO
+Fa0/46	down	down	PROD25-CG-Maint
+Fa0/47	down	down	PROD26-CG-Maint
+Fa0/48	down	down	PROD151-iLO
+10.13.128.1	catalyst
+unable to connect, moving on to next
+10.10.128.1	catalyst
+SEND COMMAND: show interface description
+THROUGH AWAY: Interface                      Status         Protocol Description
+THROUGH AWAY: Vl1                            admin down     down     DO-NOT-USE
+THROUGH AWAY: Vl4                            up             up       *** OOB Management VLAN ***
+THROUGH AWAY: Vl5                            admin down     down     Succession-MGT-10.10.5.0/28
+THROUGH AWAY: Vl12                           up             up       *** Legacy SERVERS VLAN ***
+THROUGH AWAY: Vl16                           up             up       *** SERVERS VLAN - North Side ***
+THROUGH AWAY: Vl17                           admin down     down     *** SERVERS VLAN - South Side ***
+THROUGH AWAY: Vl18                           up             up       *** Storage VLAN ***
+THROUGH AWAY: Vl19                           up             up       Activ South side 10.10.19.0/27
+THROUGH AWAY: Vl20                           up             up       *** Legacy MGT LAN ***
+THROUGH AWAY: Vl21                           up             up       *** Legacy iLO LAN ***
+THROUGH AWAY: Vl27                           admin down     down     Server-vlan-10.11.17.0/24
+THROUGH AWAY: Vl28                           admin down     down     Server-vlan-10.11.18.0/24
+THROUGH AWAY: Vl31                           up             up       *** iLO LAN ***
+THROUGH AWAY: Vl32                           up             up       *** iLO DMZ LAN ***
+THROUGH AWAY: Vl33                           admin down     down     Victory-SRV-10.75.6.32/27
+THROUGH AWAY: Vl34                           admin down     down     TP-OUT-10.10.20.0/28
+THROUGH AWAY: Vl35                           admin down     down     TP-IN-10.41.10.16/28
+THROUGH AWAY: Vl42                           up             up       *** SFTI ISE Vlan ***
+THROUGH AWAY: Vl60                           down           down     NYMEX_Floor
+THROUGH AWAY: Vl200                          admin down     down     External-client-Michael-Whitman-10.75.2.0/28
+THROUGH AWAY: Vl202                          admin down     down     Sumo-CBOE-10.75.6.0/27
+THROUGH AWAY: Vl203                          admin down     down     Titan-10.75.2.16/29
+THROUGH AWAY: Vl204                          admin down     down     Maystreet-10.75.1.0/29
+THROUGH AWAY: Vl210                          admin down     down     Succession-10.46.17.16/28
+THROUGH AWAY: Vl211                          admin down     down     Edge-ACE-10.46.17.32/28 
+THROUGH AWAY: Vl213                          admin down     down     Edge-SBM-10.46.17.48/29
+THROUGH AWAY: Vl214                          admin down     down     Atlantic-10.46.17.80/29
+THROUGH AWAY: Vl215                          admin down     down     URSA-10.46.17.88/29
+THROUGH AWAY: Vl217                          admin down     down     Synergy-10.46.17.104/29
+THROUGH AWAY: Vl218                          admin down     down     DROWST-10.46.17.64/28
+THROUGH AWAY: Vl222                          admin down     down     DROWST-CSM-10.75.1.16/28
+THROUGH AWAY: Vl223                          admin down     down     Atlantic-JMS-CSM-10.75.1.8/29
+THROUGH AWAY: Vl224                          admin down     down     Sparta-CSM-10.75.1.32/29
+THROUGH AWAY: Vl226                          admin down     down     URSA-CSM-10.75.1.40/29
+THROUGH AWAY: Vl229                          admin down     down     PROD28-10.75.1.72/29
+THROUGH AWAY: Vl231                          admin down     down     Budo-TT-10.46.17.136/29
+THROUGH AWAY: Vl232                          admin down     down     MarathonTrading-CMI2-10.46.17.144/29
+THROUGH AWAY: Vl233                          admin down     down     MarathonTrading-CSM-10.75.1.80/29
+THROUGH AWAY: Vl234                          admin down     down     Cassandra-SBM-CSM-10.75.4.8/29
+THROUGH AWAY: Vl235                          admin down     down     Syergy-CSM-10.75.1.88/29
+THROUGH AWAY: Vl238                          admin down     down     Hard8-10.46.17.160/28
+THROUGH AWAY: Vl240                          admin down     down     Actant-Exstream-10.75.2.32/27
+THROUGH AWAY: Vl241                          admin down     down     Sumo-LAE-10.46.17.192/27
+THROUGH AWAY: Vl245                          admin down     down     Synergy-ORC-10.46.17.240/29
+THROUGH AWAY: Vl246                          admin down     down     RBC-10.75.2.64/29
+THROUGH AWAY: Vl247                          admin down     down     BOS-10.75.2.72/29-multicast
+THROUGH AWAY: Vl248                          admin down     down     Maystreet-10.46.17.224/28
+THROUGH AWAY: Vl249                          admin down     down     StatEcon-10.75.2.80/29
+THROUGH AWAY: Vl250                          admin down     down     StatEcon-10.46.22.0/29
+THROUGH AWAY: Vl251                          admin down     down     ZenFX-10.75.6.64/28
+THROUGH AWAY: Vl252                          admin down     down     LanceO-10.75.2.88/29
+THROUGH AWAY: Vl253                          admin down     down     Sumo-LAE-10.46.22.32/27
+THROUGH AWAY: Vl254                          admin down     down     Accreate-10.75.4.48/28
+THROUGH AWAY: Vl260                          admin down     down     
+THROUGH AWAY: Vl261                          admin down     down     
+THROUGH AWAY: Vl302                          admin down     down     AndrewCurto-10.46.22.64/28
+THROUGH AWAY: Vl303                          admin down     down     AndrewCurto-10.11.19.96/28
+THROUGH AWAY: Vl502                          up             up       To fw-net-1
+THROUGH AWAY: Vl503                          up             up       To rr-wan-1.1118th
+THROUGH AWAY: Vl504                          up             up       To fw-net-1 SFTI nat interface 
+THROUGH AWAY: Vl505                          up             up       To VN-NY4-RTR-1 10.10.253.48/30
+THROUGH AWAY: Vl601                          up             up       To fw-vpn-1-755s
+THROUGH AWAY: Vl810                          up             up       Activ Content Gateway network
+THROUGH AWAY: Vl1566                         down           down     *** MPLS ***
+THROUGH AWAY: Fa1                            down           down     
+THROUGH AWAY: Gi2/3                          up             up       To Victory switch
+THROUGH AWAY: Gi2/4                          up             up       To Victory switch
+THROUGH AWAY: Gi2/5                          up             up       VN-NY4-NET-2 0/0
+THROUGH AWAY: Gi2/6                          up             up       fw-net-1-755s external e1/1
+THROUGH AWAY: Gi2/9                          up             up       fw-vpn-1 SFTI
+THROUGH AWAY: Gi2/10                         up             up       To fw-net-1-755s e1/3 extranet-dmz
+THROUGH AWAY: Gi2/12                         up             up       fw-net-1 internal interface
+THROUGH AWAY: Gi2/16                         admin down     down     
+THROUGH AWAY: Gi2/19                         up             up       To xl2-dist-4-1118th
+THROUGH AWAY: Gi2/20                         up             up       To xl2-dist-4-1118th
+THROUGH AWAY: Po1                            up             up       Trunk to VN-NY4-SP-1
+THROUGH AWAY: Po2                            up             up       To xl2-dist-2.1118th
+THROUGH AWAY: Po5                            up             up       To Victory switch
+THROUGH AWAY: Po24                           down           down     Trunk to VN-NY4-SP-2
+THROUGH AWAY: Po25                           up             up       Trunk to NAS1-2
+THROUGH AWAY: Lo0                            up             up       Management Interface
+THROUGH AWAY: Lo1                            admin down     down     TUNNEL SOURCE TO UCFCRCR-SUMO01 FOR MULTICAST
+THROUGH AWAY: Lo2                            up             up       Anycast IP
+THROUGH AWAY: Lo5                            admin down     down     Anycast RP
+THROUGH AWAY: Lo244                          admin down     down     
+THROUGH AWAY: Lo250                          up             up       RP=Bucket
+THROUGH AWAY: Tu0                            up             down     MULTICAST TUNNEL TO UCFCRCR-SUMO01 TUNNEL 0
+Vl6	up	up	MGT-10.11.31.0/24
+Vl10	up	up	MGT-10.11.0.0/24
+Vl15	up	up	Server-lan-10.11.2.0/24
+Vl52	up	up	SFTI-Nasdaq-10.203.131.76/30
+Vl53	up	up	NY4-OOB-10.41.0.0/25
+Vl54	up	up	Andrie-OOB-192.168.75.0/28
+Vl55	up	up	OC-OOB-192.168.75.16/28
+Vl56	up	up	Andrie-OOB-192.168.75.32/29
+Vl216	up	up	Captuure-mgt-10.46.17.96/29
+Vl219	up	up	Cassandra-10.46.17.56/29
+Vl220	up	up	SUMO-10.46.17.0/29
+Vl221	up	up	GBAR-10.46.17.112/29
+Vl227	up	up	OptionsCity-10.75.75.16/28
+Vl228	up	up	GBAR-CSM-10.75.1.64/29
+Vl237	up	up	CME-NAT-SRC-10.75.1.128/26
+Vl239	up	up	FTOptions-10.46.17.176/29
+Vl242	up	up	MP-CAP-10.75.4.16/28
+Vl243	up	up	MP-CAP-10.75.4.32/28
+Vl244	up	up	MayStreet-10.41.10.0/29
+Vl262	up	up	Andrie-10.75.0.0/28
+Vl299	up	up	TP-MGT-10.11.19.0/27
+Vl501	up	up	VN-NY4-SP-1
+Vl506	up	up	VN-NY4-LF-6-10.10.253.64/30
+Vl512	down	down	VN-NY4-SP-2-10.10.253.188/30
+Vl524	up	up	VN-NY4-SP-2-10.10.253.244/30
+Vl525	up	up	VN-NY4-SP-2-10.10.253.248/30
+Vl527	up	up	Balyasny-Clifton-10.10.254.16/30
+Vl2551	up	up	Activ-Order-Execution-10.193.233.36/30
+Vl2564	up	up	Extranet-DMZ-10.10.253.152/29
+Vl2571	down	down	CBOE-CSM-B-10.212.19.112/30
+Vl2578	up	up	LiquidPoint-mcast-172.20.6.60/30
+Vl2591	up	up	Activ-TOPO-10.207.89.64/30
+Vl2595	up	up	R2G-172.20.254.250/31
+Vl2599	up	up	Activ-Edge-Capture-10.192.225.180/30
+Vl2601	up	up	428B-LT-10.10.254.24/30
+Te1/1	up	up	VN-NY4-SP-2
+Te1/2	up	up	VN-NY4-SP-2
+Te1/3	up	up	VN-NY4-SP-1
+Te1/4	up	up	Activ-Financial
+Te1/5	up	up	VN-NY4-SP-1
+Te1/6	up	up	xl2-dist-2-755s
+Te1/7	up	up	VN-NY4-SP-1
+Te1/8	up	up	xl2-dist-2-755s
+Gi2/1	up	up	xl2-dist-5-755s
+Gi2/2	up	up	VN-NY4-LF-6
+Gi2/7	up	up	xl2-dist-8-755s
+Gi2/8	up	up	rr-wan-1-755s-external
+Gi2/11	up	up	VN-NY4-LF-6
+Gi2/13	up	up	fw-vpn-1-EXTRANET
+Gi2/14	down	down	rr-wan-1-755s
+Gi2/15	up	up	RC-NY4-VM-1
+Gi2/17	up	up	nas1-e0a-secondary-controller
+Gi2/18	up	up	nas1-e0b-secondary-controller
+Po4	up	up	xl2-dist-4-755s
+Po9	up	up	VN-NY4-LF-6
+Po30	up	up	VN-NY4-SP-2
+Lo4	up	up	Multicast-RP-default-bucket

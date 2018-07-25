@@ -1,0 +1,860 @@
+10.64.254.1	arista
+SEND COMMAND: show interface description
+THROUGH AWAY: Et1                            down           down     
+THROUGH AWAY: Et7                            down           down     
+THROUGH AWAY: Et8                            up             up       CME_CERT
+THROUGH AWAY: Et11                           down           down     
+THROUGH AWAY: Et12                           down           down     
+THROUGH AWAY: Et13                           down           down     
+THROUGH AWAY: Et22                           down           down     
+THROUGH AWAY: Et24                           down           down     
+THROUGH AWAY: Et25                           down           down     
+THROUGH AWAY: Et26                           down           down     
+THROUGH AWAY: Et28                           down           down     
+THROUGH AWAY: Et29                           down           down     
+THROUGH AWAY: Et31                           down           down     
+THROUGH AWAY: Et33                           down           down     
+THROUGH AWAY: Et38                           down           down     
+THROUGH AWAY: Et44                           down           down     
+THROUGH AWAY: Et48                           down           down     
+THROUGH AWAY: Et50                           down           down     
+THROUGH AWAY: Et51                           down           down     
+THROUGH AWAY: Et52                           up             up       GrandMasterClock Eth2
+THROUGH AWAY: Lo0                            up             up       Management_IP
+THROUGH AWAY: Lo6                            up             up       Anycast RP for Andrie
+THROUGH AWAY: Ma1                            down           down     
+THROUGH AWAY: Po1                            up             up       
+THROUGH AWAY: Po52                           down           lowerlayerdown 
+THROUGH AWAY: Vl10                           up             up       Budo_ASide_VLAN_172.17.174.0/27
+THROUGH AWAY: Vl20                           up             up       Customer_ASide_VLAN
+THROUGH AWAY: Vl30                           up             up       Actant_ASide_VLAN
+THROUGH AWAY: Vl40                           down           lowerlayerdown Andrie_ASide_VLAN
+THROUGH AWAY: Vl42                           down           lowerlayerdown ICE_A_Side_VLAN
+THROUGH AWAY: Vl45                           down           lowerlayerdown Andrie_10G_MGT
+THROUGH AWAY: Vl50                           up             up       Victory_ASide_VLAN
+THROUGH AWAY: Vl60                           up             up       Budo_Internal_ASide_VLAN
+THROUGH AWAY: Vl70                           down           lowerlayerdown NYSE_A_Side_VLAN
+Et2	up	up	VN-DC3-SP-2-E2
+Et3	up	up	CME-A-Feed-GLK-1514
+Et4	up	up	LightTower-Cermak-10G-CircuitID-40199-ET-AURRILIL-CHCGILDT
+Et5	up	up	VN-DC3-LF-1-TE49
+Et6	up	up	VN-DC3-LF-2-GE47
+Et9	up	up	VN-DC3-SP-2-E2
+Et10	up	up	QH-A
+Et14	down	down	BUDO-DC3-TT-1-SF1
+Et15	up	up	ACTANT-DC3-ACT-4-SF1
+Et16	up	up	ACTANT-DC3-ACT-3-SF1
+Et17	up	up	ACTANT-DC3-ACT-2-SF1
+Et18	up	up	SUMO-DC3-ACT-1-SF1
+Et19	up	up	ACTANT-DC3-ACT-1-SF1
+Et20	up	up	WWD-DC3-PROD-3-p1p1
+Et21	down	down	KOT-DC3-ACT-1-SF1
+Et23	up	up	ELK-DC3-PROD-2-p2p2
+Et27	up	up	ROCA-DC3-PROD-1
+Et30	up	up	WWD-DC3-PROD-2-eth5
+Et32	down	down	BUDO-DC3-TT-3-SF1
+Et34	up	up	VN-DC3-PC-1-P4P1
+Et35	up	up	VN-DC3-PC-1-P5P2-SPAN
+Et36	up	up	SUMO-DC3-PO-1-SF1
+Et37	up	up	BUDO-DC3-TT-4-SF1
+Et39	up	up	SUMO-DC3-LUK-1
+Et40	up	up	SUMO-DC3-LUK-2
+Et41	up	up	ACTANT-DC3-SRV-6
+Et42	up	up	ACTANT-DC3-SRV-5
+Et43	down	down	BUDO-DC3-TT-6
+Et45	up	up	WWD-DC3-PROD-1-eth4
+Et46	up	up	SM-DC3-JD-1-p1p2
+Et47	up	up	ELK-DC3-PROD-1-eth4
+Et49	down	down	BUDO-DC3-VM-1-SF1
+Vl11	down	lowerlayerdown	BUDO_ASIDE_VLAN-172.17.174.128/28
+Vl21	up	up	Customer_ASide_VLAN-172.17.174.144/28
+Vl90	down	lowerlayerdown	PCAP-10.64.128.64/29
+10.10.128.3	arista
+SEND COMMAND: show interface description
+THROUGH AWAY: Et31                           down           notpresent 
+THROUGH AWAY: Et32                           down           notpresent 
+THROUGH AWAY: Et33                           down           notpresent 
+THROUGH AWAY: Et34                           down           notpresent 
+THROUGH AWAY: Et35                           down           notpresent 
+THROUGH AWAY: Et36                           down           notpresent 
+THROUGH AWAY: Et38                           up             up       VIV-NY4-PROD-1 port 2
+THROUGH AWAY: Et39                           down           notpresent 
+THROUGH AWAY: Et40                           down           notpresent 
+THROUGH AWAY: Et41                           down           notpresent 
+THROUGH AWAY: Et42                           down           notpresent 
+THROUGH AWAY: Et43                           down           notpresent 
+THROUGH AWAY: Et44                           down           notpresent 
+THROUGH AWAY: Lo0                            up             up       
+THROUGH AWAY: Lo1                            up             up       RP bucket
+THROUGH AWAY: Ma1                            down           down     
+THROUGH AWAY: Po1                            down           lowerlayerdown 
+Et1	up	up	VN-NY4-SP-1
+Et2	up	up	VN-NY4-SP-1
+Et3	up	up	SM-NY4-LAE-10-eth0
+Et4	up	up	SM-NY4-LAE-10-eth1
+Et5	up	up	SM-NY4-LAE-7-eth0
+Et6	up	up	SM-NY4-LAE-7-eth1
+Et7	up	up	VN-NY4-SP-2
+Et8	down	down	SM-NY4-LAE-8-eth1
+Et9	up	up	SM-NY4-LAE-9-eth0
+Et10	up	up	SM-NY4-LAE-9-eth1
+Et11	up	up	SM-NY4-LAE-6-eth0
+Et12	up	up	SM-NY4-LAE-6-eth1
+Et13	up	up	SM-NY4-LAE-5-eth0
+Et14	up	up	SM-NY4-LAE-5-eth1
+Et15	up	up	SM-NY4-LAE-4-eth0
+Et16	up	up	SM-NY4-LAE-4-eth1
+Et17	up	up	SM-NY4-LAE-3-eth0
+Et18	up	up	SM-NY4-LAE-3-eth1
+Et19	up	up	SM-NY4-LAE-2-eth0
+Et20	up	up	SM-NY4-LAE-2-eth1
+Et21	up	up	SM-NY4-LAE-1-eth0
+Et22	up	up	SM-NY4-LAE-1-eth1
+Et23	up	up	VN-NY4-SP-2
+Et24	down	down	SM-NY4-LAE-8
+Et25	up	up	SM-NY4-STE-1
+Et26	up	up	QIP-NY4-APP-3
+Et27	up	up	SM-NY4-IMPT-1
+Et28	up	up	SM-NY4-IMPT-2
+Et29	up	up	VN-NY4-SANDBOX-1
+Et30	up	up	SM-NY4-LAE-8
+Et37	down	down	MCM-NY4-PROD-1-Myricom
+Et45	down	notpresent	VN-NY4-SP-2
+Et46	down	notpresent	VN-NY4-SP-2
+Et47	down	notpresent	VN-NY4-SP-2
+Et48	down	notpresent	VN-NY4-SP-2
+Et49	down	notpresent	VN-NY4-SP-1
+Et50	down	notpresent	VN-NY4-SP-1
+Et51	up	up	VN-NY4-SP-1
+Et52	up	up	VN-NY4-SP-1
+Po10	up	up	ml3-ore-1-755s
+Po23	up	up	VN-NY4-SP-2
+Vl241	up	up	Sumo-LAE-10.46.17.192/27
+Vl253	up	up	Sumo-LAE-10.46.22.32/27
+Vl255	up	up	Sumo-10.46.22.96/27
+Vl507	up	up	VN-NY4-SP-1-10.10.253.168/30
+Vl511	up	up	VN-NY4-SP-2-10.10.253.184/30
+Vl527	up	up	Vivcourt-10.46.17.248/29
+10.64.254.2	arista
+SEND COMMAND: show interface description
+THROUGH AWAY: Et4                            down           down     
+THROUGH AWAY: Et11                           down           down     
+THROUGH AWAY: Et12                           down           down     
+THROUGH AWAY: Et13                           down           down     
+THROUGH AWAY: Et24                           down           down     
+THROUGH AWAY: Et25                           down           down     
+THROUGH AWAY: Et29                           down           down     
+THROUGH AWAY: Et31                           down           down     
+THROUGH AWAY: Et33                           down           down     
+THROUGH AWAY: Et38                           down           down     
+THROUGH AWAY: Et48                           down           down     
+THROUGH AWAY: Et51                           down           down     
+THROUGH AWAY: Et52                           up             up       GrandMasterClock eth1
+THROUGH AWAY: Lo0                            up             up       Management_IP
+THROUGH AWAY: Lo6                            up             up       Anycast RP for Andrie
+THROUGH AWAY: Lo51                           up             up       
+THROUGH AWAY: Ma1                            down           down     
+THROUGH AWAY: Po1                            up             up       
+THROUGH AWAY: Vl10                           up             up       Budo_BSide_VLAN
+THROUGH AWAY: Vl20                           up             up       Customer_BSide_VLAN
+THROUGH AWAY: Vl30                           up             up       Actant_BSide_VLAN
+THROUGH AWAY: Vl40                           down           lowerlayerdown Andrie_BSide_VLAN
+THROUGH AWAY: Vl41                           up             up       Andrie_CBOE_VLAN
+THROUGH AWAY: Vl42                           down           lowerlayerdown ICE_B_Side_VLAN
+THROUGH AWAY: Vl50                           up             up       Victory_BSide_VLAN
+THROUGH AWAY: Vl60                           up             up       Budo_Internal_BSide
+THROUGH AWAY: Vl70                           down           lowerlayerdown NYSE_B_Side_VLAN
+THROUGH AWAY: Vl80                           up             up       CME_CERT_BSide
+Et1	down	down	VN-DC3-SP-LF-3-E2
+Et2	up	up	VN-DC3-SP-1-E2-LightTower-10G-CircuitID-40199-ET-AURRILIL-CHCGILDT
+Et3	up	up	CME-B-Feed-GLK-1515
+Et5	up	up	VN-DC3-LF-1-TE50
+Et6	up	up	VN-DC3-LF-2-GE48
+Et7	down	notpresent	VN-DC3-SP-LF-4-E2
+Et8	up	up	10G_NY4_CID:A-R00061-Support:888.277.5620
+Et9	up	up	VN-DC3-SP-1-E9
+Et10	up	up	QH-B
+Et14	down	down	BUDO-DC3-TT-1-SF2
+Et15	up	up	ACTANT-DC3-ACT-4-SF2
+Et16	up	up	ACTANT-DC3-ACT-3-SF2
+Et17	up	up	ACTANT-DC3-ACT-2-SF2
+Et18	up	up	SUMO-DC3-ACT-2-SF2
+Et19	up	up	ACTANT-DC3-ACT-1-SF2
+Et20	up	up	WWD-DC3-PROD-3-p1p2
+Et21	down	down	KOT-DC3-ACT-1-SF2
+Et22	down	down	10G_440_SP_1-TE9/1-CID-BDCL5543
+Et23	up	up	ELK-DC3-PROD-2-plp2
+Et26	down	down	ANDRIE-DC3-BTS-2-SF2
+Et27	up	up	ROCA-DC3-PROD-1
+Et28	down	down	ANDRIE-DC3-OC-3-SF2
+Et30	up	up	WWD-DC3-PROD-2-eth4
+Et32	down	down	BUDO-DC3-TT-3-SF2
+Et34	up	up	VN-DC3-PC-1-P4P2
+Et35	up	up	VN-DC3-PC-1-P5P1-SPAN
+Et36	up	up	SUMO-DC3-PO-1-SF2
+Et37	up	up	BUDO-DC3-TT-4-SF2
+Et39	up	up	SUMO-DC3-LUK-1
+Et40	up	up	SUMO-DC3-LUK-2
+Et41	up	up	ACT-DC3-SRV-6
+Et42	up	up	ACTANT-DC3-SRV-5
+Et43	down	down	BUDO-DC3-TT-6
+Et44	down	down	BUDO-DC3-TT-5-SF2
+Et45	up	up	WWD-DC3-PROD-1-eth5
+Et46	up	up	SM-DC3-JD-1-p2p1
+Et47	up	up	ELK-DC3-PROD-1-p1p1
+Et49	down	down	BUDO-DC3-PO-1-SF1
+Et50	down	down	BUDO-DC3-TT-2-SF2
+Vl11	down	lowerlayerdown	Budo-BSide-LAN-172.17.175.128/28
+Vl43	up	up	ICE-172.18.115.16/29
+Vl100	up	up	PCAP-10.64.128.72/29
+10.75.128.9	arista
+SEND COMMAND: show interface description
+THROUGH AWAY: Et3                            down           down     
+THROUGH AWAY: Et11                           down           notpresent 
+THROUGH AWAY: Et21                           down           notpresent 
+THROUGH AWAY: Et24                           down           notpresent 
+THROUGH AWAY: Et30                           up             up       VN-NY4-SANDBOX-2 p1p1
+THROUGH AWAY: Et32                           down           down     
+THROUGH AWAY: Et33                           up             up       Trunk to VN-NY4-SP-2
+THROUGH AWAY: Et34                           up             up       Trunk to VN-NY4-SP-2
+THROUGH AWAY: Et35                           up             up       Trunk to VN-NY4-SP-2
+THROUGH AWAY: Et36                           up             up       Trunk to VN-NY4-SP-2
+THROUGH AWAY: Et38                           down           notpresent 
+THROUGH AWAY: Et39                           admin down     notpresent CFE-Multicast-A
+THROUGH AWAY: Et42                           down           notpresent 
+THROUGH AWAY: Et43                           up             up       Clearpool
+THROUGH AWAY: Et44                           down           notpresent 
+THROUGH AWAY: Et45                           down           notpresent 
+THROUGH AWAY: Et46                           admin down     down     PTP-VN-NY4-SP-1
+THROUGH AWAY: Et47                           down           down     
+THROUGH AWAY: Et48                           down           notpresent 
+THROUGH AWAY: Lo0                            up             up       
+THROUGH AWAY: Lo5                            up             up       Anycast RP
+THROUGH AWAY: Lo10                           up             up       
+THROUGH AWAY: Ma1                            up             up       
+THROUGH AWAY: Po26                           up             up       Trunk to VN-NY4-SP-2
+THROUGH AWAY: Vl10                           down           lowerlayerdown 
+THROUGH AWAY: Vl17                           down           lowerlayerdown SFTI_CERT
+THROUGH AWAY: Vl50                           down           lowerlayerdown 
+THROUGH AWAY: Vl63                           down           lowerlayerdown SFTI_VLAN
+Et1	up	up	VN-NY4-TP-1-eth14
+Et2	up	up	VN-NY4-TP-1-eth15
+Et4	up	up	VN-NY4-TP-2-eth11
+Et5	up	up	VN-NY4-TP-2-eth8
+Et6	up	up	VN-NY4-TP-3-eth1
+Et7	down	down	VN-NY4-TP-3-eth2
+Et8	up	up	VN-NY4-TP-4-p1p1
+Et9	up	up	VN-NY4-TP-4-p2p2
+Et10	up	up	VN-NY4-TP-4-p3p1
+Et12	up	up	MST-NY4-1-eth2
+Et13	up	up	VN-NY4-TP-5-p2p1
+Et14	up	up	CFE-CSMI-BATS-A
+Et15	up	up	VN-NY4-CAP-2-eth6
+Et16	up	up	VN-NY4-TP-5-eth4
+Et17	up	up	VN-NY4-TP-6-p3p2
+Et18	up	up	VN-NY4-TP-6-p2p2
+Et19	up	up	VN-NY4-TP-6-p1p2
+Et20	up	up	Jefferies-A
+Et22	up	up	WEX-10.80.5.148/30
+Et23	up	up	BATS-A
+Et25	up	up	VN-NY4-TP-5-p5p1
+Et26	up	up	VN-NY4-SP-2
+Et27	up	up	MS-NY4-CAP-2-eth9
+Et28	up	up	BOX-A
+Et29	down	notpresent	VN-NY4-TP-7
+Et31	up	up	RBC-A
+Et37	up	up	CBOE-CSM-cross-connect
+Et40	up	up	CFE-Unicast-A
+Et41	up	up	OptionsIT-NY4
+Et49	up	up	VN-NY4-SP-1
+Et50	up	up	VN-NY4-SP-1
+Et51	up	up	VN-NY4-SP-1
+Et52	up	up	VN-NY4-SP-1
+Lo250	up	up	RP-Bucket
+Po23	up	up	VN-NY4-SP-1
+Vl35	up	up	TP-IN-10.41.10.16/28
+Vl39	up	up	TP-IN-10.41.10.64/28
+Vl41	up	up	TP-IN-10.41.10.96/28
+Vl44	up	up	PCAP-10.41.10.144/28
+Vl45	down	lowerlayerdown	Capture-10.41.10.160/29
+Vl304	up	up	TP-output-204.90.88.224/28
+Vl515	up	up	VN-NY4-SP-1-10.10.253.196/30
+Vl518	up	up	VN-NY4-SP-2-10.10.253.208/30
+Vl2110	down	lowerlayerdown	R2G-172.20.254.116/30
+Vl2160	down	lowerlayerdown	R2G-L2-ASide-VLAN
+Vl2558	up	up	CBOE-CSM-10.212.18.112/30
+Vl2576	up	up	Liquidpoint-mcast-172.20.6.56/30
+Vl2580	up	up	LiquidPoint-10.185.144.152/30
+Vl2581	up	up	MIAX-10.246.1.136/31
+10.10.129.1	arista
+SEND COMMAND: show interface description
+THROUGH AWAY: Et11                           admin down     down     ORATS-NY5-PROD-2
+THROUGH AWAY: Et12                           admin down     down     ORATS-NY5-PROD-1
+THROUGH AWAY: Lo0                            up             up       
+THROUGH AWAY: Lo5                            up             up       Anycast RP for C&C
+THROUGH AWAY: Ma1                            down           down     
+THROUGH AWAY: Vl50                           down           lowerlayerdown ORC_NY5_VLAN
+THROUGH AWAY: Vl54                           up             up       Storage 10.40.32.16/28
+THROUGH AWAY: Vl202                          admin down     down     ORATS-PROD-10.40.32.128/27
+Et1	up	up	VN-NY5-NAS-1
+Et2	up	up	VN-NY5-LF-4
+Et3	up	up	GS-NY5-PROD-8-Port1
+Et4	down	notpresent	ORC-NY5-DEV-1
+Et5	down	down	VN-NY5-NAS-2
+Et6	up	up	GS-NY5-PROD-1-Port1
+Et7	up	up	GS-NY5-PROD-2-Port1
+Et8	up	up	GS-NY5-PROD-3-Port1
+Et9	up	up	GS-NY5-PROD-4-Port1
+Et10	up	up	GS-NY5-PROD-5-Port1
+Et13	up	up	CWDM-NY4-1270nm
+Et14	up	up	CWDM-NY4-1290nm
+Et15	up	up	CWDM-NY4-1310nm
+Et16	up	up	CWDM-NY4-1330nm
+Et17	up	up	VN-NY5-VM-2
+Et18	up	up	CC-NY5-PROD-3-p2p1
+Et19	up	up	VN-NY5-SP-3
+Et20	up	up	VN-NY5-SP-3
+Et21	down	down	VN-NY5-ADMIN-1-TE2/7
+Et22	down	down	VN-NY5-ADMIN-1-TE2/8
+Et23	up	up	VN-NY5-SP-2
+Et24	up	up	VN-NY5-SP-2
+Lo1	up	up	RP-registration-source
+Po1	up	up	VN-NY5-SP-2
+Po3	up	up	VN-NY5-SP-3
+Po31	down	lowerlayerdown	VN-NY5-ADMIN-1
+Po55	up	up	VN-NY4-SP-1
+Vl53	down	lowerlayerdown	Succession-10.40.32.0/28
+Vl59	up	up	Geneva-A-10.40.33.0/27
+Vl71	up	up	Vmware-10.40.10.200/29
+Vl233	up	up	Gemini-C&C-10.244.8.0/29
+Vl508	up	up	VN-NY4-SP-1-10.10.253.172/30
+Vl525	up	up	VN-NY5-LF-4-10.40.253.28/30
+Vl1000	up	up	VN-NY5-SP-2-10.40.253.0/30
+Vl1002	up	up	VN-NY5-SP-2-10.40.253.8/30
+Vl1003	up	up	VN-NY5-SP-3-10.40.253.16/30
+Vl1004	up	up	VN-NY5-SP-3-10.40.253.20/30
+10.10.129.2	arista
+SEND COMMAND: show interface description
+THROUGH AWAY: Et2                            up             up       PROD24
+THROUGH AWAY: Et4                            up             up       PROD19
+THROUGH AWAY: Et13                           up             up       PROD21
+THROUGH AWAY: Lo0                            up             up       
+THROUGH AWAY: Ma1                            down           down     
+THROUGH AWAY: Ma2                            down           down     
+Et1	up	up	SM-NY5-STE-1
+Et3	up	up	VN-NY5-TT-1
+Et5	up	up	VN-NY4-VM-1-vmnic4
+Et6	down	down	PROD22-PORTSRV3
+Et7	up	up	VN-NY4-VM-2-vmnic0
+Et8	up	up	VN-NY5-LF-2-10.40.253.12/30
+Et9	up	up	VN-NY5-LF-2-10.40.253.12/30
+Et10	up	up	VN-NY4-VM-7-eth4
+Et11	up	up	VN-NY4-VM-7-eth2
+Et12	up	up	VN-NY4-NAS-2-eth5
+Et14	up	up	VN-NY5-VM-1
+Et15	up	up	CNCDB2-Port-3
+Et16	up	up	VN-NY5-DB-1-em1
+Et17	up	up	CC-SEC2-PROD-1
+Et18	up	up	CC-SEC2-PROD-2
+Et19	up	up	VN-NY5-SP-1
+Et20	up	up	VN-NY5-SP-1
+Et21	up	up	VN-NY5-LF-1
+Et22	up	up	VN-NY5-LF-1
+Et23	up	up	VN-NY5-LF-1
+Et24	up	up	VN-NY5-LF-1
+Po1	up	up	VN-NY5-SP-1
+Po2	up	up	VN-NY5-LF-1
+Po3	up	up	VN-NY5-LF-2-10.40.253.12/30
+Vl40	up	up	Sumo-10.46.37.0/27
+Vl59	up	up	VMWare-10.40.10.192/29
+Vl202	down	lowerlayerdown	ORATS-PROD-10.40.32.128/27
+Vl234	up	up	Gemini-C&C-10.244.8.8/29
+Vl271	up	up	C&C-10.46.28.96/27
+Vl301	up	up	C&C-IEX-10.1.32.0/29
+Vl904	up	up	HyperV-GuestOS-10.46.19.0/24
+Vl1000	up	up	VN-NY5-SP-1-10.40.253.0/30
+Vl1001	up	up	VN-NY5-LF-1-10.40.253.4/30
+Vl1002	up	up	VN-NY5-SP-1-10.40.253.8/30
+Vl1103	up	up	VN-NY5-LF-2-10.40.253.12/30
+10.66.254.5	arista
+SEND COMMAND: show interface description
+THROUGH AWAY: Et3                            down           notpresent 
+THROUGH AWAY: Et4                            down           notpresent 
+THROUGH AWAY: Et19                           down           notpresent 
+THROUGH AWAY: Et20                           down           notpresent 
+THROUGH AWAY: Et22                           down           notpresent PTP from VN-CAR-GPS-1
+THROUGH AWAY: Et23                           admin down     down     Hehmeyer-Trading
+THROUGH AWAY: Et24                           up             up       Monadnock
+THROUGH AWAY: Et25                           down           notpresent 
+THROUGH AWAY: Et26                           down           notpresent 
+THROUGH AWAY: Et27                           down           notpresent 
+THROUGH AWAY: Et28                           down           notpresent 
+THROUGH AWAY: Et29                           down           notpresent 
+THROUGH AWAY: Et30                           down           notpresent 
+THROUGH AWAY: Et35                           down           notpresent 
+THROUGH AWAY: Et36                           down           notpresent PTP to VN-CAR-GPS-1
+THROUGH AWAY: Et49/1                         down           notpresent 
+THROUGH AWAY: Et49/2                         down           notpresent 
+THROUGH AWAY: Et49/3                         down           notpresent 
+THROUGH AWAY: Et49/4                         down           notpresent 
+THROUGH AWAY: Et50/1                         down           notpresent 
+THROUGH AWAY: Et50/2                         down           notpresent 
+THROUGH AWAY: Et50/3                         down           notpresent 
+THROUGH AWAY: Et50/4                         down           notpresent 
+THROUGH AWAY: Et51/1                         down           notpresent 
+THROUGH AWAY: Et51/2                         down           notpresent 
+THROUGH AWAY: Et51/3                         down           notpresent 
+THROUGH AWAY: Et51/4                         down           notpresent 
+THROUGH AWAY: Et52/1                         down           notpresent 
+THROUGH AWAY: Et52/2                         down           notpresent 
+THROUGH AWAY: Et52/3                         down           notpresent 
+THROUGH AWAY: Et52/4                         down           notpresent 
+THROUGH AWAY: Lo0                            up             up       
+THROUGH AWAY: Ma1                            down           down     
+THROUGH AWAY: Po33                           up             up       Peak6
+THROUGH AWAY: Vl30                           admin down     down     Sumo_10.66.18.32/27
+THROUGH AWAY: Vl50                           admin down     down     Victory_10.66.18.80/28
+THROUGH AWAY: Vl130                          admin down     down     Sumo_10.66.118.32/27
+THROUGH AWAY: Vl2001                         admin down     down     Transit-to-NY4
+Et1	down	notpresent	VN-CAR-LF-2-Gi1/43
+Et2	down	down	VN-CAR-LF-2-Gi1/44
+Et5	down	notpresent	SM-CAR-LAE-1
+Et6	down	notpresent	SM-CAR-LAE-1
+Et7	down	notpresent	SM-CAR-LAE-2
+Et8	down	notpresent	SM-CAR-LAE-2
+Et9	down	notpresent	SM-CAR-LAE-3
+Et10	down	notpresent	SM-CAR-LAE-3
+Et11	down	down	VN-CAR-CAP-1-eth5
+Et12	down	down	VN-CAR-CAP-1-eth4-PTP
+Et13	down	notpresent	SM-CAR-LAE-4
+Et14	down	notpresent	SM-CAR-LAE-4
+Et15	down	notpresent	SM-CAR-LAE-5
+Et16	down	notpresent	SM-CAR-LAE-5
+Et17	down	notpresent	SM-CAR-LAE-6
+Et18	down	notpresent	SM-CAR-LAE-6
+Et21	down	notpresent	VN-CAR-CAP-1-MGT
+Et31	up	up	QH-20G
+Et32	up	up	QH-20G
+Et33	down	notpresent	VN-CAR-LF-2-Gi1/39
+Et34	down	down	VN-CAR-LF-2-Gi1/40
+Et37	down	notpresent	SM-CAR-LAW-1
+Et38	down	notpresent	SM-CAR-LAW-1
+Et39	down	notpresent	SM-CAR-LAW-2
+Et40	down	notpresent	SM-CAR-LAW-2
+Et41	down	notpresent	DWDM-NY4-C57
+Et42	down	notpresent	DWDM-NY4-C59
+Et43	down	notpresent	DWDM-NY4-C58
+Et44	down	notpresent	DWDM-NY4-C60
+Et45	up	up	Peak6-1
+Et46	up	up	Peak6-2
+Et47	up	up	LIME-MarketData
+Et48	up	up	LIME-MarketData
+Lo100	up	up	Nasdaq-source-NAT
+Lo250	up	up	RP-Bucket
+Po1	down	lowerlayerdown	VN-CAR-LF-2
+Po3	up	up	QH-20G
+Po31	down	lowerlayerdown	VN-NY4-SP-2
+Po34	up	up	LIME-MarketData
+Vl100	down	lowerlayerdown	PTP-Capture-10.66.128.0/28
+Vl2002	up	up	QH-10.66.253.32/30
+10.75.128.10	arista
+SEND COMMAND: show interface description
+THROUGH AWAY: Et7                            down           notpresent 
+THROUGH AWAY: Et9                            down           notpresent 
+THROUGH AWAY: Et10                           down           notpresent 
+THROUGH AWAY: Et12                           up             up       Cutler
+THROUGH AWAY: Et16                           down           notpresent 
+THROUGH AWAY: Et17                           down           notpresent 
+THROUGH AWAY: Et18                           down           notpresent 
+THROUGH AWAY: Et21                           down           notpresent 
+THROUGH AWAY: Et22                           down           notpresent 
+THROUGH AWAY: Et25                           down           notpresent 
+THROUGH AWAY: Et26                           down           notpresent 
+THROUGH AWAY: Et27                           down           notpresent 
+THROUGH AWAY: Et28                           down           notpresent 
+THROUGH AWAY: Et44                           down           notpresent 
+THROUGH AWAY: Et45                           down           down     
+THROUGH AWAY: Et46                           down           down     
+THROUGH AWAY: Et49/2                         down           down     
+THROUGH AWAY: Et49/3                         down           down     
+THROUGH AWAY: Et49/4                         down           down     
+THROUGH AWAY: Et50/2                         down           down     
+THROUGH AWAY: Et50/3                         down           down     
+THROUGH AWAY: Et50/4                         down           down     
+THROUGH AWAY: Et51/2                         down           down     
+THROUGH AWAY: Et51/3                         down           down     
+THROUGH AWAY: Et51/4                         down           down     
+THROUGH AWAY: Et52/1                         down           notpresent 
+THROUGH AWAY: Et52/2                         down           notpresent 
+THROUGH AWAY: Et52/3                         down           notpresent 
+THROUGH AWAY: Et52/4                         down           notpresent 
+THROUGH AWAY: Lo0                            up             up       
+THROUGH AWAY: Lo5                            up             up       Anycast RP
+THROUGH AWAY: Ma1                            down           down     
+THROUGH AWAY: Po24                           up             up       Trunk to VN-NY4-LF-4
+THROUGH AWAY: Po25                           up             up       Trunk to VN-NY4-SP-1
+THROUGH AWAY: Po26                           up             up       Trunk to VN-NY4-LF-3
+THROUGH AWAY: Po28                           up             up       Trunk to VN-NY4-LF-5
+THROUGH AWAY: Po29                           up             up       Trunk to VN-NY5-SP-3
+Et1	up	up	VN-NY4-LF-5
+Et2	up	up	DWDM-Carteret-C57
+Et3	up	up	VN-NY4-LF-5
+Et4	up	up	DWDM-Carteret-C58
+Et5	up	up	VN-NY4-LF-5
+Et6	up	up	DWDM-Carteret-C59
+Et8	up	up	DWDM-Carteret-C60
+Et11	up	up	Aurora-MetroOptical-CID:A-R00061-Support:888.277.5620
+Et13	up	up	VN-NY5-SP-3
+Et14	up	up	VN-NY5-SP-3
+Et15	up	up	mst-ny4-1
+Et19	up	up	MST-NY4-5
+Et20	up	up	MST-NY4-5
+Et23	up	up	VN-NY4-LF-1
+Et24	up	up	VN-NY4-LF-1
+Et29	up	up	VN-NY4-SP-1
+Et30	up	up	VN-NY4-SP-1
+Et31	up	up	VN-NY4-SP-1
+Et32	up	up	VN-NY4-SP-1
+Et33	up	up	VN-NY4-LF-3
+Et34	up	up	VN-NY4-LF-3
+Et35	up	up	VN-NY4-LF-3
+Et36	up	up	VN-NY4-LF-3
+Et37	up	up	VN-NY4-LF-2
+Et38	up	up	VN-NY4-LF-2
+Et39	up	up	VN-NY4-LF-4
+Et40	up	up	VN-NY4-LF-4
+Et41	up	up	VN-NY4-LF-4
+Et42	up	up	VN-NY4-LF-4
+Et43	down	notpresent	QH-B
+Et47	up	up	LIME-B
+Et48	up	up	LIME-B
+Et49/1	up	up	QH-40G-B
+Et50/1	up	up	QH-40G-B-2nd
+Et51/1	up	up	OptionsIT-B
+Lo250	up	up	RP-Bucket
+Po22	up	up	LIME-B
+Po23	up	up	VN-NY4-LF-1
+Po30	up	up	VN-NY4-LF-2
+Po31	up	up	VN-CAR-SP-1
+Vl204	up	up	Maystreet--10.75.1.0/29
+Vl256	down	lowerlayerdown	Atrasys-10.75.6.96/28
+Vl258	down	lowerlayerdown	Atrasys-10.75.6.128/28
+Vl307	up	up	Maystreet-10.11.19.112/28
+Vl308	down	lowerlayerdown	AndrewCurto-10.11.19.128/28
+Vl312	up	up	QH-Global-172.24.3.72/30
+Vl314	up	up	QH-Broker-172.24.3.80/30
+Vl511	up	up	VN-NY4-LF-1-10.10.253.184/30
+Vl516	up	up	VN-NY4-LF-4-10.10.253.200/30
+Vl517	up	up	VN-NY4-SP-1-10.10.253.204/30
+Vl518	up	up	VN-NY4-LF-3-10.10.253.208/30
+Vl521	up	up	VN-NY4-LF-5-10.10.253.220/30
+Vl522	up	up	VN-NY4-SP-1-10.10.253.224/30
+Vl523	up	up	VN-NY5-SP-3-10.10.253.240/30
+Vl524	up	up	VN-NY4-LF-2-10.10.253.244/30
+Vl525	up	up	VN-NY4-LF-2-10.10.253.248/30
+Vl2000	up	up	LIME-B-10.33.1.68/30
+10.75.128.4	arista
+SEND COMMAND: show interface description
+THROUGH AWAY: Et2                            down           down     
+THROUGH AWAY: Et3                            down           down     
+THROUGH AWAY: Et8                            down           down     
+THROUGH AWAY: Et11                           admin down     notpresent CFE-Multicast-B
+THROUGH AWAY: Et12                           admin down     notpresent CFE-Unicast-B
+THROUGH AWAY: Et14                           up             up       Hanweck
+THROUGH AWAY: Et16                           up             up       Guavatech
+THROUGH AWAY: Et18                           down           notpresent 
+THROUGH AWAY: Et22                           up             up       RONIN
+THROUGH AWAY: Et39                           up             up       Trunk to VN-NY4-SP-2
+THROUGH AWAY: Et40                           up             up       Trunk to VN-NY4-SP-2
+THROUGH AWAY: Et41                           up             up       Trunk to VN-NY4-SP-2
+THROUGH AWAY: Et42                           up             up       Trunk to VN-NY4-SP-2
+THROUGH AWAY: Et51                           down           notpresent 
+THROUGH AWAY: Et52                           admin down     notpresent VN-NY4-LF-2
+THROUGH AWAY: Lo0                            up             up       
+THROUGH AWAY: Lo5                            up             up       Anycast RP
+THROUGH AWAY: Ma1                            down           down     
+THROUGH AWAY: Po22                           up             up       Trunk to VN-NY4-SP-1
+THROUGH AWAY: Po24                           up             up       Trunk to VN-NY4-SP-2
+THROUGH AWAY: Po45                           down           lowerlayerdown 
+THROUGH AWAY: Vl10                           down           lowerlayerdown 
+THROUGH AWAY: Vl17                           down           lowerlayerdown 
+THROUGH AWAY: Vl21                           admin down     down     
+THROUGH AWAY: Vl63                           admin down     down     SFTI_VLAN
+THROUGH AWAY: Vl2000                         admin down     down     
+Et1	up	up	VN-NY4-SP-1
+Et4	up	up	ITG-10G
+Et5	up	up	CBOE-CMI
+Et6	up	up	MS-NY4-CAP-2-PTP-eth8
+Et7	up	up	BOX-B
+Et9	up	up	CBOE-CSM-B
+Et10	up	up	CFE-CSMI-BATS-B
+Et13	up	up	SM-NY4-LAE-11-eth1
+Et15	up	up	VN-NY4-TP-5-p5p2
+Et17	up	up	SM-NY4-LAE-13-eth1
+Et19	up	up	MST-NY4-5-enp175s0f0
+Et20	up	up	MST-NY4-5-enp175s0f2
+Et21	up	up	Bluefin-B
+Et23	up	up	VN-NY4-TP-4-p1p2
+Et24	up	up	VN-NY4-SP-1
+Et25	up	up	VN-NY4-SP-1
+Et26	up	up	VN-NY4-TP-1-eth16
+Et27	up	up	vn-NY4-TP-2-eth9
+Et28	up	up	VN-NY4-TP-6-p3p1
+Et29	down	down	VN-NY4-TP-7
+Et30	up	up	VN-NY4-TP-6-p2p1
+Et31	up	up	RBC-B
+Et32	up	up	VN-NY4-TP-6-p1p1
+Et33	up	up	VN-NY4-TP-4-p2p1
+Et34	up	up	VN-NY4-TP-4-p3p2
+Et35	up	up	VN-NY4-TP-3-eth0
+Et36	up	up	VN-NY4-TP-3-eth3
+Et37	up	up	VN-NY4-CAP-2-eth7
+Et38	up	up	Jefferies-B
+Et43	up	up	VN-NY4-TP-5-p2p2
+Et44	up	up	VN-NY4-TP-5-eth1
+Et45	up	up	VN-NY4-SP-1
+Et46	down	down	MS-NY4-CAP-3-enp3s0f3
+Et47	down	down	MS-NY4-CAP-3-enp3s0f2
+Et48	up	up	VN-NY4-TP-5-eth5
+Et49	up	up	VN-NY4-TP-1-eth17
+Et50	up	up	VN-NY4-TP-2-eth10
+Lo250	up	up	RP-Bucket
+Vl36	up	up	TP-IN-10.41.10.32/28
+Vl37	up	up	TP-IN-10.41.10.48/28
+Vl40	up	up	TP-IN-10.41.10.80/28
+Vl42	up	up	TP-IN-10.41.10.112/28
+Vl43	up	up	PTP-10.41.10.128/28
+Vl46	down	lowerlayerdown	Capture-10.41.10.168/29
+Vl47	down	lowerlayerdown	Capture-10.41.10.176/29
+Vl301	up	up	LAE-10.11.19.64/27
+Vl306	up	up	TP-output-204.90.88.208/28
+Vl509	up	up	VN-NY4-SP-1-10.10.253.176/30
+Vl510	up	up	VN-NY4-SP-1-10.10.253.180/30
+Vl512	down	lowerlayerdown	VN-NY4-LF-2-10.10.253.188/30
+Vl516	up	up	VN-NY4-SP-2-10.10.253.200/30
+Vl2001	down	lowerlayerdown	Transit-to-Carteret-10.66.253.12/30
+Vl2111	down	lowerlayerdown	R2G-172.20.255.116/30
+Vl2161	down	lowerlayerdown	R2G-L2-BSide-VLAN
+Vl2571	up	up	CBOE-CSM-B-10.212.19.112/30
+Vl2572	up	up	CBOE-CMI-10G-10.212.5.76/30
+Vl3325	down	lowerlayerdown	SAVVIS-NYSE-208.170.41.164/30
+Vl3415	down	lowerlayerdown	Savvis-208.170.41.16/30
+Vl3630	down	lowerlayerdown	OneChicago-166.49.89.0/29
+10.75.128.11	arista
+SEND COMMAND: show interface description
+THROUGH AWAY: Et6                            up             up       Bluefin
+THROUGH AWAY: Et12                           up             up       VN-NY4-SANDBOX-2 p1p2
+THROUGH AWAY: Et13                           up             up       VN-NY4-SANDBOX-2 p3p2
+THROUGH AWAY: Et15                           up             up       VN-NY4-SANDBOX-2 p3p1
+THROUGH AWAY: Et17                           down           notpresent 
+THROUGH AWAY: Et19                           down           notpresent 
+THROUGH AWAY: Et27                           down           notpresent 
+THROUGH AWAY: Et38                           up             up       VIV-NY4-PROD-1 Port 1
+THROUGH AWAY: Et49                           up             up       Trunk to VN-NY4-SP-2
+THROUGH AWAY: Et50                           up             up       Trunk to VN-NY4-SP-2
+THROUGH AWAY: Et51                           up             up       Trunk to VN-NY4-SP-2
+THROUGH AWAY: Et52                           down           notpresent Trunk to VN-NY4-SP-2
+THROUGH AWAY: Lo0                            up             up       
+THROUGH AWAY: Ma1                            down           down     
+THROUGH AWAY: Po28                           up             up       Trunk to VN-NY4-SP-2
+Et1	up	up	VN-NY4-SP-1
+Et2	up	up	SC-NY4-JME-4
+Et3	up	up	VN-NY4-SP-1
+Et4	down	down	SP-SRV-ORC-3-CSM
+Et5	up	up	VN-NY4-SP-1
+Et7	up	up	VN-NY4-SP-1
+Et8	up	up	VN-NY4-SANDBOX-1-CME
+Et9	up	up	SM-NY4-IMPT-1
+Et10	up	up	TA-SRV-JB-4
+Et11	up	up	TA-SRV-JB-5
+Et14	up	up	SM-NY4-LAE-11-eth0
+Et16	up	up	SM-NY4-LAE-13-eth0
+Et18	up	up	SM-NY4-LAE-8
+Et20	up	up	TA-SRV-JB-3
+Et21	up	up	HUME-NY4-PROD-1
+Et22	up	up	QIP-NY4-APP-3
+Et23	up	up	SM-NY4-SBM-1
+Et24	up	up	SM-NY4-DAV-3
+Et25	up	up	NY4-DVMETAL-01
+Et26	up	up	NY4-DVMETAL-01
+Et28	up	up	SM-NY4-IMPT-2
+Et29	up	up	SC-NY4-JME-4
+Et30	up	up	AT-SRV-JMS-2
+Et31	up	up	SC-NY5-JME-5
+Et32	up	up	SC-NY5-JME-5
+Et33	up	up	SM-NY4-AC-1
+Et34	up	up	ZF-NY4-DEV-1-test
+Et35	up	up	AT-SRV-JMS-2
+Et36	up	up	ZF-NY4-DEV-1-test
+Et37	down	down	MCM-NY4-PROD-1-CBOE-Myricom
+Et39	up	up	SM-NY4-LAW-1
+Et40	up	up	SM-NY4-LAW-3
+Et41	up	up	SM-NY4-LAW-3
+Et42	up	up	MCM-NY4-PROD-1-CBOE
+Et43	up	up	SM-NY4-LAW-2
+Et44	up	up	SM-NY4-LAW-2
+Et45	up	up	HUME-NY4-PROD-1
+Et46	up	up	SM-NY4-RG-DEV1
+Et47	up	up	SM-NY4-RG-DEV2-CBOE
+Et48	up	up	SM-NY4-RG-DEV2-CME
+Lo250	up	up	RP-Bucket
+Po27	up	up	VN-NY4-SP-1
+Vl26	up	up	Sumo-10.10.21.0/27
+Vl40	up	up	CME-172.17.173.32/27
+Vl41	up	up	Sumo-10.46.43.0/27
+Vl42	up	up	TP-10.46.43.32/28
+Vl43	down	lowerlayerdown	TP-10.46.43.48/28
+Vl44	up	up	TP-10.46.43.64/28
+Vl45	up	up	TP-10.46.43.80/28
+Vl46	down	lowerlayerdown	Andrie-CBOE-10.46.32.128/28
+Vl47	up	up	Monadnock-10.46.32.144/28
+Vl48	down	lowerlayerdown	Andrie-ICE-172.28.208.96/29
+Vl49	down	lowerlayerdown	Andrie-Activ-10.75.2.96/28
+Vl56	up	up	OptionsCity-A-10.46.75.16/28
+Vl57	up	up	OptionsCity-B-10.75.5.16/28
+Vl58	up	up	SM-10.46.43.128/28
+Vl59	up	up	HUME-10.46.43.144/28
+Vl224	up	up	HUME--10.75.1.32/29
+Vl225	up	up	Synergy-10.75.4.80/29
+Vl236	up	up	Sumo-LAE-10.46.17.152/29
+Vl247	down	lowerlayerdown	BOS-10.75.2.72/29-multicast
+Vl305	down	lowerlayerdown	SANDBOX-Mcast-10.75.6.96/27
+Vl311	up	up	Titan-10.75.4.64/28
+Vl312	up	up	Synergy-10.46.43.96/29
+Vl520	up	up	VN-NY4-SP-1-10.10.253.216/30
+Vl521	up	up	VN-NY4-SP-2-10.10.253.220/30
+10.64.254.6	arista
+unable to connect, moving on to next
+10.64.254.5	arista
+unable to connect, moving on to next
+10.66.254.7	arista
+SEND COMMAND: show interface description
+THROUGH AWAY: Et1                            down           notpresent 
+THROUGH AWAY: Et2                            down           notpresent 
+THROUGH AWAY: Et3                            down           down     
+THROUGH AWAY: Et4                            down           notpresent 
+THROUGH AWAY: Et6                            down           notpresent 
+THROUGH AWAY: Et7                            down           notpresent 
+THROUGH AWAY: Et8                            down           notpresent 
+THROUGH AWAY: Et9                            down           notpresent 
+THROUGH AWAY: Et10                           down           notpresent 
+THROUGH AWAY: Et11                           up             up       
+THROUGH AWAY: Et12                           down           down     
+THROUGH AWAY: Et14                           up             up       QHN-nyccar-lf02-21407 G1/43
+THROUGH AWAY: Et23                           down           notpresent 
+THROUGH AWAY: Et24                           down           notpresent 
+THROUGH AWAY: Et25                           down           down     
+THROUGH AWAY: Et26                           down           down     
+THROUGH AWAY: Et27                           down           down     
+THROUGH AWAY: Et28                           down           down     
+THROUGH AWAY: Et29                           down           down     
+THROUGH AWAY: Et30                           down           down     
+THROUGH AWAY: Et31                           down           down     
+THROUGH AWAY: Et32                           down           down     
+THROUGH AWAY: Et33                           down           down     
+THROUGH AWAY: Et34                           down           down     
+THROUGH AWAY: Et35                           down           down     
+THROUGH AWAY: Et36                           down           down     
+THROUGH AWAY: Et37                           down           down     
+THROUGH AWAY: Et38                           down           down     
+THROUGH AWAY: Et39                           down           down     
+THROUGH AWAY: Et42                           down           notpresent 
+THROUGH AWAY: Et43                           down           down     
+THROUGH AWAY: Et44                           down           notpresent 
+THROUGH AWAY: Et45                           up             up       PTP from VN-CAR-GPS-1
+THROUGH AWAY: Et46                           down           notpresent 
+THROUGH AWAY: Et47                           down           down     QH
+THROUGH AWAY: Et48                           up             up       QHN-nyccar-lf01-21407 T1/49
+THROUGH AWAY: Et49                           up             up       QHN-nyccar-sp02-21407 E49
+THROUGH AWAY: Et50                           up             up       QHN-nyccar-sp02-21407 E50
+THROUGH AWAY: Et51                           up             up       QHN-nyccar-sp02-21407 E51
+THROUGH AWAY: Et52                           up             up       QHN-nyccar-sp02-21407 E52
+THROUGH AWAY: Lo0                            up             up       Management_IP
+THROUGH AWAY: Lo1                            up             up       
+THROUGH AWAY: Lo250                          up             up       
+THROUGH AWAY: Ma1                            up             up       
+THROUGH AWAY: Po1                            up             up       QHN-nyccar-sp02-21407 PO1
+THROUGH AWAY: Vl30                           up             up       Sumo_10.66.18.32/27
+THROUGH AWAY: Vl50                           down           lowerlayerdown Victory_10.66.18.80/28
+Et5	up	up	Options-IT-A
+Et13	up	up	Nasdaq-10G-Ultra
+Et15	up	up	SM-CAR-LAE-1
+Et16	up	up	SM-CAR-LAE-2
+Et17	up	up	SM-CAR-LAE-3
+Et18	up	up	SM-CAR-LAE-4
+Et19	up	up	SM-CAR-LAE-5
+Et20	up	up	SM-CAR-LAE-6
+Et21	up	up	SM-CAR-LAW-1
+Et22	up	up	SM-CAR-LAW-2
+Et40	down	down	VN-CAR-CAP-1-eth4
+Et41	down	down	VN-CAR-CAP-1-eth5
+Vl51	up	up	PTP-10.66.252.0/26
+Vl100	down	lowerlayerdown	PTP-Capture-10.66.128.0/28
+Vl2003	up	up	nyccar-sp-2-21407-10.66.254.36/30
+10.66.254.8	arista
+SEND COMMAND: show interface description
+THROUGH AWAY: Et10                           up             up       Monadnock
+THROUGH AWAY: Et11                           up             up       Options-IT B side
+THROUGH AWAY: Et12                           up             up       Options-IT B side
+THROUGH AWAY: Et13                           down           notpresent 
+THROUGH AWAY: Et14                           up             up       QHN-nyccar-lf02-21407 G1/44
+THROUGH AWAY: Et23                           down           down     
+THROUGH AWAY: Et25                           down           down     
+THROUGH AWAY: Et26                           down           down     
+THROUGH AWAY: Et27                           down           down     
+THROUGH AWAY: Et28                           down           down     
+THROUGH AWAY: Et29                           down           down     
+THROUGH AWAY: Et30                           down           down     
+THROUGH AWAY: Et31                           down           down     
+THROUGH AWAY: Et32                           down           down     
+THROUGH AWAY: Et33                           down           notpresent 
+THROUGH AWAY: Et34                           down           notpresent 
+THROUGH AWAY: Et35                           down           notpresent 
+THROUGH AWAY: Et36                           down           notpresent 
+THROUGH AWAY: Et37                           down           down     
+THROUGH AWAY: Et38                           down           down     
+THROUGH AWAY: Et39                           down           notpresent 
+THROUGH AWAY: Et40                           up             up       QHN-nyccar-lf01-21407 T1/50
+THROUGH AWAY: Et41                           down           notpresent 
+THROUGH AWAY: Et42                           down           down     
+THROUGH AWAY: Et43                           down           notpresent 
+THROUGH AWAY: Et44                           down           notpresent 
+THROUGH AWAY: Et47                           up             up       QH
+THROUGH AWAY: Et48                           down           notpresent Monadnock
+THROUGH AWAY: Et49                           up             up       QHN-nyccar-sp01-21407 E49
+THROUGH AWAY: Et50                           up             up       QHN-nyccar-sp01-21407 E50
+THROUGH AWAY: Et51                           up             up       QHN-nyccar-sp01-21407 E51
+THROUGH AWAY: Et52                           up             up       QHN-nyccar-sp01-21407 E52
+THROUGH AWAY: Lo0                            up             up       Management_IP
+THROUGH AWAY: Lo1                            up             up       
+THROUGH AWAY: Lo250                          up             up       
+THROUGH AWAY: Ma1                            up             up       
+THROUGH AWAY: Po1                            up             up       QHN-nyccar-sp01-21407 PO1
+THROUGH AWAY: Po33                           down           lowerlayerdown Peak6
+THROUGH AWAY: Vl50                           up             up       Victory_10.66.18.80/28
+THROUGH AWAY: Vl130                          up             up       Sumo_10.66.118.32/27
+Et1	up	up	LIME-20G
+Et2	up	up	LIME-20G
+Et3	up	up	DWDM-NY4-C57
+Et4	up	up	DWDM-NY4-C59
+Et5	up	up	DWDM-NY4-C58
+Et6	up	up	DWDM-NY4-C60
+Et7	down	down	Peak-6
+Et8	down	down	Peak-6
+Et9	up	up	Hehmeyer-Trading
+Et15	up	up	SM-CAR-LAE-1
+Et16	up	up	SM-CAR-LAE-2
+Et17	up	up	SM-CAR-LAE-3
+Et18	up	up	SM-CAR-LAE-4
+Et19	up	up	SM-CAR-LAE-5
+Et20	up	up	SM-CAR-LAE-6
+Et21	up	up	SM-CAR-LAW-1
+Et22	up	up	SM-CAR-LAW-2
+Et24	up	up	VN-CAR-CAP-1-MGT
+Et45	down	notpresent	Peak6-1
+Et46	down	notpresent	Peak6-2
+Po2	up	up	Options-IT-B
+Po3	up	up	VN-CAR-SP-2-20G
+Po31	up	up	VN-NY4-SP-2
+Vl2002	up	up	VN-10.66.253.32/30
+Vl2003	up	up	nyccar-sp01-201407-10.66.254.36/30

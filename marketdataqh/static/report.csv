@@ -1,0 +1,1345 @@
+Server Name,Feed Name,Session Name,Channel,Customer,Multicast Group,Switch IP,Interface
+ACTANT-DC3-ACT-4-SF1,cme_globex30,"CME Globex Equity Futures, 310",A,Actant Intelligent Trading,224.0.31.1,10.64.254.1,Et15
+ACTANT-DC3-ACT-4-SF1,cme_globex30,"CME Globex Equity Options - excludes E-mini S&P 500, 319",A,Actant Intelligent Trading,224.0.31.10,10.64.254.1,Et15
+ACTANT-DC3-ACT-4-SF1,cme_globex30,"NYMEX Globex Crude & Crude Refined Futures, 382",A,Actant Intelligent Trading,224.0.31.130,10.64.254.1,Et15
+ACTANT-DC3-ACT-4-SF1,cme_globex30,"NYMEX Globex Crude & Crude Refined Options, 383",A,Actant Intelligent Trading,224.0.31.131,10.64.254.1,Et15
+ACTANT-DC3-ACT-4-SF1,cme_globex30,"COMEX Globex Futures, 360",A,Actant Intelligent Trading,224.0.31.192,10.64.254.1,Et15
+ACTANT-DC3-ACT-4-SF1,cme_globex30,"COMEX Globex Options, 361",A,Actant Intelligent Trading,224.0.31.193,10.64.254.1,Et15
+ACTANT-DC3-ACT-4-SF1,cme_globex30,"CME Globex Equity Options, 311",A,Actant Intelligent Trading,224.0.31.2,10.64.254.1,Et15
+ACTANT-DC3-ACT-1-SF2,cme_globex30,"CME Globex Interest Rate Futures, 312",A,Actant Intelligent Trading,224.0.31.3,10.64.254.2,Et19
+ACTANT-DC3-ACT-1-SF2,cme_globex30,"CME Globex Interest Rate Options, 313",A,Actant Intelligent Trading,224.0.31.4,10.64.254.2,Et19
+ACTANT-DC3-ACT-3-SF1,cme_globex30,"CBOT Globex Commodity Futures, 340",A,Actant Intelligent Trading,224.0.31.64,10.64.254.1,Et16
+ACTANT-DC3-ACT-3-SF1,cme_globex30,"CBOT Globex Commodity Options, 341",A,Actant Intelligent Trading,224.0.31.65,10.64.254.1,Et16
+ACTANT-DC3-ACT-4-SF1,cme_globex30,"CBOT Globex Interest Rate Futures, 344",A,Actant Intelligent Trading,224.0.31.68,10.64.254.1,Et15
+ACTANT-DC3-ACT-4-SF1,cme_globex30,"CBOT Globex Interest Rate Options, 345",A,Actant Intelligent Trading,224.0.31.69,10.64.254.1,Et15
+ACTANT-DC3-ACT-1-SF2,cme_globex30,"CBOT Globex Interest Rate Options, 345",A,Actant Intelligent Trading,224.0.31.69,10.64.254.2,Et19
+ACTANT-DC3-ACT-3-SF1,cme_globex30,"CME Globex Commodity Futures, 316",A,Actant Intelligent Trading,224.0.31.7,10.64.254.1,Et16
+ACTANT-DC3-ACT-2-SF1,cme_globex30,"CME Globex Commodity Futures, 316",A,Actant Intelligent Trading,224.0.31.7,10.64.254.1,Et17
+ACTANT-DC3-ACT-3-SF1,cme_globex30,"CBOT Globex Commodity Futures II, 346",A,Actant Intelligent Trading,224.0.31.70,10.64.254.1,Et16
+ACTANT-DC3-ACT-1-SF2,cme_globex30,"CBOT Globex Interest Rate Futures II, 348",A,Actant Intelligent Trading,224.0.31.71,10.64.254.2,Et19
+ACTANT-DC3-ACT-3-SF1,cme_globex30,"CME Globex Commodity Options, 317",A,Actant Intelligent Trading,224.0.31.8,10.64.254.1,Et16
+ACTANT-DC3-ACT-2-SF1,cme_globex30,"CME Globex Commodity Options, 317",A,Actant Intelligent Trading,224.0.31.8,10.64.254.1,Et17
+ACTANT-DC3-ACT-4-SF1,cme_globex30,"CME Globex Equity Futures - excludes E-mini S&P 500, 318",A,Actant Intelligent Trading,224.0.31.9,10.64.254.1,Et15
+ACTANT-DC3-ACT-4-SF1,cme_globex30,"CBOT Globex Interest Rate Options, 345",A,Actant Intelligent Trading,224.0.31.90,10.64.254.1,Et15
+ACTANT-DC3-ACT-4-SF1,cme_globex30,"CME Globex Equity Futures, 310",B,Actant Intelligent Trading,224.0.32.1,10.64.254.1,Et15
+ACTANT-DC3-ACT-4-SF1,cme_globex30,"CME Globex Equity Options - excludes E-mini S&P 500, 319",B,Actant Intelligent Trading,224.0.32.10,10.64.254.1,Et15
+ACTANT-DC3-ACT-4-SF1,cme_globex30,"NYMEX Globex Crude & Crude Refined Futures, 382",B,Actant Intelligent Trading,224.0.32.130,10.64.254.1,Et15
+ACTANT-DC3-ACT-4-SF1,cme_globex30,"NYMEX Globex Crude & Crude Refined Options, 383",B,Actant Intelligent Trading,224.0.32.131,10.64.254.1,Et15
+ACTANT-DC3-ACT-4-SF1,cme_globex30,"COMEX Globex Futures, 360",B,Actant Intelligent Trading,224.0.32.192,10.64.254.1,Et15
+ACTANT-DC3-ACT-4-SF1,cme_globex30,"COMEX Globex Options, 361",B,Actant Intelligent Trading,224.0.32.193,10.64.254.1,Et15
+ACTANT-DC3-ACT-4-SF1,cme_globex30,"CME Globex Equity Options, 311",B,Actant Intelligent Trading,224.0.32.2,10.64.254.1,Et15
+ACTANT-DC3-ACT-1-SF2,cme_globex30,"CME Globex Interest Rate Futures, 312",B,Actant Intelligent Trading,224.0.32.3,10.64.254.2,Et19
+ACTANT-DC3-ACT-1-SF2,cme_globex30,"CME Globex Interest Rate Options, 313",B,Actant Intelligent Trading,224.0.32.4,10.64.254.2,Et19
+ACTANT-DC3-ACT-3-SF1,cme_globex30,"CBOT Globex Commodity Futures, 340",B,Actant Intelligent Trading,224.0.32.64,10.64.254.1,Et16
+ACTANT-DC3-ACT-3-SF1,cme_globex30,"CBOT Globex Commodity Options, 341",B,Actant Intelligent Trading,224.0.32.65,10.64.254.1,Et16
+ACTANT-DC3-ACT-4-SF1,cme_globex30,"CBOT Globex Interest Rate Futures, 344",B,Actant Intelligent Trading,224.0.32.68,10.64.254.1,Et15
+ACTANT-DC3-ACT-4-SF1,cme_globex30,"CBOT Globex Interest Rate Options, 345",B,Actant Intelligent Trading,224.0.32.69,10.64.254.1,Et15
+ACTANT-DC3-ACT-1-SF2,cme_globex30,"CBOT Globex Interest Rate Options, 345",B,Actant Intelligent Trading,224.0.32.69,10.64.254.2,Et19
+ACTANT-DC3-ACT-3-SF1,cme_globex30,"CME Globex Commodity Futures, 316",B,Actant Intelligent Trading,224.0.32.7,10.64.254.1,Et16
+ACTANT-DC3-ACT-2-SF1,cme_globex30,"CME Globex Commodity Futures, 316",B,Actant Intelligent Trading,224.0.32.7,10.64.254.1,Et17
+ACTANT-DC3-ACT-3-SF1,cme_globex30,"CBOT Globex Commodity Futures II, 346",B,Actant Intelligent Trading,224.0.32.70,10.64.254.1,Et16
+ACTANT-DC3-ACT-1-SF2,cme_globex30,"CBOT Globex Interest Rate Futures II, 348",B,Actant Intelligent Trading,224.0.32.71,10.64.254.2,Et19
+ACTANT-DC3-ACT-3-SF1,cme_globex30,"CME Globex Commodity Options, 317",B,Actant Intelligent Trading,224.0.32.8,10.64.254.1,Et16
+ACTANT-DC3-ACT-2-SF1,cme_globex30,"CME Globex Commodity Options, 317",B,Actant Intelligent Trading,224.0.32.8,10.64.254.1,Et17
+ACTANT-DC3-ACT-4-SF1,cme_globex30,"CME Globex Equity Futures - excludes E-mini S&P 500, 318",B,Actant Intelligent Trading,224.0.32.9,10.64.254.1,Et15
+ACTANT-DC3-ACT-4-SF1,cme_globex30,"CBOT Globex Interest Rate Options, 345",B,Actant Intelligent Trading,224.0.32.90,10.64.254.1,Et15
+ACTANT-DC3-ACT-4-SF2,cboe_csm_standard,Line 7,B,Actant Intelligent Trading,233.103.126.198,10.64.254.2,Et15
+ACTANT-DC3-ACT-4-SF2,cboe_csm_strategy,Line 1,B,Actant Intelligent Trading,233.103.126.208,10.64.254.2,Et15
+ACTANT-DC3-ACT-4-SF2,cboe_csm_standard,Line 7,A,Actant Intelligent Trading,233.103.126.70,10.64.254.2,Et15
+ACTANT-DC3-ACT-4-SF2,cboe_csm_strategy,Line 1,A,Actant Intelligent Trading,233.103.126.80,10.64.254.2,Et15
+BUDO-DC3-TT-1-SF2,cme_globex30,"CME Globex Equity Futures, 310",B,"Budo Group, LLC",224.0.32.1,10.64.254.2,Et14
+BUDO-DC3-TT-1-SF2,cme_globex30,"CME Globex FX Futures II, 320",B,"Budo Group, LLC",224.0.32.11,10.64.254.2,Et14
+BUDO-DC3-TT-1-SF2,cme_globex30,"NYMEX Globex Crude & Crude Refined Futures, 382",B,"Budo Group, LLC",224.0.32.130,10.64.254.2,Et14
+BUDO-DC3-TT-1-SF2,cme_globex30,"NYMEX Globex Nat Gas & other Non-Crude Energy Futures, 386",B,"Budo Group, LLC",224.0.32.134,10.64.254.2,Et14
+BUDO-DC3-TT-1-SF2,cme_globex30,"COMEX Globex Futures, 360",B,"Budo Group, LLC",224.0.32.192,10.64.254.2,Et14
+BUDO-DC3-TT-1-SF2,cme_globex30,"CME Globex Interest Rate Futures, 312",B,"Budo Group, LLC",224.0.32.3,10.64.254.2,Et14
+BUDO-DC3-TT-1-SF2,cme_globex30,"CME Globex FX Futures, 314",B,"Budo Group, LLC",224.0.32.5,10.64.254.2,Et14
+BUDO-DC3-TT-1-SF2,cme_globex30,"CBOT Globex Commodity Futures, 340",B,"Budo Group, LLC",224.0.32.64,10.64.254.2,Et14
+BUDO-DC3-TT-1-SF2,cme_globex30,"CBOT Globex Interest Rate Futures, 344",B,"Budo Group, LLC",224.0.32.68,10.64.254.2,Et14
+BUDO-DC3-TT-1-SF2,cme_globex30,"CME Globex Commodity Futures, 316",B,"Budo Group, LLC",224.0.32.7,10.64.254.2,Et14
+BUDO-DC3-TT-1-SF2,cme_globex30,"CBOT Globex Commodity Futures II, 346",B,"Budo Group, LLC",224.0.32.70,10.64.254.2,Et14
+BUDO-DC3-TT-1-SF2,cme_globex30,"CBOT Globex Interest Rate Futures II, 348",B,"Budo Group, LLC",224.0.32.71,10.64.254.2,Et14
+BUDO-DC3-TT-1-SF2,cme_globex30,"CME Globex Equity Futures - excludes E-mini S&P 500, 318",B,"Budo Group, LLC",224.0.32.9,10.64.254.2,Et14
+BUDO-DC3-TT-1-SF2,cme_globex30,"DME Globex Futures, 440",B,"Budo Group, LLC",224.0.34.80,10.64.254.2,Et14
+CC-SEC2-PROD-1,not-found,not-found,not-found,C&C,239.192.99.9,10.10.129.2,Et17
+CC-SEC2-PROD-1,not-found,CNC-internal-multicast-groups,not-found,C&C,239.31.7.30,10.10.129.2,Et17
+CC-SEC2-PROD-2,not-found,CNC-internal-multicast-groups,not-found,C&C,239.31.7.30,10.10.129.2,Et18
+ELK-DC3-PROD-1-p1p1,cme_globex30,"CME Globex Equity Futures, 310",A,ELK,224.0.31.1,10.64.254.2,Et47
+ELK-DC3-PROD-1-p1p1,cme_globex30,"NYMEX Globex Crude & Crude Refined Futures, 382",A,ELK,224.0.31.130,10.64.254.2,Et47
+ELK-DC3-PROD-1-p1p1,cme_globex30,"NYMEX Globex Nat Gas & other Non-Crude Energy Futures, 386",A,ELK,224.0.31.134,10.64.254.2,Et47
+ELK-DC3-PROD-1-p1p1,cme_globex30,"COMEX Globex Futures, 360",A,ELK,224.0.31.192,10.64.254.2,Et47
+ELK-DC3-PROD-1-p1p1,cme_globex30,"COMEX Globex Options, 361",A,ELK,224.0.31.193,10.64.254.2,Et47
+ELK-DC3-PROD-1-p1p1,cme_globex30,"CBOT Globex Commodity Futures, 340",A,ELK,224.0.31.64,10.64.254.2,Et47
+ELK-DC3-PROD-1-p1p1,cme_globex30,"CBOT Globex Equity Index Futures, 342",A,ELK,224.0.31.66,10.64.254.2,Et47
+ELK-DC3-PROD-1-p1p1,cme_globex30,"CBOT Globex Commodity Futures II, 346",A,ELK,224.0.31.70,10.64.254.2,Et47
+ELK-DC3-PROD-1-p1p1,cme_globex30,"CME Globex Equity Futures - excludes E-mini S&P 500, 318",A,ELK,224.0.31.9,10.64.254.2,Et47
+GS-NY5-PROD-2-Port1,not-found,not-found,not-found,Geneva Securities,239.255.255.250,10.10.129.1,Et7
+KOT-DC3-ACT-1-SF1,not-found,not-found,not-found,Kottke Associates,233.58.54.255,10.64.254.1,Et21
+KOT-DC3-ACT-1-SF2,not-found,not-found,not-found,Kottke Associates,233.58.54.255,10.64.254.2,Et21
+MS-NY4-CAP-2-eth9,not-found,not-found,not-found,MayStreet LLC,224.0.1.129,10.75.128.9,Et27
+SM-NY4-LAE-9-eth1,bats_options,Session 1,A,"Sumo Capital, LLC",224.0.131.0,10.10.128.3,Et10
+SM-NY4-LAE-9-eth1,bats_options,Session 5,A,"Sumo Capital, LLC",224.0.131.1,10.10.128.3,Et10
+SM-NY4-LAE-9-eth1,bats_options,Session 1,A,"Sumo Capital, LLC",224.0.131.16,10.10.128.3,Et10
+SM-NY4-LAE-9-eth1,bats_options,Session 5,A,"Sumo Capital, LLC",224.0.131.17,10.10.128.3,Et10
+SM-NY4-LAE-9-eth1,bats_options,Session 9,A,"Sumo Capital, LLC",224.0.131.18,10.10.128.3,Et10
+SM-NY4-LAE-9-eth1,bats_options,Session 13,A,"Sumo Capital, LLC",224.0.131.19,10.10.128.3,Et10
+SM-NY4-LAE-9-eth1,bats_options,Session 9,A,"Sumo Capital, LLC",224.0.131.2,10.10.128.3,Et10
+SM-NY4-LAE-9-eth1,bats_options,Session 17,A,"Sumo Capital, LLC",224.0.131.20,10.10.128.3,Et10
+SM-NY4-LAE-9-eth1,bats_options,Session 21,A,"Sumo Capital, LLC",224.0.131.21,10.10.128.3,Et10
+SM-NY4-LAE-9-eth1,bats_options,Session 13,A,"Sumo Capital, LLC",224.0.131.3,10.10.128.3,Et10
+SM-NY4-LAE-9-eth1,bats_options,Session 17,A,"Sumo Capital, LLC",224.0.131.4,10.10.128.3,Et10
+SM-NY4-LAE-9-eth1,bats_options,Session 21,A,"Sumo Capital, LLC",224.0.131.5,10.10.128.3,Et10
+SM-NY4-LAE-5-eth1,bats_edgx_options,Session 1,A,"Sumo Capital, LLC",224.0.131.64,10.10.128.3,Et14
+SM-NY4-LAE-5-eth1,bats_edgx_options,Session 5,A,"Sumo Capital, LLC",224.0.131.65,10.10.128.3,Et14
+SM-NY4-LAE-5-eth1,bats_edgx_options,Session 9,A,"Sumo Capital, LLC",224.0.131.66,10.10.128.3,Et14
+SM-NY4-LAE-5-eth1,bats_edgx_options,Session 13,A,"Sumo Capital, LLC",224.0.131.67,10.10.128.3,Et14
+SM-NY4-LAE-5-eth1,bats_edgx_options,Session 17,A,"Sumo Capital, LLC",224.0.131.68,10.10.128.3,Et14
+SM-NY4-LAE-5-eth1,bats_edgx_options,Session 21,A,"Sumo Capital, LLC",224.0.131.69,10.10.128.3,Et14
+SM-NY4-LAE-5-eth1,bats_edgx_options,Session 1,A,"Sumo Capital, LLC",224.0.131.80,10.10.128.3,Et14
+SM-NY4-LAE-5-eth1,bats_edgx_options,Session 5,A,"Sumo Capital, LLC",224.0.131.81,10.10.128.3,Et14
+SM-NY4-LAE-5-eth1,bats_edgx_options,Session 9,A,"Sumo Capital, LLC",224.0.131.82,10.10.128.3,Et14
+SM-NY4-LAE-5-eth1,bats_edgx_options,Session 13,A,"Sumo Capital, LLC",224.0.131.83,10.10.128.3,Et14
+SM-NY4-LAE-5-eth1,bats_edgx_options,Session 16,A,"Sumo Capital, LLC",224.0.131.84,10.10.128.3,Et14
+SM-NY4-LAE-5-eth1,bats_edgx_options,Session 21,A,"Sumo Capital, LLC",224.0.131.85,10.10.128.3,Et14
+SUMO-DC3-LUK-1,cme_globex30,"CME Globex Equity Futures, 310",A,"Sumo Capital, LLC",224.0.31.1,10.64.254.1,Et39
+SM-DC3-JD-1-p1p2,cme_globex30,"CME Globex Equity Futures, 310",A,"Sumo Capital, LLC",224.0.31.1,10.64.254.1,Et46
+SUMO-DC3-LUK-1,cme_globex30,"CME Globex Equity Options - excludes E-mini S&P 500, 319",A,"Sumo Capital, LLC",224.0.31.10,10.64.254.1,Et39
+SM-DC3-JD-1-p1p2,cme_globex30,"CME Globex Equity Options - excludes E-mini S&P 500, 319",A,"Sumo Capital, LLC",224.0.31.10,10.64.254.1,Et46
+SUMO-DC3-LUK-1,cme_globex30,"CME Globex Equity Options, 311",A,"Sumo Capital, LLC",224.0.31.2,10.64.254.1,Et39
+SM-DC3-JD-1-p1p2,cme_globex30,"CME Globex Equity Options, 311",A,"Sumo Capital, LLC",224.0.31.2,10.64.254.1,Et46
+SUMO-DC3-LUK-1,cme_globex30,"CME Globex Equity Futures - excludes E-mini S&P 500, 318",A,"Sumo Capital, LLC",224.0.31.9,10.64.254.1,Et39
+SM-DC3-JD-1-p1p2,cme_globex30,"CME Globex Equity Futures - excludes E-mini S&P 500, 318",A,"Sumo Capital, LLC",224.0.31.9,10.64.254.1,Et46
+SM-NY4-LAE-10-eth1,cme_globex30,"CME Globex Equity Futures - excludes E-mini S&P 500, 318",A,"Sumo Capital, LLC",224.0.31.9,10.10.128.3,Et4
+SM-NY4-LAE-10-eth1,cme_globex30,"CME Globex Equity Futures - excludes E-mini S&P 500, 318",B,"Sumo Capital, LLC",224.0.32.9,10.10.128.3,Et4
+SM-NY4-SBM-1,cboe-csm,not-found,A,"Sumo Capital, LLC",233.103.126.172,10.75.128.11,Et23
+SM-NY5-STE-1,cboe-csm,not-found,A,"Sumo Capital, LLC",233.103.126.172,10.10.129.2,Et1
+SM-NY4-SBM-1,cboe-csm,not-found,A,"Sumo Capital, LLC",233.103.126.174,10.75.128.11,Et23
+SM-NY5-STE-1,cboe-csm,not-found,A,"Sumo Capital, LLC",233.103.126.174,10.10.129.2,Et1
+SM-NY4-LAE-10-eth1,cboe_csm_standard,Line 1,B,"Sumo Capital, LLC",233.103.126.192,10.10.128.3,Et4
+SM-NY4-LAE-3-eth1,cboe_csm_standard,Line 1,B,"Sumo Capital, LLC",233.103.126.192,10.10.128.3,Et18
+SM-NY4-LAW-1,cboe_csm_standard,Line 1,B,"Sumo Capital, LLC",233.103.126.192,10.75.128.11,Et39
+SM-NY4-LAW-2,cboe_csm_standard,Line 1,B,"Sumo Capital, LLC",233.103.126.192,10.75.128.11,Et44
+SM-NY4-LAE-10-eth1,cboe_csm_standard,Line 2,B,"Sumo Capital, LLC",233.103.126.193,10.10.128.3,Et4
+SM-NY4-LAE-3-eth1,cboe_csm_standard,Line 2,B,"Sumo Capital, LLC",233.103.126.193,10.10.128.3,Et18
+SM-NY4-LAW-1,cboe_csm_standard,Line 2,B,"Sumo Capital, LLC",233.103.126.193,10.75.128.11,Et39
+SM-NY4-LAW-2,cboe_csm_standard,Line 2,B,"Sumo Capital, LLC",233.103.126.193,10.75.128.11,Et44
+SM-NY4-LAE-10-eth1,cboe_csm_standard,Line 3,B,"Sumo Capital, LLC",233.103.126.194,10.10.128.3,Et4
+SM-NY4-LAE-3-eth1,cboe_csm_standard,Line 3,B,"Sumo Capital, LLC",233.103.126.194,10.10.128.3,Et18
+SM-NY4-LAW-1,cboe_csm_standard,Line 3,B,"Sumo Capital, LLC",233.103.126.194,10.75.128.11,Et39
+SM-NY4-LAW-2,cboe_csm_standard,Line 3,B,"Sumo Capital, LLC",233.103.126.194,10.75.128.11,Et44
+SM-NY4-LAE-10-eth1,cboe_csm_standard,Line 4,B,"Sumo Capital, LLC",233.103.126.195,10.10.128.3,Et4
+SM-NY4-LAE-3-eth1,cboe_csm_standard,Line 4,B,"Sumo Capital, LLC",233.103.126.195,10.10.128.3,Et18
+SM-NY4-LAW-1,cboe_csm_standard,Line 4,B,"Sumo Capital, LLC",233.103.126.195,10.75.128.11,Et39
+SM-NY4-LAW-2,cboe_csm_standard,Line 4,B,"Sumo Capital, LLC",233.103.126.195,10.75.128.11,Et44
+SM-NY4-LAE-10-eth1,cboe_csm_standard,Line 5,B,"Sumo Capital, LLC",233.103.126.196,10.10.128.3,Et4
+SM-NY4-LAE-3-eth1,cboe_csm_standard,Line 5,B,"Sumo Capital, LLC",233.103.126.196,10.10.128.3,Et18
+SM-NY4-LAW-1,cboe_csm_standard,Line 5,B,"Sumo Capital, LLC",233.103.126.196,10.75.128.11,Et39
+SM-NY4-LAW-2,cboe_csm_standard,Line 5,B,"Sumo Capital, LLC",233.103.126.196,10.75.128.11,Et44
+SM-NY4-LAE-10-eth1,cboe_csm_standard,Line 6,B,"Sumo Capital, LLC",233.103.126.197,10.10.128.3,Et4
+SM-NY4-LAE-3-eth1,cboe_csm_standard,Line 6,B,"Sumo Capital, LLC",233.103.126.197,10.10.128.3,Et18
+SM-NY4-LAW-1,cboe_csm_standard,Line 6,B,"Sumo Capital, LLC",233.103.126.197,10.75.128.11,Et39
+SM-NY4-LAW-2,cboe_csm_standard,Line 6,B,"Sumo Capital, LLC",233.103.126.197,10.75.128.11,Et44
+SM-NY4-LAE-10-eth1,cboe_csm_standard,Line 7,B,"Sumo Capital, LLC",233.103.126.198,10.10.128.3,Et4
+SM-NY4-LAE-3-eth1,cboe_csm_standard,Line 7,B,"Sumo Capital, LLC",233.103.126.198,10.10.128.3,Et18
+SM-NY4-LAW-1,cboe_csm_standard,Line 7,B,"Sumo Capital, LLC",233.103.126.198,10.75.128.11,Et39
+SM-NY4-LAW-2,cboe_csm_standard,Line 7,B,"Sumo Capital, LLC",233.103.126.198,10.75.128.11,Et44
+SM-NY4-LAE-10-eth1,cboe_csm_standard,Line 8,B,"Sumo Capital, LLC",233.103.126.199,10.10.128.3,Et4
+SM-NY4-LAE-3-eth1,cboe_csm_standard,Line 8,B,"Sumo Capital, LLC",233.103.126.199,10.10.128.3,Et18
+SM-NY4-LAW-1,cboe_csm_standard,Line 8,B,"Sumo Capital, LLC",233.103.126.199,10.75.128.11,Et39
+SM-NY4-LAW-2,cboe_csm_standard,Line 8,B,"Sumo Capital, LLC",233.103.126.199,10.75.128.11,Et44
+SM-NY4-LAE-10-eth1,cboe_csm_standard,Line 9,B,"Sumo Capital, LLC",233.103.126.200,10.10.128.3,Et4
+SM-NY4-LAE-3-eth1,cboe_csm_standard,Line 9,B,"Sumo Capital, LLC",233.103.126.200,10.10.128.3,Et18
+SM-NY4-LAW-1,cboe_csm_standard,Line 9,B,"Sumo Capital, LLC",233.103.126.200,10.75.128.11,Et39
+SM-NY4-LAW-2,cboe_csm_standard,Line 9,B,"Sumo Capital, LLC",233.103.126.200,10.75.128.11,Et44
+SM-NY4-LAE-10-eth1,cboe_csm_standard,Line 10,B,"Sumo Capital, LLC",233.103.126.201,10.10.128.3,Et4
+SM-NY4-LAE-3-eth1,cboe_csm_standard,Line 10,B,"Sumo Capital, LLC",233.103.126.201,10.10.128.3,Et18
+SM-NY4-LAW-1,cboe_csm_standard,Line 10,B,"Sumo Capital, LLC",233.103.126.201,10.75.128.11,Et39
+SM-NY4-LAW-2,cboe_csm_standard,Line 10,B,"Sumo Capital, LLC",233.103.126.201,10.75.128.11,Et44
+SM-NY4-LAE-10-eth1,cboe_csm_strategy,Line 1,B,"Sumo Capital, LLC",233.103.126.208,10.10.128.3,Et4
+SM-NY4-LAE-3-eth1,cboe_csm_strategy,Line 1,B,"Sumo Capital, LLC",233.103.126.208,10.10.128.3,Et18
+SM-NY4-LAW-1,cboe_csm_strategy,Line 1,B,"Sumo Capital, LLC",233.103.126.208,10.75.128.11,Et39
+SM-NY4-LAW-2,cboe_csm_strategy,Line 1,B,"Sumo Capital, LLC",233.103.126.208,10.75.128.11,Et44
+SM-NY4-SBM-1,cboe-csm,not-found,A,"Sumo Capital, LLC",233.103.126.44,10.75.128.11,Et23
+SM-NY5-STE-1,cboe-csm,not-found,A,"Sumo Capital, LLC",233.103.126.44,10.10.129.2,Et1
+SM-NY4-SBM-1,cboe-csm,not-found,A,"Sumo Capital, LLC",233.103.126.46,10.75.128.11,Et23
+SM-NY5-STE-1,cboe-csm,not-found,A,"Sumo Capital, LLC",233.103.126.46,10.10.129.2,Et1
+SM-NY4-LAE-10-eth1,cboe_csm_standard,Line 1,A,"Sumo Capital, LLC",233.103.126.64,10.10.128.3,Et4
+SM-NY4-LAE-3-eth1,cboe_csm_standard,Line 1,A,"Sumo Capital, LLC",233.103.126.64,10.10.128.3,Et18
+SM-NY4-LAW-1,cboe_csm_standard,Line 1,A,"Sumo Capital, LLC",233.103.126.64,10.75.128.11,Et39
+SM-NY4-LAW-2,cboe_csm_standard,Line 1,A,"Sumo Capital, LLC",233.103.126.64,10.75.128.11,Et44
+SM-NY4-LAE-10-eth1,cboe_csm_standard,Line 2,A,"Sumo Capital, LLC",233.103.126.65,10.10.128.3,Et4
+SM-NY4-LAE-3-eth1,cboe_csm_standard,Line 2,A,"Sumo Capital, LLC",233.103.126.65,10.10.128.3,Et18
+SM-NY4-LAW-1,cboe_csm_standard,Line 2,A,"Sumo Capital, LLC",233.103.126.65,10.75.128.11,Et39
+SM-NY4-LAW-2,cboe_csm_standard,Line 2,A,"Sumo Capital, LLC",233.103.126.65,10.75.128.11,Et44
+SM-DC3-JD-1-p1p2,cboe_csm_standard,Line 3,A,"Sumo Capital, LLC",233.103.126.66,10.64.254.1,Et46
+SM-NY4-LAE-10-eth1,cboe_csm_standard,Line 3,A,"Sumo Capital, LLC",233.103.126.66,10.10.128.3,Et4
+SM-NY4-LAE-3-eth1,cboe_csm_standard,Line 3,A,"Sumo Capital, LLC",233.103.126.66,10.10.128.3,Et18
+SM-NY4-LAW-1,cboe_csm_standard,Line 3,A,"Sumo Capital, LLC",233.103.126.66,10.75.128.11,Et39
+SM-NY4-LAW-2,cboe_csm_standard,Line 3,A,"Sumo Capital, LLC",233.103.126.66,10.75.128.11,Et44
+SM-NY4-LAE-10-eth1,cboe_csm_standard,Line 4,A,"Sumo Capital, LLC",233.103.126.67,10.10.128.3,Et4
+SM-NY4-LAE-3-eth1,cboe_csm_standard,Line 4,A,"Sumo Capital, LLC",233.103.126.67,10.10.128.3,Et18
+SM-NY4-LAW-1,cboe_csm_standard,Line 4,A,"Sumo Capital, LLC",233.103.126.67,10.75.128.11,Et39
+SM-NY4-LAW-2,cboe_csm_standard,Line 4,A,"Sumo Capital, LLC",233.103.126.67,10.75.128.11,Et44
+SM-NY4-LAE-10-eth1,cboe_csm_standard,Line 5,A,"Sumo Capital, LLC",233.103.126.68,10.10.128.3,Et4
+SM-NY4-LAE-3-eth1,cboe_csm_standard,Line 5,A,"Sumo Capital, LLC",233.103.126.68,10.10.128.3,Et18
+SM-NY4-LAW-1,cboe_csm_standard,Line 5,A,"Sumo Capital, LLC",233.103.126.68,10.75.128.11,Et39
+SM-NY4-LAW-2,cboe_csm_standard,Line 5,A,"Sumo Capital, LLC",233.103.126.68,10.75.128.11,Et44
+SM-DC3-JD-1-p1p2,cboe_csm_standard,Line 6,A,"Sumo Capital, LLC",233.103.126.69,10.64.254.1,Et46
+SM-NY4-LAE-10-eth1,cboe_csm_standard,Line 6,A,"Sumo Capital, LLC",233.103.126.69,10.10.128.3,Et4
+SM-NY4-LAE-3-eth1,cboe_csm_standard,Line 6,A,"Sumo Capital, LLC",233.103.126.69,10.10.128.3,Et18
+SUMO-DC3-LUK-1,cboe_csm_standard,Line 6,A,"Sumo Capital, LLC",233.103.126.69,10.64.254.2,Et39
+SM-NY4-LAW-1,cboe_csm_standard,Line 6,A,"Sumo Capital, LLC",233.103.126.69,10.75.128.11,Et39
+SM-NY4-LAW-2,cboe_csm_standard,Line 6,A,"Sumo Capital, LLC",233.103.126.69,10.75.128.11,Et44
+SM-DC3-JD-1-p1p2,cboe_csm_standard,Line 7,A,"Sumo Capital, LLC",233.103.126.70,10.64.254.1,Et46
+SM-NY4-LAE-10-eth1,cboe_csm_standard,Line 7,A,"Sumo Capital, LLC",233.103.126.70,10.10.128.3,Et4
+SM-NY4-LAE-3-eth1,cboe_csm_standard,Line 7,A,"Sumo Capital, LLC",233.103.126.70,10.10.128.3,Et18
+SUMO-DC3-LUK-1,cboe_csm_standard,Line 7,A,"Sumo Capital, LLC",233.103.126.70,10.64.254.2,Et39
+SM-NY4-LAW-1,cboe_csm_standard,Line 7,A,"Sumo Capital, LLC",233.103.126.70,10.75.128.11,Et39
+SM-NY4-LAW-2,cboe_csm_standard,Line 7,A,"Sumo Capital, LLC",233.103.126.70,10.75.128.11,Et44
+SM-NY4-LAE-10-eth1,cboe_csm_standard,Line 8,A,"Sumo Capital, LLC",233.103.126.71,10.10.128.3,Et4
+SM-NY4-LAE-3-eth1,cboe_csm_standard,Line 8,A,"Sumo Capital, LLC",233.103.126.71,10.10.128.3,Et18
+SM-NY4-LAW-1,cboe_csm_standard,Line 8,A,"Sumo Capital, LLC",233.103.126.71,10.75.128.11,Et39
+SM-NY4-LAW-2,cboe_csm_standard,Line 8,A,"Sumo Capital, LLC",233.103.126.71,10.75.128.11,Et44
+SM-NY4-LAE-10-eth1,cboe_csm_standard,Line 9,A,"Sumo Capital, LLC",233.103.126.72,10.10.128.3,Et4
+SM-NY4-LAE-3-eth1,cboe_csm_standard,Line 9,A,"Sumo Capital, LLC",233.103.126.72,10.10.128.3,Et18
+SM-NY4-LAW-1,cboe_csm_standard,Line 9,A,"Sumo Capital, LLC",233.103.126.72,10.75.128.11,Et39
+SM-NY4-LAW-2,cboe_csm_standard,Line 9,A,"Sumo Capital, LLC",233.103.126.72,10.75.128.11,Et44
+SM-NY4-LAE-10-eth1,cboe_csm_standard,Line 10,A,"Sumo Capital, LLC",233.103.126.73,10.10.128.3,Et4
+SM-NY4-LAE-3-eth1,cboe_csm_standard,Line 10,A,"Sumo Capital, LLC",233.103.126.73,10.10.128.3,Et18
+SM-NY4-LAW-1,cboe_csm_standard,Line 10,A,"Sumo Capital, LLC",233.103.126.73,10.75.128.11,Et39
+SM-NY4-LAW-2,cboe_csm_standard,Line 10,A,"Sumo Capital, LLC",233.103.126.73,10.75.128.11,Et44
+SUMO-DC3-LUK-1,cboe_csm_standard,Security Definitions,A,"Sumo Capital, LLC",233.103.126.79,10.64.254.2,Et39
+SM-DC3-JD-1-p1p2,cboe_csm_strategy,Line 1,A,"Sumo Capital, LLC",233.103.126.80,10.64.254.1,Et46
+SM-NY4-LAE-10-eth1,cboe_csm_strategy,Line 1,A,"Sumo Capital, LLC",233.103.126.80,10.10.128.3,Et4
+SM-NY4-LAE-3-eth1,cboe_csm_strategy,Line 1,A,"Sumo Capital, LLC",233.103.126.80,10.10.128.3,Et18
+SM-NY4-LAW-1,cboe_csm_strategy,Line 1,A,"Sumo Capital, LLC",233.103.126.80,10.75.128.11,Et39
+SM-NY4-LAW-2,cboe_csm_strategy,Line 1,A,"Sumo Capital, LLC",233.103.126.80,10.75.128.11,Et44
+SM-CAR-LAE-4,phlx_topo_quotes,not-found,A,"Sumo Capital, LLC",233.47.179.104,10.66.254.5,Et14
+SM-CAR-LAW-1,phlx_topo_quotes,not-found,A,"Sumo Capital, LLC",233.47.179.104,10.66.254.5,Et38
+SM-CAR-LAW-2,phlx_topo_quotes,not-found,A,"Sumo Capital, LLC",233.47.179.104,10.66.254.5,Et39
+SM-CAR-LAE-4,phlx_topo_quotes,not-found,A,"Sumo Capital, LLC",233.47.179.105,10.66.254.5,Et14
+SM-CAR-LAW-1,phlx_topo_quotes,not-found,A,"Sumo Capital, LLC",233.47.179.105,10.66.254.5,Et38
+SM-CAR-LAW-2,phlx_topo_quotes,not-found,A,"Sumo Capital, LLC",233.47.179.105,10.66.254.5,Et39
+SM-CAR-LAE-4,phlx_topo_quotes,not-found,A,"Sumo Capital, LLC",233.47.179.106,10.66.254.5,Et14
+SM-CAR-LAW-1,phlx_topo_quotes,not-found,A,"Sumo Capital, LLC",233.47.179.106,10.66.254.5,Et38
+SM-CAR-LAW-2,phlx_topo_quotes,not-found,A,"Sumo Capital, LLC",233.47.179.106,10.66.254.5,Et39
+SM-CAR-LAE-4,phlx_topo_quotes,not-found,A,"Sumo Capital, LLC",233.47.179.107,10.66.254.5,Et14
+SM-CAR-LAW-1,phlx_topo_quotes,not-found,A,"Sumo Capital, LLC",233.47.179.107,10.66.254.5,Et38
+SM-CAR-LAW-2,phlx_topo_quotes,not-found,A,"Sumo Capital, LLC",233.47.179.107,10.66.254.5,Et39
+SM-CAR-LAE-4,phlx_topo_quotes,not-found,A,"Sumo Capital, LLC",233.47.179.108,10.66.254.5,Et14
+SM-CAR-LAW-1,phlx_topo_quotes,not-found,A,"Sumo Capital, LLC",233.47.179.108,10.66.254.5,Et38
+SM-CAR-LAW-2,phlx_topo_quotes,not-found,A,"Sumo Capital, LLC",233.47.179.108,10.66.254.5,Et39
+SM-CAR-LAE-4,phlx_topo_quotes,not-found,A,"Sumo Capital, LLC",233.47.179.109,10.66.254.5,Et14
+SM-CAR-LAW-1,phlx_topo_quotes,not-found,A,"Sumo Capital, LLC",233.47.179.109,10.66.254.5,Et38
+SM-CAR-LAW-2,phlx_topo_quotes,not-found,A,"Sumo Capital, LLC",233.47.179.109,10.66.254.5,Et39
+SM-CAR-LAE-4,phlx_topo_quotes,not-found,A,"Sumo Capital, LLC",233.47.179.110,10.66.254.5,Et14
+SM-CAR-LAW-1,phlx_topo_quotes,not-found,A,"Sumo Capital, LLC",233.47.179.110,10.66.254.5,Et38
+SM-CAR-LAW-2,phlx_topo_quotes,not-found,A,"Sumo Capital, LLC",233.47.179.110,10.66.254.5,Et39
+SM-CAR-LAE-4,phlx_topo_quotes,not-found,A,"Sumo Capital, LLC",233.47.179.111,10.66.254.5,Et14
+SM-CAR-LAW-1,phlx_topo_quotes,not-found,A,"Sumo Capital, LLC",233.47.179.111,10.66.254.5,Et38
+SM-CAR-LAW-2,phlx_topo_quotes,not-found,A,"Sumo Capital, LLC",233.47.179.111,10.66.254.5,Et39
+SM-CAR-LAE-4,phlx_topo_trades,not-found,A,"Sumo Capital, LLC",233.47.179.112,10.66.254.5,Et14
+SM-CAR-LAW-1,phlx_topo_trades,not-found,A,"Sumo Capital, LLC",233.47.179.112,10.66.254.5,Et38
+SM-CAR-LAW-2,phlx_topo_trades,not-found,A,"Sumo Capital, LLC",233.47.179.112,10.66.254.5,Et39
+SM-CAR-LAE-4,phlx_topo_trades,not-found,A,"Sumo Capital, LLC",233.47.179.113,10.66.254.5,Et14
+SM-CAR-LAW-1,phlx_topo_trades,not-found,A,"Sumo Capital, LLC",233.47.179.113,10.66.254.5,Et38
+SM-CAR-LAW-2,phlx_topo_trades,not-found,A,"Sumo Capital, LLC",233.47.179.113,10.66.254.5,Et39
+SM-CAR-LAE-4,phlx_topo_trades,not-found,A,"Sumo Capital, LLC",233.47.179.114,10.66.254.5,Et14
+SM-CAR-LAW-1,phlx_topo_trades,not-found,A,"Sumo Capital, LLC",233.47.179.114,10.66.254.5,Et38
+SM-CAR-LAW-2,phlx_topo_trades,not-found,A,"Sumo Capital, LLC",233.47.179.114,10.66.254.5,Et39
+SM-CAR-LAE-4,phlx_topo_trades,not-found,A,"Sumo Capital, LLC",233.47.179.115,10.66.254.5,Et14
+SM-CAR-LAW-1,phlx_topo_trades,not-found,A,"Sumo Capital, LLC",233.47.179.115,10.66.254.5,Et38
+SM-CAR-LAW-2,phlx_topo_trades,not-found,A,"Sumo Capital, LLC",233.47.179.115,10.66.254.5,Et39
+SM-CAR-LAE-4,phlx_topo_trades,not-found,A,"Sumo Capital, LLC",233.47.179.116,10.66.254.5,Et14
+SM-CAR-LAW-1,phlx_topo_trades,not-found,A,"Sumo Capital, LLC",233.47.179.116,10.66.254.5,Et38
+SM-CAR-LAW-2,phlx_topo_trades,not-found,A,"Sumo Capital, LLC",233.47.179.116,10.66.254.5,Et39
+SM-CAR-LAE-4,phlx_topo_trades,not-found,A,"Sumo Capital, LLC",233.47.179.117,10.66.254.5,Et14
+SM-CAR-LAW-1,phlx_topo_trades,not-found,A,"Sumo Capital, LLC",233.47.179.117,10.66.254.5,Et38
+SM-CAR-LAW-2,phlx_topo_trades,not-found,A,"Sumo Capital, LLC",233.47.179.117,10.66.254.5,Et39
+SM-CAR-LAE-4,phlx_topo_trades,not-found,A,"Sumo Capital, LLC",233.47.179.118,10.66.254.5,Et14
+SM-CAR-LAW-1,phlx_topo_trades,not-found,A,"Sumo Capital, LLC",233.47.179.118,10.66.254.5,Et38
+SM-CAR-LAW-2,phlx_topo_trades,not-found,A,"Sumo Capital, LLC",233.47.179.118,10.66.254.5,Et39
+SM-CAR-LAE-4,phlx_topo_trades,not-found,A,"Sumo Capital, LLC",233.47.179.119,10.66.254.5,Et14
+SM-CAR-LAW-1,phlx_topo_trades,not-found,A,"Sumo Capital, LLC",233.47.179.119,10.66.254.5,Et38
+SM-CAR-LAW-2,phlx_topo_trades,not-found,A,"Sumo Capital, LLC",233.47.179.119,10.66.254.5,Et39
+SM-CAR-LAE-4,phlx_orders_simple,not-found,A,"Sumo Capital, LLC",233.47.179.120,10.66.254.5,Et14
+SM-CAR-LAW-1,phlx_orders_simple,not-found,A,"Sumo Capital, LLC",233.47.179.120,10.66.254.5,Et38
+SM-CAR-LAW-2,phlx_orders_simple,not-found,A,"Sumo Capital, LLC",233.47.179.120,10.66.254.5,Et39
+SM-CAR-LAE-4,phlx_orders_simple,not-found,A,"Sumo Capital, LLC",233.47.179.121,10.66.254.5,Et14
+SM-CAR-LAW-1,phlx_orders_simple,not-found,A,"Sumo Capital, LLC",233.47.179.121,10.66.254.5,Et38
+SM-CAR-LAW-2,phlx_orders_simple,not-found,A,"Sumo Capital, LLC",233.47.179.121,10.66.254.5,Et39
+SM-CAR-LAE-4,phlx_orders_simple,not-found,A,"Sumo Capital, LLC",233.47.179.122,10.66.254.5,Et14
+SM-CAR-LAW-1,phlx_orders_simple,not-found,A,"Sumo Capital, LLC",233.47.179.122,10.66.254.5,Et38
+SM-CAR-LAW-2,phlx_orders_simple,not-found,A,"Sumo Capital, LLC",233.47.179.122,10.66.254.5,Et39
+SM-CAR-LAE-4,phlx_orders_simple,not-found,A,"Sumo Capital, LLC",233.47.179.123,10.66.254.5,Et14
+SM-CAR-LAW-1,phlx_orders_simple,not-found,A,"Sumo Capital, LLC",233.47.179.123,10.66.254.5,Et38
+SM-CAR-LAW-2,phlx_orders_simple,not-found,A,"Sumo Capital, LLC",233.47.179.123,10.66.254.5,Et39
+SM-CAR-LAE-4,phlx_orders_complex,not-found,A,"Sumo Capital, LLC",233.47.179.124,10.66.254.5,Et14
+SM-CAR-LAW-1,phlx_orders_complex,not-found,A,"Sumo Capital, LLC",233.47.179.124,10.66.254.5,Et38
+SM-CAR-LAW-2,phlx_orders_complex,not-found,A,"Sumo Capital, LLC",233.47.179.124,10.66.254.5,Et39
+SM-CAR-LAE-4,phlx_orders_complex,not-found,A,"Sumo Capital, LLC",233.47.179.125,10.66.254.5,Et14
+SM-CAR-LAW-1,phlx_orders_complex,not-found,A,"Sumo Capital, LLC",233.47.179.125,10.66.254.5,Et38
+SM-CAR-LAW-2,phlx_orders_complex,not-found,A,"Sumo Capital, LLC",233.47.179.125,10.66.254.5,Et39
+SM-CAR-LAE-4,phlx_orders_complex,not-found,A,"Sumo Capital, LLC",233.47.179.126,10.66.254.5,Et14
+SM-CAR-LAW-1,phlx_orders_complex,not-found,A,"Sumo Capital, LLC",233.47.179.126,10.66.254.5,Et38
+SM-CAR-LAW-2,phlx_orders_complex,not-found,A,"Sumo Capital, LLC",233.47.179.126,10.66.254.5,Et39
+SM-CAR-LAE-4,phlx_orders_complex,not-found,A,"Sumo Capital, LLC",233.47.179.127,10.66.254.5,Et14
+SM-CAR-LAW-1,phlx_orders_complex,not-found,A,"Sumo Capital, LLC",233.47.179.127,10.66.254.5,Et38
+SM-CAR-LAW-2,phlx_orders_complex,not-found,A,"Sumo Capital, LLC",233.47.179.127,10.66.254.5,Et39
+SM-CAR-LAE-1,Nasdaq MRX Top Quote Feed,Broadcast - Channel 1 (A-D),A,"Sumo Capital, LLC",233.54.12.192,10.66.254.5,Et6
+SM-CAR-LAE-1,Nasdaq MRX Top Quote Feed,Broadcast - Channel 2 (E-J),A,"Sumo Capital, LLC",233.54.12.193,10.66.254.5,Et6
+SM-CAR-LAE-1,Nasdaq MRX Top Quote Feed,Broadcast - Channel 3 (K-R),A,"Sumo Capital, LLC",233.54.12.194,10.66.254.5,Et6
+SM-CAR-LAE-1,Nasdaq MRX Top Quote Feed,Broadcast - Channel 4 (S-Z),A,"Sumo Capital, LLC",233.54.12.195,10.66.254.5,Et6
+SM-NY4-SBM-1,cfe_csm_standard_enhanced,Line 1,B,"Sumo Capital, LLC",233.65.120.192,10.75.128.11,Et23
+SM-NY5-STE-1,cfe_csm_standard_enhanced,Line 1,B,"Sumo Capital, LLC",233.65.120.192,10.10.129.2,Et1
+SM-NY4-SBM-1,cfe_csm_strategy_enhanced,Line 1,B,"Sumo Capital, LLC",233.65.120.194,10.75.128.11,Et23
+SM-NY5-STE-1,cfe_csm_strategy_enhanced,Line 1,B,"Sumo Capital, LLC",233.65.120.194,10.10.129.2,Et1
+SM-NY4-SBM-1,cfe_csm_standard_enhanced,Line 1,A,"Sumo Capital, LLC",233.65.120.64,10.75.128.11,Et23
+SM-NY5-STE-1,cfe_csm_standard_enhanced,Line 1,A,"Sumo Capital, LLC",233.65.120.64,10.10.129.2,Et1
+SM-NY4-SBM-1,cfe_csm_strategy_enhanced,Line 1,A,"Sumo Capital, LLC",233.65.120.66,10.75.128.11,Et23
+SM-NY5-STE-1,cfe_csm_strategy_enhanced,Line 1,A,"Sumo Capital, LLC",233.65.120.66,10.10.129.2,Et1
+GrandMasterClock,not-found,not-found,not-found,Victory Networks,224.0.1.129,10.64.254.1,Et52
+VN-DC3-PC-1-P5P1-SPAN,not-found,not-found,not-found,Victory Networks,224.0.1.129,10.64.254.2,Et35
+VN-CAR-CAP-1-eth4-PTP,not-found,not-found,not-found,Victory Networks,224.0.1.129,10.66.254.5,Et12
+VN-NY5-LF-4,not-found,not-found,not-found,Victory Networks,224.0.1.40,10.10.129.1,Et2
+VN-DC3-PC-1-P4P1,impact_bas_fod,ICE Futures Europe (Liffe) STIRS Other FOD,A,Victory Networks,224.0.126.0,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_bas_top5,ICE Futures Europe (Liffe) STIRS Other TOP5PL,A,Victory Networks,224.0.126.1,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_bas_fod,ICE Futures Europe (Liffe) Three Month Euro and EONIA FOD Full Implied,A,Victory Networks,224.0.126.10,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_bas_top5,ICE Futures Europe (Liffe) Three Month Euro and EONIA TOP5PL Full Implied,A,Victory Networks,224.0.126.11,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_bas_fod,ICE Futures Europe (Liffe) Medium and Long Term IR FOD Full Implied,A,Victory Networks,224.0.126.12,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_bas_top5,ICE Futures Europe (Liffe) Medium and Long Term IR TOP5PL Full Implied,A,Victory Networks,224.0.126.13,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_bas_fod,ICE Futures Europe (Liffe) Equity and Indices FOD Full Implied,A,Victory Networks,224.0.126.14,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_bas_top5,ICE Futures Europe (Liffe) Equity and Indices TOP5PL Full Implied,A,Victory Networks,224.0.126.15,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_bas_opt_tob,ICE Futures Europe (Liffe) Financial Options TOB,A,Victory Networks,224.0.126.16,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_bas_top10,ICE Futures Europe (Liffe) Financial Options TOP10PL,A,Victory Networks,224.0.126.17,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_bas_opt_tob,ICE Futures Europe (Liffe) Index Options TOB,A,Victory Networks,224.0.126.18,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_bas_top10,ICE Futures Europe (Liffe) Index Options TOP10PL,A,Victory Networks,224.0.126.19,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_bas_fod,ICE Futures Europe (Liffe) Three Month Euro and EONIA FOD,A,Victory Networks,224.0.126.2,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_bas_opt_tob,ICE Futures Europe (Liffe) Equity Options TOB,A,Victory Networks,224.0.126.20,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_bas_top10,ICE Futures Europe (Liffe) Equity Options TOP10PL,A,Victory Networks,224.0.126.21,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_bas_top5,ICE Futures Europe (Liffe) Three Month Euro and EONIA TOP5PL,A,Victory Networks,224.0.126.3,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_bas_fod,ICE Futures Europe (Liffe) Medium and Long Term IR FOD,A,Victory Networks,224.0.126.4,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_bas_top5,ICE Futures Europe (Liffe) Medium and Long Term IR TOP5PL,A,Victory Networks,224.0.126.5,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_bas_fod,ICE Futures Europe (Liffe) Equity and Indices FOD,A,Victory Networks,224.0.126.6,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_bas_top5,ICE Futures Europe (Liffe) Equity and Indices TOP5PL Updates,A,Victory Networks,224.0.126.7,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_bas_fod,ICE Futures Europe (Liffe) STIRS Other FOD Full Implied,A,Victory Networks,224.0.126.8,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_bas_top5,ICE Futures Europe (Liffe) STIRS Other TOP5PL Full Implied,A,Victory Networks,224.0.126.9,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_bas_fod,ICE Futures Europe (Liffe) STIRS Other FOD,A,Victory Networks,224.0.127.0,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_bas_top5,ICE Futures Europe (Liffe) STIRS Other TOP5PL,A,Victory Networks,224.0.127.1,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_bas_fod,ICE Futures Europe (Liffe) Three Month Euro and EONIA FOD Full Implied,A,Victory Networks,224.0.127.10,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_bas_top5,ICE Futures Europe (Liffe) Three Month Euro and EONIA TOP5PL Full Implied,A,Victory Networks,224.0.127.11,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_bas_fod,ICE Futures Europe (Liffe) Medium and Long Term IR FOD Full Implied,A,Victory Networks,224.0.127.12,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_bas_top5,ICE Futures Europe (Liffe) Medium and Long Term IR TOP5PL Full Implied,A,Victory Networks,224.0.127.13,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_bas_fod,ICE Futures Europe (Liffe) Equity and Indices FOD Full Implied,A,Victory Networks,224.0.127.14,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_bas_top5,ICE Futures Europe (Liffe) Equity and Indices TOP5PL Full Implied,A,Victory Networks,224.0.127.15,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_bas_opt_tob,ICE Futures Europe (Liffe) Financial Options TOB,A,Victory Networks,224.0.127.16,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_bas_top10,ICE Futures Europe (Liffe) Financial Options TOP10PL,A,Victory Networks,224.0.127.17,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_bas_opt_tob,ICE Futures Europe (Liffe) Index Options TOB,A,Victory Networks,224.0.127.18,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_bas_top10,ICE Futures Europe (Liffe) Index Options TOP10PL,A,Victory Networks,224.0.127.19,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_bas_fod,ICE Futures Europe (Liffe) Three Month Euro and EONIA FOD,A,Victory Networks,224.0.127.2,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_bas_opt_tob,ICE Futures Europe (Liffe) Equity Options TOB,A,Victory Networks,224.0.127.20,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_bas_top10,ICE Futures Europe (Liffe) Equity Options TOP10PL,A,Victory Networks,224.0.127.21,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_bas_top5,ICE Futures Europe (Liffe) Three Month Euro and EONIA TOP5PL,A,Victory Networks,224.0.127.3,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_bas_fod,ICE Futures Europe (Liffe) Medium and Long Term IR FOD,A,Victory Networks,224.0.127.4,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_bas_top5,ICE Futures Europe (Liffe) Medium and Long Term IR TOP5PL,A,Victory Networks,224.0.127.5,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_bas_fod,ICE Futures Europe (Liffe) Equity and Indices FOD,A,Victory Networks,224.0.127.6,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_bas_top5,ICE Futures Europe (Liffe) Equity and Indices TOP5PL Updates,A,Victory Networks,224.0.127.7,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_bas_fod,ICE Futures Europe (Liffe) STIRS Other FOD Full Implied,A,Victory Networks,224.0.127.8,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_bas_top5,ICE Futures Europe (Liffe) STIRS Other TOP5PL Full Implied,A,Victory Networks,224.0.127.9,10.64.254.1,Et34
+VN-NY4-CAP-2-eth6,bats_edga,Session 1,A,Victory Networks,224.0.130.0,10.75.128.9,Et15
+VN-NY4-TP-6-p3p2,bats_edga,Session 1,A,Victory Networks,224.0.130.0,10.75.128.9,Et17
+VN-NY4-CAP-2-eth6,bats_edga,Session 5,A,Victory Networks,224.0.130.1,10.75.128.9,Et15
+VN-NY4-TP-6-p3p2,bats_edga,Session 5,A,Victory Networks,224.0.130.1,10.75.128.9,Et17
+VN-NY4-CAP-2-eth6,bzx,not-found,A,Victory Networks,224.0.130.128,10.75.128.9,Et15
+VN-NY4-TP-6-p3p2,bzx,not-found,A,Victory Networks,224.0.130.128,10.75.128.9,Et17
+VN-NY4-CAP-2-eth6,bzx,not-found,A,Victory Networks,224.0.130.129,10.75.128.9,Et15
+VN-NY4-TP-6-p3p2,bzx,not-found,A,Victory Networks,224.0.130.129,10.75.128.9,Et17
+VN-NY4-CAP-2-eth6,bzx,not-found,A,Victory Networks,224.0.130.130,10.75.128.9,Et15
+VN-NY4-TP-6-p3p2,bzx,not-found,A,Victory Networks,224.0.130.130,10.75.128.9,Et17
+VN-NY4-CAP-2-eth6,bzx,not-found,A,Victory Networks,224.0.130.131,10.75.128.9,Et15
+VN-NY4-TP-6-p3p2,bzx,not-found,A,Victory Networks,224.0.130.131,10.75.128.9,Et17
+VN-NY4-CAP-2-eth6,bzx,not-found,A,Victory Networks,224.0.130.132,10.75.128.9,Et15
+VN-NY4-TP-6-p2p2,bzx,not-found,A,Victory Networks,224.0.130.132,10.75.128.9,Et18
+VN-NY4-CAP-2-eth6,bzx,not-found,A,Victory Networks,224.0.130.133,10.75.128.9,Et15
+VN-NY4-TP-6-p2p2,bzx,not-found,A,Victory Networks,224.0.130.133,10.75.128.9,Et18
+VN-NY4-CAP-2-eth6,bzx,not-found,A,Victory Networks,224.0.130.134,10.75.128.9,Et15
+VN-NY4-TP-6-p2p2,bzx,not-found,A,Victory Networks,224.0.130.134,10.75.128.9,Et18
+VN-NY4-CAP-2-eth6,bzx,not-found,A,Victory Networks,224.0.130.135,10.75.128.9,Et15
+VN-NY4-TP-6-p2p2,bzx,not-found,A,Victory Networks,224.0.130.135,10.75.128.9,Et18
+VN-NY4-CAP-2-eth6,bzx,all BATS securities,A,Victory Networks,224.0.130.136,10.75.128.9,Et15
+VN-NY4-TP-6-p2p2,bzx,all BATS securities,A,Victory Networks,224.0.130.136,10.75.128.9,Et18
+VN-NY4-CAP-2-eth6,byx,Session 1,A,Victory Networks,224.0.130.192,10.75.128.9,Et15
+VN-NY4-TP-6-p3p2,byx,Session 1,A,Victory Networks,224.0.130.192,10.75.128.9,Et17
+VN-NY4-CAP-2-eth6,byx,Session 5,A,Victory Networks,224.0.130.193,10.75.128.9,Et15
+VN-NY4-TP-6-p3p2,byx,Session 5,A,Victory Networks,224.0.130.193,10.75.128.9,Et17
+VN-NY4-CAP-2-eth6,byx,Session 9,A,Victory Networks,224.0.130.194,10.75.128.9,Et15
+VN-NY4-TP-6-p3p2,byx,Session 9,A,Victory Networks,224.0.130.194,10.75.128.9,Et17
+VN-NY4-CAP-2-eth6,byx,Session 13,A,Victory Networks,224.0.130.195,10.75.128.9,Et15
+VN-NY4-TP-6-p3p2,byx,Session 13,A,Victory Networks,224.0.130.195,10.75.128.9,Et17
+VN-NY4-CAP-2-eth6,byx,Session 17,A,Victory Networks,224.0.130.196,10.75.128.9,Et15
+VN-NY4-TP-6-p2p2,byx,Session 17,A,Victory Networks,224.0.130.196,10.75.128.9,Et18
+VN-NY4-CAP-2-eth6,byx,Session 21,A,Victory Networks,224.0.130.197,10.75.128.9,Et15
+VN-NY4-TP-6-p2p2,byx,Session 21,A,Victory Networks,224.0.130.197,10.75.128.9,Et18
+VN-NY4-CAP-2-eth6,byx,Session 25,A,Victory Networks,224.0.130.198,10.75.128.9,Et15
+VN-NY4-TP-6-p2p2,byx,Session 25,A,Victory Networks,224.0.130.198,10.75.128.9,Et18
+VN-NY4-CAP-2-eth6,byx,Session 29,A,Victory Networks,224.0.130.199,10.75.128.9,Et15
+VN-NY4-TP-6-p2p2,byx,Session 29,A,Victory Networks,224.0.130.199,10.75.128.9,Et18
+VN-NY4-CAP-2-eth6,bats_edga,Session 9,A,Victory Networks,224.0.130.2,10.75.128.9,Et15
+VN-NY4-TP-6-p3p2,bats_edga,Session 9,A,Victory Networks,224.0.130.2,10.75.128.9,Et17
+VN-NY4-CAP-2-eth6,bats_edga,Session 13,A,Victory Networks,224.0.130.3,10.75.128.9,Et15
+VN-NY4-TP-6-p3p2,bats_edga,Session 13,A,Victory Networks,224.0.130.3,10.75.128.9,Et17
+VN-NY4-CAP-2-eth6,bats_edga,Session 17,A,Victory Networks,224.0.130.4,10.75.128.9,Et15
+VN-NY4-TP-6-p2p2,bats_edga,Session 17,A,Victory Networks,224.0.130.4,10.75.128.9,Et18
+VN-NY4-CAP-2-eth6,bats_edga,Session 21,A,Victory Networks,224.0.130.5,10.75.128.9,Et15
+VN-NY4-TP-6-p2p2,bats_edga,Session 21,A,Victory Networks,224.0.130.5,10.75.128.9,Et18
+VN-NY4-CAP-2-eth6,bats_edga,Session 25,A,Victory Networks,224.0.130.6,10.75.128.9,Et15
+VN-NY4-TP-6-p2p2,bats_edga,Session 25,A,Victory Networks,224.0.130.6,10.75.128.9,Et18
+VN-NY4-CAP-2-eth6,bats_edgx,Session 1,A,Victory Networks,224.0.130.64,10.75.128.9,Et15
+VN-NY4-TP-6-p3p2,bats_edgx,Session 1,A,Victory Networks,224.0.130.64,10.75.128.9,Et17
+VN-NY4-CAP-2-eth6,bats_edgx,Session 5,A,Victory Networks,224.0.130.65,10.75.128.9,Et15
+VN-NY4-TP-6-p3p2,bats_edgx,Session 5,A,Victory Networks,224.0.130.65,10.75.128.9,Et17
+VN-NY4-CAP-2-eth6,bats_edgx,Session 9,A,Victory Networks,224.0.130.66,10.75.128.9,Et15
+VN-NY4-TP-6-p3p2,bats_edgx,Session 9,A,Victory Networks,224.0.130.66,10.75.128.9,Et17
+VN-NY4-CAP-2-eth6,bats_edgx,Session 13,A,Victory Networks,224.0.130.67,10.75.128.9,Et15
+VN-NY4-TP-6-p3p2,bats_edgx,Session 13,A,Victory Networks,224.0.130.67,10.75.128.9,Et17
+VN-NY4-CAP-2-eth6,bats_edgx,Session 17,A,Victory Networks,224.0.130.68,10.75.128.9,Et15
+VN-NY4-TP-6-p2p2,bats_edgx,Session 17,A,Victory Networks,224.0.130.68,10.75.128.9,Et18
+VN-NY4-CAP-2-eth6,bats_edgx,Session 21,A,Victory Networks,224.0.130.69,10.75.128.9,Et15
+VN-NY4-TP-6-p2p2,bats_edgx,Session 21,A,Victory Networks,224.0.130.69,10.75.128.9,Et18
+VN-NY4-CAP-2-eth6,bats_edga,Session 29,A,Victory Networks,224.0.130.7,10.75.128.9,Et15
+VN-NY4-TP-6-p2p2,bats_edga,Session 29,A,Victory Networks,224.0.130.7,10.75.128.9,Et18
+VN-NY4-CAP-2-eth6,bats_edgx,Session 25,A,Victory Networks,224.0.130.70,10.75.128.9,Et15
+VN-NY4-TP-6-p2p2,bats_edgx,Session 25,A,Victory Networks,224.0.130.70,10.75.128.9,Et18
+VN-NY4-CAP-2-eth6,bats_edgx,Session 29,A,Victory Networks,224.0.130.71,10.75.128.9,Et15
+VN-NY4-TP-6-p2p2,bats_edgx,Session 29,A,Victory Networks,224.0.130.71,10.75.128.9,Et18
+VN-NY4-CAP-2-eth6,bats_options,Session 1,A,Victory Networks,224.0.131.0,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,bats_options,Session 5,A,Victory Networks,224.0.131.1,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,not-found,not-found,not-found,Victory Networks,224.0.131.132,10.75.128.9,Et15
+VN-NY4-CAP-2-eth7,not-found,not-found,not-found,Victory Networks,224.0.131.132,10.75.128.4,Et37
+VN-NY4-CAP-2-eth6,not-found,not-found,not-found,Victory Networks,224.0.131.134,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,bats_options,Session 9,A,Victory Networks,224.0.131.2,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,bats_options,Session 13,A,Victory Networks,224.0.131.3,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,bats_options,Session 17,A,Victory Networks,224.0.131.4,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,bats_options,Session 21,A,Victory Networks,224.0.131.5,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,bats_options,Session 25,A,Victory Networks,224.0.131.6,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,bats_edgx_options,Session 1,A,Victory Networks,224.0.131.64,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,bats_edgx_options,Session 5,A,Victory Networks,224.0.131.65,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,bats_edgx_options,Session 9,A,Victory Networks,224.0.131.66,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,bats_edgx_options,Session 13,A,Victory Networks,224.0.131.67,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,bats_edgx_options,Session 17,A,Victory Networks,224.0.131.68,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,bats_edgx_options,Session 21,A,Victory Networks,224.0.131.69,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,bats_options,Session 29,A,Victory Networks,224.0.131.7,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,bats_edgx_options,Session 25,A,Victory Networks,224.0.131.70,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,bats_edgx_options,Session 29,A,Victory Networks,224.0.131.71,10.75.128.9,Et15
+VN-DC3-PC-1-P5P1-SPAN,nfx,ITCH Group 1,B,Victory Networks,224.0.23.129,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,nfx,ITCH Group 2,B,Victory Networks,224.0.23.130,10.64.254.2,Et35
+VN-DC3-PC-1-P4P1,cme_globex30,"CME Globex Equity Futures, 310",A,Victory Networks,224.0.31.1,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"CME Globex Equity Options - excludes E-mini S&P 500, 319",A,Victory Networks,224.0.31.10,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"CBOT Globex Commodity Futures, 340",A,Victory Networks,224.0.31.106,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"CBOT Globex Commodity Options, 341",A,Victory Networks,224.0.31.107,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"CBOT Globex Equity Index Futures, 342",A,Victory Networks,224.0.31.108,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"CBOT Globex Equity Index Options, 343",A,Victory Networks,224.0.31.109,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"CME Globex FX Futures II, 320",A,Victory Networks,224.0.31.11,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"CBOT Globex Interest Rate Futures, 344",A,Victory Networks,224.0.31.110,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"CBOT Globex Interest Rate Options, 345",A,Victory Networks,224.0.31.111,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"CBOT Globex Commodity Futures II, 346",A,Victory Networks,224.0.31.112,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,not-found,not-found,not-found,Victory Networks,224.0.31.113,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"CME Globex FX Options II, 321",A,Victory Networks,224.0.31.12,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"NYMEX Globex Emissions Futures, 380",A,Victory Networks,224.0.31.128,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"NYMEX Globex Emissions Options, 381",A,Victory Networks,224.0.31.129,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"NYMEX Globex Crude & Crude Refined Futures, 382",A,Victory Networks,224.0.31.130,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"NYMEX Globex Crude & Crude Refined Options, 383",A,Victory Networks,224.0.31.131,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"NYMEX Globex Metals, Softs, & Alternative Market Futures, 384",A,Victory Networks,224.0.31.132,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"NYMEX Globex Metals, Softs, & Alternative Market Options, 385",A,Victory Networks,224.0.31.133,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"NYMEX Globex Nat Gas & other Non-Crude Energy Futures, 386",A,Victory Networks,224.0.31.134,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"NYMEX Globex Nat Gas & other Non-Crude Energy Options, 387",A,Victory Networks,224.0.31.135,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"NYMEX Globex Emissions Futures, 380",A,Victory Networks,224.0.31.149,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"NYMEX Globex Emissions Options, 381",A,Victory Networks,224.0.31.150,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"NYMEX Globex Crude & Crude Refined Futures, 382",A,Victory Networks,224.0.31.151,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"NYMEX Globex Crude & Crude Refined Options, 383",A,Victory Networks,224.0.31.152,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"NYMEX Globex Metals, Softs, & Alternative Market Futures, 384",A,Victory Networks,224.0.31.153,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"NYMEX Globex Metals, Softs, & Alternative Market Options, 385",A,Victory Networks,224.0.31.154,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"NYMEX Globex Nat Gas & other Non-Crude Energy Futures, 386",A,Victory Networks,224.0.31.155,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"NYMEX Globex Nat Gas & other Non-Crude Energy Options, 387",A,Victory Networks,224.0.31.156,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"NYMEX Globex Emissions Futures, 380",A,Victory Networks,224.0.31.170,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"NYMEX Globex Emissions Options, 381",A,Victory Networks,224.0.31.171,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"NYMEX Globex Crude & Crude Refined Futures, 382",A,Victory Networks,224.0.31.172,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"NYMEX Globex Crude & Crude Refined Options, 383",A,Victory Networks,224.0.31.173,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"NYMEX Globex Metals, Softs, & Alternative Market Futures, 384",A,Victory Networks,224.0.31.174,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"NYMEX Globex Metals, Softs, & Alternative Market Options, 385",A,Victory Networks,224.0.31.175,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"NYMEX Globex Nat Gas & other Non-Crude Energy Futures, 386",A,Victory Networks,224.0.31.176,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"NYMEX Globex Nat Gas & other Non-Crude Energy Options, 387",A,Victory Networks,224.0.31.177,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"COMEX Globex Futures, 360",A,Victory Networks,224.0.31.192,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"COMEX Globex Options, 361",A,Victory Networks,224.0.31.193,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"CME Globex Equity Options, 311",A,Victory Networks,224.0.31.2,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"COMEX Globex Futures, 360",A,Victory Networks,224.0.31.202,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"COMEX Globex Options, 361",A,Victory Networks,224.0.31.203,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"COMEX Globex Futures, 360",A,Victory Networks,224.0.31.212,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"COMEX Globex Options, 361",A,Victory Networks,224.0.31.213,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"CME Globex Equity Futures, 310",A,Victory Networks,224.0.31.22,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"CME Globex Equity Options, 311",A,Victory Networks,224.0.31.23,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"CME Globex Interest Rate Futures, 312",A,Victory Networks,224.0.31.24,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"CME Globex Interest Rate Options, 313",A,Victory Networks,224.0.31.25,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"CME Globex FX Futures, 314",A,Victory Networks,224.0.31.26,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"CME Globex FX Options, 315",A,Victory Networks,224.0.31.27,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"CME Globex Commodity Futures, 316",A,Victory Networks,224.0.31.28,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"CME Globex Commodity Options, 317",A,Victory Networks,224.0.31.29,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"CME Globex Interest Rate Futures, 312",A,Victory Networks,224.0.31.3,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"CME Globex Equity Futures - excludes E-mini S&P 500, 318",A,Victory Networks,224.0.31.30,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"CME Globex Equity Options - excludes E-mini S&P 500, 319",A,Victory Networks,224.0.31.31,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"CME Globex FX Futures II, 320",A,Victory Networks,224.0.31.32,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"CME Globex FX Options II, 321",A,Victory Networks,224.0.31.33,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"CME Globex Interest Rate Options, 313",A,Victory Networks,224.0.31.4,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"CME Globex Equity Futures, 310",A,Victory Networks,224.0.31.43,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"CME Globex Equity Options, 311",A,Victory Networks,224.0.31.44,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"CME Globex Interest Rate Futures, 312",A,Victory Networks,224.0.31.45,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"CME Globex Interest Rate Options, 313",A,Victory Networks,224.0.31.46,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"CME Globex FX Futures, 314",A,Victory Networks,224.0.31.47,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"CME Globex FX Options, 315",A,Victory Networks,224.0.31.48,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"CME Globex Commodity Futures, 316",A,Victory Networks,224.0.31.49,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"CME Globex FX Futures, 314",A,Victory Networks,224.0.31.5,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"CME Globex Commodity Options, 317",A,Victory Networks,224.0.31.50,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"CME Globex Equity Futures - excludes E-mini S&P 500, 318",A,Victory Networks,224.0.31.51,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"CME Globex Equity Options - excludes E-mini S&P 500, 319",A,Victory Networks,224.0.31.52,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"CME Globex FX Futures II, 320",A,Victory Networks,224.0.31.53,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"CME Globex FX Options II, 321",A,Victory Networks,224.0.31.54,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"CME Globex FX Options, 315",A,Victory Networks,224.0.31.6,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"CBOT Globex Commodity Futures, 340",A,Victory Networks,224.0.31.64,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"CBOT Globex Commodity Options, 341",A,Victory Networks,224.0.31.65,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"CBOT Globex Equity Index Futures, 342",A,Victory Networks,224.0.31.66,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"CBOT Globex Equity Index Options, 343",A,Victory Networks,224.0.31.67,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"CBOT Globex Interest Rate Futures, 344",A,Victory Networks,224.0.31.68,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"CBOT Globex Interest Rate Options, 345",A,Victory Networks,224.0.31.69,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"CME Globex Commodity Futures, 316",A,Victory Networks,224.0.31.7,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"CBOT Globex Commodity Futures II, 346",A,Victory Networks,224.0.31.70,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"CBOT Globex Interest Rate Futures II, 348",A,Victory Networks,224.0.31.71,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"CME Globex Commodity Options, 317",A,Victory Networks,224.0.31.8,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"CBOT Globex Commodity Futures, 340",A,Victory Networks,224.0.31.85,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"CBOT Globex Commodity Options, 341",A,Victory Networks,224.0.31.86,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"CBOT Globex Equity Index Futures, 342",A,Victory Networks,224.0.31.87,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"CBOT Globex Equity Index Options, 343",A,Victory Networks,224.0.31.88,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"CBOT Globex Interest Rate Futures, 344",A,Victory Networks,224.0.31.89,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"CME Globex Equity Futures - excludes E-mini S&P 500, 318",A,Victory Networks,224.0.31.9,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"CBOT Globex Interest Rate Options, 345",A,Victory Networks,224.0.31.90,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,cme_globex30,"CBOT Globex Commodity Futures II, 346",A,Victory Networks,224.0.31.91,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,not-found,not-found,not-found,Victory Networks,224.0.31.92,10.64.254.1,Et34
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"CME Globex Equity Futures, 310",B,Victory Networks,224.0.32.1,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"CME Globex Equity Options - excludes E-mini S&P 500, 319",B,Victory Networks,224.0.32.10,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"CBOT Globex Commodity Futures, 340",B,Victory Networks,224.0.32.106,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"CBOT Globex Commodity Options, 341",B,Victory Networks,224.0.32.107,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"CBOT Globex Equity Index Futures, 342",B,Victory Networks,224.0.32.108,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"CBOT Globex Equity Index Options, 343",B,Victory Networks,224.0.32.109,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"CME Globex FX Futures II, 320",B,Victory Networks,224.0.32.11,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"CBOT Globex Interest Rate Futures, 344",B,Victory Networks,224.0.32.110,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"CBOT Globex Interest Rate Options, 345",B,Victory Networks,224.0.32.111,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"CBOT Globex Commodity Futures II, 346",B,Victory Networks,224.0.32.112,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,not-found,not-found,not-found,Victory Networks,224.0.32.113,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"CME Globex FX Options II, 321",B,Victory Networks,224.0.32.12,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"NYMEX Globex Emissions Futures, 380",B,Victory Networks,224.0.32.128,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"NYMEX Globex Emissions Options, 381",B,Victory Networks,224.0.32.129,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"NYMEX Globex Crude & Crude Refined Futures, 382",B,Victory Networks,224.0.32.130,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"NYMEX Globex Crude & Crude Refined Options, 383",B,Victory Networks,224.0.32.131,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"NYMEX Globex Metals, Softs, & Alternative Market Futures, 384",B,Victory Networks,224.0.32.132,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"NYMEX Globex Metals, Softs, & Alternative Market Options, 385",B,Victory Networks,224.0.32.133,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"NYMEX Globex Nat Gas & other Non-Crude Energy Futures, 386",B,Victory Networks,224.0.32.134,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"NYMEX Globex Nat Gas & other Non-Crude Energy Options, 387",B,Victory Networks,224.0.32.135,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"NYMEX Globex Emissions Futures, 380",B,Victory Networks,224.0.32.149,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"NYMEX Globex Emissions Options, 381",B,Victory Networks,224.0.32.150,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"NYMEX Globex Crude & Crude Refined Futures, 382",B,Victory Networks,224.0.32.151,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"NYMEX Globex Crude & Crude Refined Options, 383",B,Victory Networks,224.0.32.152,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"NYMEX Globex Metals, Softs, & Alternative Market Futures, 384",B,Victory Networks,224.0.32.153,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"NYMEX Globex Metals, Softs, & Alternative Market Options, 385",B,Victory Networks,224.0.32.154,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"NYMEX Globex Nat Gas & other Non-Crude Energy Futures, 386",B,Victory Networks,224.0.32.155,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"NYMEX Globex Nat Gas & other Non-Crude Energy Options, 387",B,Victory Networks,224.0.32.156,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"NYMEX Globex Emissions Futures, 380",B,Victory Networks,224.0.32.170,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"NYMEX Globex Emissions Options, 381",B,Victory Networks,224.0.32.171,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"NYMEX Globex Crude & Crude Refined Futures, 382",B,Victory Networks,224.0.32.172,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"NYMEX Globex Crude & Crude Refined Options, 383",B,Victory Networks,224.0.32.173,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"NYMEX Globex Metals, Softs, & Alternative Market Futures, 384",B,Victory Networks,224.0.32.174,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"NYMEX Globex Metals, Softs, & Alternative Market Options, 385",B,Victory Networks,224.0.32.175,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"NYMEX Globex Nat Gas & other Non-Crude Energy Futures, 386",B,Victory Networks,224.0.32.176,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"NYMEX Globex Nat Gas & other Non-Crude Energy Options, 387",B,Victory Networks,224.0.32.177,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"COMEX Globex Futures, 360",B,Victory Networks,224.0.32.192,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"COMEX Globex Options, 361",B,Victory Networks,224.0.32.193,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"CME Globex Equity Options, 311",B,Victory Networks,224.0.32.2,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"COMEX Globex Futures, 360",B,Victory Networks,224.0.32.202,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"COMEX Globex Options, 361",B,Victory Networks,224.0.32.203,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"COMEX Globex Futures, 360",B,Victory Networks,224.0.32.212,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"COMEX Globex Options, 361",B,Victory Networks,224.0.32.213,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"CME Globex Equity Futures, 310",B,Victory Networks,224.0.32.22,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"CME Globex Equity Options, 311",B,Victory Networks,224.0.32.23,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"CME Globex Interest Rate Futures, 312",B,Victory Networks,224.0.32.24,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"CME Globex Interest Rate Options, 313",B,Victory Networks,224.0.32.25,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"CME Globex FX Futures, 314",B,Victory Networks,224.0.32.26,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"CME Globex FX Options, 315",B,Victory Networks,224.0.32.27,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"CME Globex Commodity Futures, 316",B,Victory Networks,224.0.32.28,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"CME Globex Commodity Options, 317",B,Victory Networks,224.0.32.29,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"CME Globex Interest Rate Futures, 312",B,Victory Networks,224.0.32.3,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"CME Globex Equity Futures - excludes E-mini S&P 500, 318",B,Victory Networks,224.0.32.30,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"CME Globex Equity Options - excludes E-mini S&P 500, 319",B,Victory Networks,224.0.32.31,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"CME Globex FX Futures II, 320",B,Victory Networks,224.0.32.32,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"CME Globex FX Options II, 321",B,Victory Networks,224.0.32.33,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"CME Globex Interest Rate Options, 313",B,Victory Networks,224.0.32.4,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"CME Globex Equity Futures, 310",B,Victory Networks,224.0.32.43,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"CME Globex Equity Options, 311",B,Victory Networks,224.0.32.44,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"CME Globex Interest Rate Futures, 312",B,Victory Networks,224.0.32.45,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"CME Globex Interest Rate Options, 313",B,Victory Networks,224.0.32.46,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"CME Globex FX Futures, 314",B,Victory Networks,224.0.32.47,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"CME Globex FX Options, 315",B,Victory Networks,224.0.32.48,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"CME Globex Commodity Futures, 316",B,Victory Networks,224.0.32.49,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"CME Globex FX Futures, 314",B,Victory Networks,224.0.32.5,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"CME Globex Commodity Options, 317",B,Victory Networks,224.0.32.50,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"CME Globex Equity Futures - excludes E-mini S&P 500, 318",B,Victory Networks,224.0.32.51,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"CME Globex Equity Options - excludes E-mini S&P 500, 319",B,Victory Networks,224.0.32.52,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"CME Globex FX Futures II, 320",B,Victory Networks,224.0.32.53,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"CME Globex FX Options II, 321",B,Victory Networks,224.0.32.54,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"CME Globex FX Options, 315",B,Victory Networks,224.0.32.6,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"CBOT Globex Commodity Futures, 340",B,Victory Networks,224.0.32.64,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"CBOT Globex Commodity Options, 341",B,Victory Networks,224.0.32.65,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"CBOT Globex Equity Index Futures, 342",B,Victory Networks,224.0.32.66,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"CBOT Globex Equity Index Options, 343",B,Victory Networks,224.0.32.67,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"CBOT Globex Interest Rate Futures, 344",B,Victory Networks,224.0.32.68,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"CBOT Globex Interest Rate Options, 345",B,Victory Networks,224.0.32.69,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"CME Globex Commodity Futures, 316",B,Victory Networks,224.0.32.7,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"CBOT Globex Commodity Futures II, 346",B,Victory Networks,224.0.32.70,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"CBOT Globex Interest Rate Futures II, 348",B,Victory Networks,224.0.32.71,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"CME Globex Commodity Options, 317",B,Victory Networks,224.0.32.8,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"CBOT Globex Commodity Futures, 340",B,Victory Networks,224.0.32.85,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"CBOT Globex Commodity Options, 341",B,Victory Networks,224.0.32.86,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"CBOT Globex Equity Index Futures, 342",B,Victory Networks,224.0.32.87,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"CBOT Globex Equity Index Options, 343",B,Victory Networks,224.0.32.88,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"CBOT Globex Interest Rate Futures, 344",B,Victory Networks,224.0.32.89,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"CME Globex Equity Futures - excludes E-mini S&P 500, 318",B,Victory Networks,224.0.32.9,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"CBOT Globex Interest Rate Options, 345",B,Victory Networks,224.0.32.90,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,cme_globex30,"CBOT Globex Commodity Futures II, 346",B,Victory Networks,224.0.32.91,10.64.254.2,Et35
+VN-DC3-PC-1-P5P1-SPAN,not-found,not-found,not-found,Victory Networks,224.0.32.92,10.64.254.2,Et35
+VN-NY4-CAP-2-eth6,xdp_arca_bbo,not-found,A,Victory Networks,224.0.59.100,10.75.128.9,Et15
+VN-NY4-TP-6-p3p2,xdp_arca_bbo,not-found,A,Victory Networks,224.0.59.100,10.75.128.9,Et17
+VN-NY4-CAP-2-eth6,xdp_arca_bbo,not-found,A,Victory Networks,224.0.59.101,10.75.128.9,Et15
+VN-NY4-TP-6-p3p2,xdp_arca_bbo,not-found,A,Victory Networks,224.0.59.101,10.75.128.9,Et17
+VN-NY4-TP-6-p3p1,xdp_arca_bbo,not-found,B,Victory Networks,224.0.59.228,10.75.128.4,Et28
+VN-NY4-TP-6-p3p1,xdp_arca_bbo,not-found,B,Victory Networks,224.0.59.229,10.75.128.4,Et28
+VN-NY4-CAP-2-eth6,not-found,not-found,not-found,Victory Networks,224.0.74.196,10.75.128.9,Et15
+VN-NY4-CAP-2-eth7,not-found,not-found,not-found,Victory Networks,224.0.74.196,10.75.128.4,Et37
+VN-NY4-CAP-2-eth6,not-found,not-found,not-found,Victory Networks,224.0.74.198,10.75.128.9,Et15
+VN-NY4-CAP-2-eth7,not-found,not-found,not-found,Victory Networks,224.0.74.198,10.75.128.4,Et37
+VN-NY4-CAP-2-eth6,not-found,not-found,not-found,Victory Networks,224.0.74.240,10.75.128.9,Et15
+VN-NY4-CAP-2-eth7,not-found,not-found,not-found,Victory Networks,224.0.74.240,10.75.128.4,Et37
+VN-NY4-CAP-2-eth7,not-found,not-found,not-found,Victory Networks,224.0.74.242,10.75.128.4,Et37
+VN-NY4-CAP-2-eth6,not-found,not-found,not-found,Victory Networks,224.0.81.1,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_depth,Session 10,A,Victory Networks,224.0.81.10,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_top_quote,Session 36,A,Victory Networks,224.0.81.100,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_top_quote,Session 37,A,Victory Networks,224.0.81.101,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_top_quote,Session 38,A,Victory Networks,224.0.81.102,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_top_quote,Session 39,A,Victory Networks,224.0.81.103,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_top_quote,Session 40,A,Victory Networks,224.0.81.104,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_top_quote,Session 41,A,Victory Networks,224.0.81.105,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_top_quote,Session 42,A,Victory Networks,224.0.81.106,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_top_quote,Session 43,A,Victory Networks,224.0.81.107,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_top_quote,Session 44,A,Victory Networks,224.0.81.108,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_top_quote,Session 45,A,Victory Networks,224.0.81.109,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_depth,Session 11,A,Victory Networks,224.0.81.11,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_top_quote,Session 46,A,Victory Networks,224.0.81.110,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_top_quote,Session 47,A,Victory Networks,224.0.81.111,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_top_quote,Session 48,A,Victory Networks,224.0.81.112,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_top_quote,Session 49,A,Victory Networks,224.0.81.113,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_top_quote,Session 50,A,Victory Networks,224.0.81.114,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_top_quote,Session 51,A,Victory Networks,224.0.81.115,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_top_quote,Session 52,A,Victory Networks,224.0.81.116,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_top_quote,Session 53,A,Victory Networks,224.0.81.117,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_top_quote,Session 54,A,Victory Networks,224.0.81.118,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_top_quote,Session 55,A,Victory Networks,224.0.81.119,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_depth,Session 12,A,Victory Networks,224.0.81.12,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_top_quote,Session 56,A,Victory Networks,224.0.81.120,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_top_quote,Session 57,A,Victory Networks,224.0.81.121,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_top_quote,Session 58,A,Victory Networks,224.0.81.122,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_top_quote,Session 59,A,Victory Networks,224.0.81.123,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_top_quote,Session 60,A,Victory Networks,224.0.81.124,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_depth,Session 13,A,Victory Networks,224.0.81.13,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_depth,Session 14,A,Victory Networks,224.0.81.14,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_depth,Session 15,A,Victory Networks,224.0.81.15,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_depth,Session 16,A,Victory Networks,224.0.81.16,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_spread_depth,Session 1,A,Victory Networks,224.0.81.161,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_spread_depth,Session 4,A,Victory Networks,224.0.81.162,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_spread_depth,Session 7,A,Victory Networks,224.0.81.163,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_spread_depth,Session 10,A,Victory Networks,224.0.81.164,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_spread_top_quote,Session 1,A,Victory Networks,224.0.81.166,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_spread_top_quote,Session 4,A,Victory Networks,224.0.81.167,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_spread_top_quote,Session 7,A,Victory Networks,224.0.81.168,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_spread_top_quote,Session 10,A,Victory Networks,224.0.81.169,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_depth,Session 17,A,Victory Networks,224.0.81.17,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_spread_order,Session 1,A,Victory Networks,224.0.81.171,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_spread_order,Session 4,A,Victory Networks,224.0.81.172,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_spread_order,Session 7,A,Victory Networks,224.0.81.173,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_spread_order,Session 10,A,Victory Networks,224.0.81.174,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_spread_trade,Session 1,A,Victory Networks,224.0.81.176,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_spread_trade,Session 4,A,Victory Networks,224.0.81.177,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_spread_trade,Session 7,A,Victory Networks,224.0.81.178,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_spread_trade,Session 10,A,Victory Networks,224.0.81.179,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_depth,Session 18,A,Victory Networks,224.0.81.18,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_depth,Session 19,A,Victory Networks,224.0.81.19,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_trade,Session 1,A,Victory Networks,224.0.81.193,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_trade,Session 4,A,Victory Networks,224.0.81.194,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_trade,Session 7,A,Victory Networks,224.0.81.195,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_trade,Session 10,A,Victory Networks,224.0.81.196,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,not-found,not-found,not-found,Victory Networks,224.0.81.2,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_depth,Session 20,A,Victory Networks,224.0.81.20,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_order,Session 1,A,Victory Networks,224.0.81.201,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_order,Session 4,A,Victory Networks,224.0.81.202,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_order,Session 7,A,Victory Networks,224.0.81.203,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_order,Session 10,A,Victory Networks,224.0.81.204,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_depth,Session 21,A,Victory Networks,224.0.81.21,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_depth,Session 22,A,Victory Networks,224.0.81.22,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_depth,Session 23,A,Victory Networks,224.0.81.23,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_depth,Session 24,A,Victory Networks,224.0.81.24,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_depth,Session 61,A,Victory Networks,224.0.81.249,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_depth,Session 25,A,Victory Networks,224.0.81.25,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_depth,Session 62,A,Victory Networks,224.0.81.250,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_depth,Session 26,A,Victory Networks,224.0.81.26,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_depth,Session 27,A,Victory Networks,224.0.81.27,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_depth,Session 28,A,Victory Networks,224.0.81.28,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_depth,Session 29,A,Victory Networks,224.0.81.29,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,not-found,not-found,not-found,Victory Networks,224.0.81.3,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_depth,Session 30,A,Victory Networks,224.0.81.30,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_depth,Session 31,A,Victory Networks,224.0.81.31,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_depth,Session 32,A,Victory Networks,224.0.81.32,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_depth,Session 33,A,Victory Networks,224.0.81.33,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_depth,Session 34,A,Victory Networks,224.0.81.34,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_depth,Session 35,A,Victory Networks,224.0.81.35,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_depth,Session 36,A,Victory Networks,224.0.81.36,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_depth,Session 37,A,Victory Networks,224.0.81.37,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_depth,Session 38,A,Victory Networks,224.0.81.38,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_depth,Session 39,A,Victory Networks,224.0.81.39,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,not-found,not-found,not-found,Victory Networks,224.0.81.4,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_depth,Session 40,A,Victory Networks,224.0.81.40,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_depth,Session 41,A,Victory Networks,224.0.81.41,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_depth,Session 42,A,Victory Networks,224.0.81.42,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_depth,Session 43,A,Victory Networks,224.0.81.43,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_depth,Session 44,A,Victory Networks,224.0.81.44,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_depth,Session 45,A,Victory Networks,224.0.81.45,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_depth,Session 46,A,Victory Networks,224.0.81.46,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_depth,Session 47,A,Victory Networks,224.0.81.47,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_depth,Session 48,A,Victory Networks,224.0.81.48,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_depth,Session 49,A,Victory Networks,224.0.81.49,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,not-found,not-found,not-found,Victory Networks,224.0.81.5,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_depth,Session 50,A,Victory Networks,224.0.81.50,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_depth,Session 51,A,Victory Networks,224.0.81.51,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_depth,Session 52,A,Victory Networks,224.0.81.52,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_depth,Session 53,A,Victory Networks,224.0.81.53,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_depth,Session 54,A,Victory Networks,224.0.81.54,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_depth,Session 55,A,Victory Networks,224.0.81.55,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_depth,Session 56,A,Victory Networks,224.0.81.56,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_depth,Session 57,A,Victory Networks,224.0.81.57,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_depth,Session 58,A,Victory Networks,224.0.81.58,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_depth,Session 59,A,Victory Networks,224.0.81.59,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,not-found,not-found,not-found,Victory Networks,224.0.81.6,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,ise_mercury_binary_depth,Session 60,A,Victory Networks,224.0.81.60,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,not-found,not-found,not-found,Victory Networks,224.0.81.65,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,not-found,not-found,not-found,Victory Networks,224.0.81.66,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,not-found,not-found,not-found,Victory Networks,224.0.81.67,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,not-found,not-found,not-found,Victory Networks,224.0.81.68,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,not-found,not-found,not-found,Victory Networks,224.0.81.69,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,not-found,not-found,not-found,Victory Networks,224.0.81.7,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,not-found,not-found,not-found,Victory Networks,224.0.81.70,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,not-found,not-found,not-found,Victory Networks,224.0.81.71,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,not-found,not-found,not-found,Victory Networks,224.0.81.72,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,not-found,not-found,not-found,Victory Networks,224.0.81.73,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,not-found,not-found,not-found,Victory Networks,224.0.81.74,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,not-found,not-found,not-found,Victory Networks,224.0.81.75,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,not-found,not-found,not-found,Victory Networks,224.0.81.76,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,not-found,not-found,not-found,Victory Networks,224.0.81.77,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,not-found,not-found,not-found,Victory Networks,224.0.81.78,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,not-found,not-found,not-found,Victory Networks,224.0.81.79,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,not-found,not-found,not-found,Victory Networks,224.0.81.8,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,not-found,not-found,not-found,Victory Networks,224.0.81.80,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,not-found,not-found,not-found,Victory Networks,224.0.81.81,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,not-found,not-found,not-found,Victory Networks,224.0.81.82,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,not-found,not-found,not-found,Victory Networks,224.0.81.83,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,not-found,not-found,not-found,Victory Networks,224.0.81.84,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,not-found,not-found,not-found,Victory Networks,224.0.81.85,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,not-found,not-found,not-found,Victory Networks,224.0.81.86,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,not-found,not-found,not-found,Victory Networks,224.0.81.87,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,not-found,not-found,not-found,Victory Networks,224.0.81.88,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,not-found,not-found,not-found,Victory Networks,224.0.81.89,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,not-found,not-found,not-found,Victory Networks,224.0.81.9,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,not-found,not-found,not-found,Victory Networks,224.0.81.90,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,not-found,not-found,not-found,Victory Networks,224.0.81.91,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,not-found,not-found,not-found,Victory Networks,224.0.81.92,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,not-found,not-found,not-found,Victory Networks,224.0.81.93,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,not-found,not-found,not-found,Victory Networks,224.0.81.94,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,not-found,not-found,not-found,Victory Networks,224.0.81.95,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,not-found,not-found,not-found,Victory Networks,224.0.81.96,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,not-found,not-found,not-found,Victory Networks,224.0.81.97,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,not-found,not-found,not-found,Victory Networks,224.0.81.98,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,not-found,not-found,not-found,Victory Networks,224.0.81.99,10.75.128.9,Et15
+VN-NY4-CAP-2-eth7,opra,Session 49,B,Victory Networks,224.0.86.128,10.75.128.4,Et37
+VN-NY4-CAP-2-eth7,opra,Session 50,B,Victory Networks,224.0.86.129,10.75.128.4,Et37
+VN-NY4-CAP-2-eth7,opra,Session 51,B,Victory Networks,224.0.86.130,10.75.128.4,Et37
+VN-NY4-CAP-2-eth7,opra,Session 52,B,Victory Networks,224.0.86.131,10.75.128.4,Et37
+VN-NY4-CAP-2-eth6,not-found,not-found,not-found,Victory Networks,224.3.0.10,10.75.128.9,Et15
+VN-NY4-CAP-2-eth7,not-found,not-found,not-found,Victory Networks,224.3.0.10,10.75.128.4,Et37
+VN-NY4-CAP-2-eth6,not-found,not-found,not-found,Victory Networks,224.3.0.20,10.75.128.9,Et15
+VN-NY4-CAP-2-eth7,not-found,not-found,not-found,Victory Networks,224.3.0.20,10.75.128.4,Et37
+VN-NY4-CAP-2-eth6,not-found,not-found,not-found,Victory Networks,224.3.0.24,10.75.128.9,Et15
+VN-NY4-CAP-2-eth7,not-found,not-found,not-found,Victory Networks,224.3.0.24,10.75.128.4,Et37
+VN-NY4-CAP-2-eth6,not-found,not-found,not-found,Victory Networks,224.3.0.25,10.75.128.9,Et15
+VN-NY4-CAP-2-eth7,not-found,not-found,not-found,Victory Networks,224.3.0.25,10.75.128.4,Et37
+VN-NY4-NAS-2-eth5,not-found,not-found,not-found,Victory Networks,229.111.112.12,10.10.129.2,Et12
+VN-NY4-CAP-2-eth7,cboe_csm_standard_enhanced,Line 1,B,Victory Networks,233.103.126.168,10.75.128.4,Et37
+VN-NY4-CAP-2-eth7,cboe_csm_standard_enhanced,Security Definitions,B,Victory Networks,233.103.126.169,10.75.128.4,Et37
+VN-NY4-CAP-2-eth7,cboe_csm_standard,Line 1,B,Victory Networks,233.103.126.192,10.75.128.4,Et37
+VN-NY4-CAP-2-eth7,cboe_csm_standard,Line 2,B,Victory Networks,233.103.126.193,10.75.128.4,Et37
+VN-NY4-CAP-2-eth7,cboe_csm_standard,Line 3,B,Victory Networks,233.103.126.194,10.75.128.4,Et37
+VN-NY4-CAP-2-eth7,cboe_csm_standard,Line 4,B,Victory Networks,233.103.126.195,10.75.128.4,Et37
+VN-NY4-CAP-2-eth7,cboe_csm_standard,Line 5,B,Victory Networks,233.103.126.196,10.75.128.4,Et37
+VN-NY4-CAP-2-eth7,cboe_csm_standard,Line 6,B,Victory Networks,233.103.126.197,10.75.128.4,Et37
+VN-NY4-CAP-2-eth7,cboe_csm_standard,Line 7,B,Victory Networks,233.103.126.198,10.75.128.4,Et37
+VN-NY4-CAP-2-eth7,cboe_csm_standard,Line 8,B,Victory Networks,233.103.126.199,10.75.128.4,Et37
+VN-NY4-CAP-2-eth7,cboe_csm_standard,Line 9,B,Victory Networks,233.103.126.200,10.75.128.4,Et37
+VN-NY4-CAP-2-eth7,cboe_csm_standard,Line 10,B,Victory Networks,233.103.126.201,10.75.128.4,Et37
+VN-NY4-CAP-2-eth7,cboe_csm_standard,reserved for future use,B,Victory Networks,233.103.126.202,10.75.128.4,Et37
+VN-NY4-CAP-2-eth7,cboe_csm_standard,reserved for future use,B,Victory Networks,233.103.126.203,10.75.128.4,Et37
+VN-NY4-CAP-2-eth7,cboe_csm_standard,reserved for future use,B,Victory Networks,233.103.126.204,10.75.128.4,Et37
+VN-NY4-CAP-2-eth7,cboe_csm_standard,reserved for future use,B,Victory Networks,233.103.126.205,10.75.128.4,Et37
+VN-NY4-CAP-2-eth7,cboe_csm_standard,reserved for future use,B,Victory Networks,233.103.126.206,10.75.128.4,Et37
+VN-NY4-CAP-2-eth7,cboe_csm_standard,Security Definitions,B,Victory Networks,233.103.126.207,10.75.128.4,Et37
+VN-NY4-CAP-2-eth7,cboe_csm_strategy,Line 1,B,Victory Networks,233.103.126.208,10.75.128.4,Et37
+VN-NY4-CAP-2-eth7,cboe_csm_strategy,Security Definitions,B,Victory Networks,233.103.126.209,10.75.128.4,Et37
+VN-NY4-CAP-2-eth6,cboe_csm_standard_enhanced,Line 1,A,Victory Networks,233.103.126.40,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,cboe_csm_standard_enhanced,Security Definitions,A,Victory Networks,233.103.126.41,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,cboe_csm_standard,Line 1,A,Victory Networks,233.103.126.64,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,cboe_csm_standard,Line 2,A,Victory Networks,233.103.126.65,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,cboe_csm_standard,Line 3,A,Victory Networks,233.103.126.66,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,cboe_csm_standard,Line 4,A,Victory Networks,233.103.126.67,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,cboe_csm_standard,Line 5,A,Victory Networks,233.103.126.68,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,cboe_csm_standard,Line 6,A,Victory Networks,233.103.126.69,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,cboe_csm_standard,Line 7,A,Victory Networks,233.103.126.70,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,cboe_csm_standard,Line 8,A,Victory Networks,233.103.126.71,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,cboe_csm_standard,Line 9,A,Victory Networks,233.103.126.72,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,cboe_csm_standard,Line 10,A,Victory Networks,233.103.126.73,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,cboe_csm_standard,reserved for future use,A,Victory Networks,233.103.126.74,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,cboe_csm_standard,reserved for future use,A,Victory Networks,233.103.126.75,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,cboe_csm_standard,reserved for future use,A,Victory Networks,233.103.126.76,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,cboe_csm_standard,reserved for future use,A,Victory Networks,233.103.126.77,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,cboe_csm_standard,reserved for future use,A,Victory Networks,233.103.126.78,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,cboe_csm_standard,Security Definitions,A,Victory Networks,233.103.126.79,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,cboe_csm_strategy,Line 1,A,Victory Networks,233.103.126.80,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,cboe_csm_strategy,Security Definitions,A,Victory Networks,233.103.126.81,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,xdp_nyse_bbo,not-found,A,Victory Networks,233.125.89.0,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,xdp_nyse_bbo,not-found,A,Victory Networks,233.125.89.1,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,not-found,not-found,not-found,Victory Networks,233.130.124.132,10.75.128.9,Et15
+VN-NY4-CAP-2-eth7,not-found,not-found,not-found,Victory Networks,233.130.124.132,10.75.128.4,Et37
+VN-NY4-CAP-2-eth7,not-found,not-found,not-found,Victory Networks,233.130.124.134,10.75.128.4,Et37
+VN-DC3-PC-1-P4P1,impact_chi1_fod,ICE Futures US Agricultures FOD,A,Victory Networks,233.156.208.0,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_fod,ICE Futures US Agricultures FOD,A,Victory Networks,233.156.208.1,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_fod,ICE Endex FOD,A,Victory Networks,233.156.208.100,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_fod,ICE Endex FOD,A,Victory Networks,233.156.208.101,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_top5,ICE Endex TOP5PL,A,Victory Networks,233.156.208.102,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_top5,ICE Endex TOP5PL,A,Victory Networks,233.156.208.103,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_opt_tob,ICE Endex Options TOB,A,Victory Networks,233.156.208.104,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_opt_tob,ICE Endex Options TOB,A,Victory Networks,233.156.208.105,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_top10,ICE Futures US Agricultures Options Top10PL,A,Victory Networks,233.156.208.106,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_top10,ICE Futures US Agricultures Options Top10PL,A,Victory Networks,233.156.208.107,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_top10,ICE Futures US Financials Options Top10PL,A,Victory Networks,233.156.208.108,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_top10,ICE Futures US Financials Options Top10PL,A,Victory Networks,233.156.208.109,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_top10,ICE Futures Europe Options Top10PL,A,Victory Networks,233.156.208.110,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_top10,ICE Futures Europe Options Top10PL,A,Victory Networks,233.156.208.111,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_top10,ICE Futures Canada Options Top10PL Updates,A,Victory Networks,233.156.208.112,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_top10,ICE Futures Canada Options Top10PL Updates,A,Victory Networks,233.156.208.113,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_top10,ICE OTC Options Top10PL Updates,A,Victory Networks,233.156.208.114,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_top10,ICE OTC Options Top10PL Updates,A,Victory Networks,233.156.208.115,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_top10,ICE Endex Options Top10PL,A,Victory Networks,233.156.208.116,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_top10,ICE Endex Options Top10PL,A,Victory Networks,233.156.208.117,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_fod,ICE Futures US (Liffe) Metals FOD,A,Victory Networks,233.156.208.118,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_fod,ICE Futures US (Liffe) Metals FOD,A,Victory Networks,233.156.208.119,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_fod,ICE Futures Europe Non Oil FOD,A,Victory Networks,233.156.208.12,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_top5,ICE Futures US (Liffe) Metals TOP5PL,A,Victory Networks,233.156.208.120,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_top5,ICE Futures US (Liffe) Metals TOP5PL,A,Victory Networks,233.156.208.121,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_fod,ICE Futures US (Liffe) Equity Indices FOD,A,Victory Networks,233.156.208.122,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_fod,ICE Futures US (Liffe) Equity Indices FOD,A,Victory Networks,233.156.208.123,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_top5,ICE Futures US (Liffe) Equity Indices TOP5PL,A,Victory Networks,233.156.208.124,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_top5,ICE Futures US (Liffe) Equity Indices TOP5PL,A,Victory Networks,233.156.208.125,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_fod,ICE Futures US (Liffe) Metals FOD Full Implied,A,Victory Networks,233.156.208.126,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_fod,ICE Futures US (Liffe) Metals FOD Full Implied,A,Victory Networks,233.156.208.127,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_top5,ICE Futures US (Liffe) Metals TOP5PL Full Implied,A,Victory Networks,233.156.208.128,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_top5,ICE Futures US (Liffe) Metals TOP5PL Full Implied,A,Victory Networks,233.156.208.129,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_fod,ICE Futures Europe Non Oil FOD,A,Victory Networks,233.156.208.13,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_top10,ICE Futures US (Liffe) Options TOP10PL,A,Victory Networks,233.156.208.134,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_top10,ICE Futures US (Liffe) Options TOP10PL,A,Victory Networks,233.156.208.135,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_opt_tob,ICE Futures US (Liffe) Options TOB,A,Victory Networks,233.156.208.136,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_opt_tob,ICE Futures US (Liffe) Options TOB,A,Victory Networks,233.156.208.137,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_fod,ICE Futures Europe (Liffe) Agricultural FOD,A,Victory Networks,233.156.208.138,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_fod,ICE Futures Europe (Liffe) Agricultural FOD,A,Victory Networks,233.156.208.139,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_top5,ICE Futures Europe Non Oil TOP5PL,A,Victory Networks,233.156.208.14,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_top5,ICE Futures Europe (Liffe) Agricultural TOP5PL,A,Victory Networks,233.156.208.140,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_top5,ICE Futures Europe (Liffe) Agricultural TOP5PL,A,Victory Networks,233.156.208.141,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_fod,ICE Futures Europe (Liffe) GCF and Eurodollar FOD,A,Victory Networks,233.156.208.142,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_fod,ICE Futures Europe (Liffe) GCF and Eurodollar FOD,A,Victory Networks,233.156.208.143,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_top5,ICE Futures Europe (Liffe) GCF and Eurodollar TOP5PL,A,Victory Networks,233.156.208.144,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_top5,ICE Futures Europe (Liffe) GCF and Eurodollar TOP5PL,A,Victory Networks,233.156.208.145,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_fod,ICE Futures Europe (Liffe) Agricultural FOD Full Implied,A,Victory Networks,233.156.208.146,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_fod,ICE Futures Europe (Liffe) Agricultural FOD Full Implied,A,Victory Networks,233.156.208.147,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_top5,ICE Futures Europe (Liffe) Agricultural TOP5PL Full Implied,A,Victory Networks,233.156.208.148,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_top5,ICE Futures Europe (Liffe) Agricultural TOP5PL Full Implied,A,Victory Networks,233.156.208.149,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_top5,ICE Futures Europe Non Oil TOP5PL,A,Victory Networks,233.156.208.15,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_fod,ICE Futures Europe (Liffe) GCF and Eurodollar FOD Full Implied,A,Victory Networks,233.156.208.150,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_fod,ICE Futures Europe (Liffe) GCF and Eurodollar FOD Full Implied,A,Victory Networks,233.156.208.151,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_top5,ICE Futures Europe (Liffe) GCF and Eurodollar TOP5PL Full Implied,A,Victory Networks,233.156.208.152,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_top5,ICE Futures Europe (Liffe) GCF and Eurodollar TOP5PL Full Implied,A,Victory Networks,233.156.208.153,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_fod,ICE OTC FOD,A,Victory Networks,233.156.208.16,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi2_fod,ICE Endex Spot FOD,A,Victory Networks,233.156.208.162,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi2_fod,ICE Endex Spot FOD,A,Victory Networks,233.156.208.163,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi2_top5,ICE Endex Spot TOP5PL,A,Victory Networks,233.156.208.164,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi2_top5,ICE Endex Spot TOP5PL,A,Victory Networks,233.156.208.165,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_fod,ICE OTC FOD,A,Victory Networks,233.156.208.17,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_top5,ICE OTC TOP5PL,A,Victory Networks,233.156.208.18,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_top5,ICE OTC TOP5PL,A,Victory Networks,233.156.208.19,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_top5,ICE Futures US Agricultures Top5PL,A,Victory Networks,233.156.208.2,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_fod,ICE Futures Canada FOD,A,Victory Networks,233.156.208.20,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_fod,ICE Futures Canada FOD,A,Victory Networks,233.156.208.21,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_top5,ICE Futures Canada TOP5PL,A,Victory Networks,233.156.208.22,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_top5,ICE Futures Canada TOP5PL,A,Victory Networks,233.156.208.23,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_fod,ICE Futures Europe Non Oil FOD Full Implied,A,Victory Networks,233.156.208.28,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_fod,ICE Futures Europe Non Oil FOD Full Implied,A,Victory Networks,233.156.208.29,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_top5,ICE Futures US Agricultures Top5PL,A,Victory Networks,233.156.208.3,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_top5,ICE Futures Europe Non Oil TOP5PL Full Implied,A,Victory Networks,233.156.208.30,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_top5,ICE Futures Europe Non Oil TOP5PL Full Implied,A,Victory Networks,233.156.208.31,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_fod,ICE OTC FOD Full Implied,A,Victory Networks,233.156.208.32,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_fod,ICE OTC FOD Full Implied,A,Victory Networks,233.156.208.33,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_top5,ICE OTC TOP5PL Full Implied,A,Victory Networks,233.156.208.34,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_top5,ICE OTC TOP5PL Full Implied,A,Victory Networks,233.156.208.35,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_fod,ICE Futures US Agricultures FOD Full Implied,A,Victory Networks,233.156.208.36,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_fod,ICE Futures US Agricultures FOD Full Implied,A,Victory Networks,233.156.208.37,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_top5,ICE Futures US Agricultures Top5PL Full implied,A,Victory Networks,233.156.208.38,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_top5,ICE Futures US Agricultures Top5PL Full implied,A,Victory Networks,233.156.208.39,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_fod,ICE Futures US Financials FOD,A,Victory Networks,233.156.208.4,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_opt_tob,ICE Futures Europe Options TOB,A,Victory Networks,233.156.208.40,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_opt_tob,ICE Futures Europe Options TOB,A,Victory Networks,233.156.208.41,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_opt_tob,ICE Futures US Agricultures Options TOB,A,Victory Networks,233.156.208.42,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_opt_tob,ICE Futures US Agricultures Options TOB,A,Victory Networks,233.156.208.43,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_opt_tob,ICE Futures US Financials Options TOB,A,Victory Networks,233.156.208.44,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_opt_tob,ICE Futures US Financials Options TOB,A,Victory Networks,233.156.208.45,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_opt_tob,ICE Futures Canada Options TOB Updates,A,Victory Networks,233.156.208.46,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_opt_tob,ICE Futures Canada Options TOB Updates,A,Victory Networks,233.156.208.47,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_fod,ICE Futures US Financials FOD,A,Victory Networks,233.156.208.5,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_fod,ICE Futures Brent FOD,A,Victory Networks,233.156.208.52,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_fod,ICE Futures Brent FOD,A,Victory Networks,233.156.208.53,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_top5,ICE Futures Brent TOP5PL,A,Victory Networks,233.156.208.54,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_top5,ICE Futures Brent TOP5PL,A,Victory Networks,233.156.208.55,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_fod,ICE Futures WTI FOD,A,Victory Networks,233.156.208.56,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_fod,ICE Futures WTI FOD,A,Victory Networks,233.156.208.57,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_top5,ICE Futures WTI TOP5PL,A,Victory Networks,233.156.208.58,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_top5,ICE Futures WTI TOP5PL,A,Victory Networks,233.156.208.59,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_top5,ICE Futures US Financials Top5PL,A,Victory Networks,233.156.208.6,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_fod,ICE Futures Europe Oil Others FOD,A,Victory Networks,233.156.208.60,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_fod,ICE Futures Europe Oil Others FOD,A,Victory Networks,233.156.208.61,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_top5,ICE Futures Europe Oil Others TOP5PL,A,Victory Networks,233.156.208.62,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_top5,ICE Futures Europe Oil Others TOP5PL,A,Victory Networks,233.156.208.63,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_fod,ICE Futures Brent FOD Full Implied,A,Victory Networks,233.156.208.64,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_fod,ICE Futures Brent FOD Full Implied,A,Victory Networks,233.156.208.65,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_top5,ICE Futures Brent TOP5PL Full Implied,A,Victory Networks,233.156.208.66,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_top5,ICE Futures Brent TOP5PL Full Implied,A,Victory Networks,233.156.208.67,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_fod,ICE Futures WTI FOD Full Implied,A,Victory Networks,233.156.208.68,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_fod,ICE Futures WTI FOD Full Implied,A,Victory Networks,233.156.208.69,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_top5,ICE Futures US Financials Top5PL,A,Victory Networks,233.156.208.7,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_top5,ICE Futures WTI TOP5PL Full Implied,A,Victory Networks,233.156.208.70,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_top5,ICE Futures WTI TOP5PL Full Implied,A,Victory Networks,233.156.208.71,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_fod,ICE Futures Europe Oil Others FOD Full Implied,A,Victory Networks,233.156.208.72,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_fod,ICE Futures Europe Oil Others FOD Full Implied,A,Victory Networks,233.156.208.73,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_top5,ICE Futures Europe Oil Others TOP5PL Full Implied,A,Victory Networks,233.156.208.74,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_top5,ICE Futures Europe Oil Others TOP5PL Full Implied,A,Victory Networks,233.156.208.75,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_opt_tob,ICE OTC Options TOB Updates,A,Victory Networks,233.156.208.78,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,impact_chi1_opt_tob,ICE OTC Options TOB Updates,A,Victory Networks,233.156.208.79,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,nfx,ITCH Group 1,A,Victory Networks,233.187.20.225,10.64.254.1,Et34
+VN-DC3-PC-1-P4P1,nfx,ITCH Group 2,A,Victory Networks,233.187.20.226,10.64.254.1,Et34
+VN-NY4-TP-4-p3p1,cqs,E-1,A,Victory Networks,233.200.79.0,10.75.128.9,Et10
+VN-NY4-SP-2,cqs,E-1,A,Victory Networks,233.200.79.0,10.75.128.9,Et26
+VN-NY4-SANDBOX-2,cqs,E-1,A,Victory Networks,233.200.79.0,10.75.128.11,Et15
+VN-NY4-TP-4-p3p1,cqs,E-2,A,Victory Networks,233.200.79.1,10.75.128.9,Et10
+VN-NY4-SP-2,cqs,E-2,A,Victory Networks,233.200.79.1,10.75.128.9,Et26
+VN-NY4-SANDBOX-2,cqs,E-2,A,Victory Networks,233.200.79.1,10.75.128.11,Et15
+VN-NY4-TP-4-p3p1,cqs,E-11,A,Victory Networks,233.200.79.10,10.75.128.9,Et10
+VN-NY4-SP-2,cqs,E-11,A,Victory Networks,233.200.79.10,10.75.128.9,Et26
+VN-NY4-SANDBOX-2,cqs,E-11,A,Victory Networks,233.200.79.10,10.75.128.11,Et15
+VN-NY4-TP-4-p3p1,cqs,E-12,A,Victory Networks,233.200.79.11,10.75.128.9,Et10
+VN-NY4-SP-2,cqs,E-12,A,Victory Networks,233.200.79.11,10.75.128.9,Et26
+VN-NY4-SANDBOX-2,cqs,E-12,A,Victory Networks,233.200.79.11,10.75.128.11,Et15
+VN-NY4-CAP-2-eth6,not-found,not-found,not-found,Victory Networks,233.200.79.12,10.75.128.9,Et15
+VN-NY4-TP-4-p3p1,cts,A-1,A,Victory Networks,233.200.79.128,10.75.128.9,Et10
+VN-NY4-SP-2,cts,A-1,A,Victory Networks,233.200.79.128,10.75.128.9,Et26
+VN-NY4-SANDBOX-2,cts,A-1,A,Victory Networks,233.200.79.128,10.75.128.11,Et15
+VN-NY4-TP-4-p3p1,cts,A-2,A,Victory Networks,233.200.79.129,10.75.128.9,Et10
+VN-NY4-SP-2,cts,A-2,A,Victory Networks,233.200.79.129,10.75.128.9,Et26
+VN-NY4-SANDBOX-2,cts,A-2,A,Victory Networks,233.200.79.129,10.75.128.11,Et15
+VN-NY4-TP-4-p3p1,cts,A-3,A,Victory Networks,233.200.79.130,10.75.128.9,Et10
+VN-NY4-SP-2,cts,A-3,A,Victory Networks,233.200.79.130,10.75.128.9,Et26
+VN-NY4-SANDBOX-2,cts,A-3,A,Victory Networks,233.200.79.130,10.75.128.11,Et15
+VN-NY4-TP-4-p3p1,cts,A-4,A,Victory Networks,233.200.79.131,10.75.128.9,Et10
+VN-NY4-SP-2,cts,A-4,A,Victory Networks,233.200.79.131,10.75.128.9,Et26
+VN-NY4-SANDBOX-2,cts,A-4,A,Victory Networks,233.200.79.131,10.75.128.11,Et15
+VN-NY4-TP-4-p3p1,cts,A-5,A,Victory Networks,233.200.79.132,10.75.128.9,Et10
+VN-NY4-SP-2,cts,A-5,A,Victory Networks,233.200.79.132,10.75.128.9,Et26
+VN-NY4-SANDBOX-2,cts,A-5,A,Victory Networks,233.200.79.132,10.75.128.11,Et15
+VN-NY4-TP-4-p3p1,cts,A-6,A,Victory Networks,233.200.79.133,10.75.128.9,Et10
+VN-NY4-SP-2,cts,A-6,A,Victory Networks,233.200.79.133,10.75.128.9,Et26
+VN-NY4-SANDBOX-2,cts,A-6,A,Victory Networks,233.200.79.133,10.75.128.11,Et15
+VN-NY4-TP-4-p3p1,cts,A-7,A,Victory Networks,233.200.79.134,10.75.128.9,Et10
+VN-NY4-SP-2,cts,A-7,A,Victory Networks,233.200.79.134,10.75.128.9,Et26
+VN-NY4-SANDBOX-2,cts,A-7,A,Victory Networks,233.200.79.134,10.75.128.11,Et15
+VN-NY4-TP-4-p3p1,cts,A-8,A,Victory Networks,233.200.79.135,10.75.128.9,Et10
+VN-NY4-SP-2,cts,A-8,A,Victory Networks,233.200.79.135,10.75.128.9,Et26
+VN-NY4-SANDBOX-2,cts,A-8,A,Victory Networks,233.200.79.135,10.75.128.11,Et15
+VN-NY4-TP-4-p3p1,cts,A-9,A,Victory Networks,233.200.79.136,10.75.128.9,Et10
+VN-NY4-SP-2,cts,A-9,A,Victory Networks,233.200.79.136,10.75.128.9,Et26
+VN-NY4-SANDBOX-2,cts,A-9,A,Victory Networks,233.200.79.136,10.75.128.11,Et15
+VN-NY4-TP-4-p3p1,cts,A-10,A,Victory Networks,233.200.79.137,10.75.128.9,Et10
+VN-NY4-SP-2,cts,A-10,A,Victory Networks,233.200.79.137,10.75.128.9,Et26
+VN-NY4-SANDBOX-2,cts,A-10,A,Victory Networks,233.200.79.137,10.75.128.11,Et15
+VN-NY4-TP-4-p3p1,cts,A-11,A,Victory Networks,233.200.79.138,10.75.128.9,Et10
+VN-NY4-SP-2,cts,A-11,A,Victory Networks,233.200.79.138,10.75.128.9,Et26
+VN-NY4-SANDBOX-2,cts,A-11,A,Victory Networks,233.200.79.138,10.75.128.11,Et15
+VN-NY4-TP-4-p3p1,cts,A-12,A,Victory Networks,233.200.79.139,10.75.128.9,Et10
+VN-NY4-SP-2,cts,A-12,A,Victory Networks,233.200.79.139,10.75.128.9,Et26
+VN-NY4-SANDBOX-2,cts,A-12,A,Victory Networks,233.200.79.139,10.75.128.11,Et15
+VN-NY4-CAP-2-eth6,not-found,not-found,not-found,Victory Networks,233.200.79.140,10.75.128.9,Et15
+VN-NY4-TP-4-p3p1,cts,B-1,A,Victory Networks,233.200.79.144,10.75.128.9,Et10
+VN-NY4-TP-5-p5p1,cts,B-1,A,Victory Networks,233.200.79.144,10.75.128.9,Et25
+VN-NY4-SANDBOX-2,cts,B-1,A,Victory Networks,233.200.79.144,10.75.128.11,Et15
+VN-NY4-TP-4-p3p1,cts,B-2,A,Victory Networks,233.200.79.145,10.75.128.9,Et10
+VN-NY4-TP-5-p5p1,cts,B-2,A,Victory Networks,233.200.79.145,10.75.128.9,Et25
+VN-NY4-SANDBOX-2,cts,B-2,A,Victory Networks,233.200.79.145,10.75.128.11,Et15
+VN-NY4-TP-4-p3p1,cts,B-3,A,Victory Networks,233.200.79.146,10.75.128.9,Et10
+VN-NY4-TP-5-p5p1,cts,B-3,A,Victory Networks,233.200.79.146,10.75.128.9,Et25
+VN-NY4-SANDBOX-2,cts,B-3,A,Victory Networks,233.200.79.146,10.75.128.11,Et15
+VN-NY4-TP-4-p3p1,cts,B-4,A,Victory Networks,233.200.79.147,10.75.128.9,Et10
+VN-NY4-TP-5-p5p1,cts,B-4,A,Victory Networks,233.200.79.147,10.75.128.9,Et25
+VN-NY4-SANDBOX-2,cts,B-4,A,Victory Networks,233.200.79.147,10.75.128.9,Et30
+VN-NY4-TP-4-p3p1,cts,B-5,A,Victory Networks,233.200.79.148,10.75.128.9,Et10
+VN-NY4-TP-5-p5p1,cts,B-5,A,Victory Networks,233.200.79.148,10.75.128.9,Et25
+VN-NY4-SANDBOX-2,cts,B-5,A,Victory Networks,233.200.79.148,10.75.128.9,Et30
+VN-NY4-TP-4-p3p1,cts,B-6,A,Victory Networks,233.200.79.149,10.75.128.9,Et10
+VN-NY4-TP-5-p5p1,cts,B-6,A,Victory Networks,233.200.79.149,10.75.128.9,Et25
+VN-NY4-SANDBOX-2,cts,B-6,A,Victory Networks,233.200.79.149,10.75.128.9,Et30
+VN-NY4-TP-4-p2p2,cts,B-7,A,Victory Networks,233.200.79.150,10.75.128.9,Et9
+VN-NY4-TP-5-p2p1,cts,B-7,A,Victory Networks,233.200.79.150,10.75.128.9,Et13
+VN-NY4-SANDBOX-2,cts,B-7,A,Victory Networks,233.200.79.150,10.75.128.9,Et30
+VN-NY4-TP-4-p2p2,cts,B-8,A,Victory Networks,233.200.79.151,10.75.128.9,Et9
+VN-NY4-TP-5-p2p1,cts,B-8,A,Victory Networks,233.200.79.151,10.75.128.9,Et13
+VN-NY4-SANDBOX-2,cts,B-8,A,Victory Networks,233.200.79.151,10.75.128.9,Et30
+VN-NY4-TP-4-p2p2,cts,B-9,A,Victory Networks,233.200.79.152,10.75.128.9,Et9
+VN-NY4-TP-5-p2p1,cts,B-9,A,Victory Networks,233.200.79.152,10.75.128.9,Et13
+VN-NY4-SANDBOX-2,cts,B-9,A,Victory Networks,233.200.79.152,10.75.128.9,Et30
+VN-NY4-TP-4-p1p1,cts,B-10,A,Victory Networks,233.200.79.153,10.75.128.9,Et8
+VN-NY4-TP-5-eth4,cts,B-10,A,Victory Networks,233.200.79.153,10.75.128.9,Et16
+VN-NY4-SANDBOX-2,cts,B-10,A,Victory Networks,233.200.79.153,10.75.128.9,Et30
+VN-NY4-TP-4-p1p1,cts,B-11,A,Victory Networks,233.200.79.154,10.75.128.9,Et8
+VN-NY4-TP-5-eth4,cts,B-11,A,Victory Networks,233.200.79.154,10.75.128.9,Et16
+VN-NY4-SANDBOX-2,cts,B-11,A,Victory Networks,233.200.79.154,10.75.128.9,Et30
+VN-NY4-TP-4-p1p1,cts,B-12,A,Victory Networks,233.200.79.155,10.75.128.9,Et8
+VN-NY4-TP-5-eth4,cts,B-12,A,Victory Networks,233.200.79.155,10.75.128.9,Et16
+VN-NY4-SANDBOX-2,cts,B-12,A,Victory Networks,233.200.79.155,10.75.128.9,Et30
+VN-NY4-CAP-2-eth6,not-found,not-found,not-found,Victory Networks,233.200.79.156,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,not-found,not-found,not-found,Victory Networks,233.200.79.157,10.75.128.9,Et15
+VN-NY4-TP-4-p3p1,cqs,F-1,A,Victory Networks,233.200.79.16,10.75.128.9,Et10
+VN-NY4-TP-5-p5p1,cqs,F-1,A,Victory Networks,233.200.79.16,10.75.128.9,Et25
+VN-NY4-SANDBOX-2,cqs,F-1,A,Victory Networks,233.200.79.16,10.75.128.11,Et15
+VN-NY4-TP-4-p3p2,cts,A-1,B,Victory Networks,233.200.79.160,10.75.128.4,Et34
+VN-NY4-CAP-2-eth7,cts,A-1,B,Victory Networks,233.200.79.160,10.75.128.4,Et37
+VN-NY4-TP-5-eth1,cts,A-1,B,Victory Networks,233.200.79.160,10.75.128.4,Et44
+VN-NY4-SANDBOX-2,cts,A-1,B,Victory Networks,233.200.79.160,10.75.128.11,Et13
+VN-NY4-TP-4-p3p2,cts,A-2,B,Victory Networks,233.200.79.161,10.75.128.4,Et34
+VN-NY4-CAP-2-eth7,cts,A-2,B,Victory Networks,233.200.79.161,10.75.128.4,Et37
+VN-NY4-TP-5-eth1,cts,A-2,B,Victory Networks,233.200.79.161,10.75.128.4,Et44
+VN-NY4-SANDBOX-2,cts,A-2,B,Victory Networks,233.200.79.161,10.75.128.11,Et13
+VN-NY4-TP-4-p3p2,cts,A-3,B,Victory Networks,233.200.79.162,10.75.128.4,Et34
+VN-NY4-CAP-2-eth7,cts,A-3,B,Victory Networks,233.200.79.162,10.75.128.4,Et37
+VN-NY4-TP-5-eth1,cts,A-3,B,Victory Networks,233.200.79.162,10.75.128.4,Et44
+VN-NY4-SANDBOX-2,cts,A-3,B,Victory Networks,233.200.79.162,10.75.128.11,Et13
+VN-NY4-TP-4-p3p2,cts,A-4,B,Victory Networks,233.200.79.163,10.75.128.4,Et34
+VN-NY4-CAP-2-eth7,cts,A-4,B,Victory Networks,233.200.79.163,10.75.128.4,Et37
+VN-NY4-TP-5-eth1,cts,A-4,B,Victory Networks,233.200.79.163,10.75.128.4,Et44
+VN-NY4-SANDBOX-2,cts,A-4,B,Victory Networks,233.200.79.163,10.75.128.11,Et13
+VN-NY4-TP-4-p3p2,cts,A-5,B,Victory Networks,233.200.79.164,10.75.128.4,Et34
+VN-NY4-CAP-2-eth7,cts,A-5,B,Victory Networks,233.200.79.164,10.75.128.4,Et37
+VN-NY4-TP-5-eth1,cts,A-5,B,Victory Networks,233.200.79.164,10.75.128.4,Et44
+VN-NY4-SANDBOX-2,cts,A-5,B,Victory Networks,233.200.79.164,10.75.128.11,Et13
+VN-NY4-TP-4-p3p2,cts,A-6,B,Victory Networks,233.200.79.165,10.75.128.4,Et34
+VN-NY4-CAP-2-eth7,cts,A-6,B,Victory Networks,233.200.79.165,10.75.128.4,Et37
+VN-NY4-TP-5-eth1,cts,A-6,B,Victory Networks,233.200.79.165,10.75.128.4,Et44
+VN-NY4-SANDBOX-2,cts,A-6,B,Victory Networks,233.200.79.165,10.75.128.11,Et13
+VN-NY4-TP-4-p3p2,cts,A-7,B,Victory Networks,233.200.79.166,10.75.128.4,Et34
+VN-NY4-CAP-2-eth7,cts,A-7,B,Victory Networks,233.200.79.166,10.75.128.4,Et37
+VN-NY4-TP-5-eth1,cts,A-7,B,Victory Networks,233.200.79.166,10.75.128.4,Et44
+VN-NY4-SANDBOX-2,cts,A-7,B,Victory Networks,233.200.79.166,10.75.128.11,Et13
+VN-NY4-TP-4-p3p2,cts,A-8,B,Victory Networks,233.200.79.167,10.75.128.4,Et34
+VN-NY4-CAP-2-eth7,cts,A-8,B,Victory Networks,233.200.79.167,10.75.128.4,Et37
+VN-NY4-TP-5-eth1,cts,A-8,B,Victory Networks,233.200.79.167,10.75.128.4,Et44
+VN-NY4-SANDBOX-2,cts,A-8,B,Victory Networks,233.200.79.167,10.75.128.11,Et13
+VN-NY4-TP-4-p3p2,cts,A-9,B,Victory Networks,233.200.79.168,10.75.128.4,Et34
+VN-NY4-CAP-2-eth7,cts,A-9,B,Victory Networks,233.200.79.168,10.75.128.4,Et37
+VN-NY4-TP-5-eth1,cts,A-9,B,Victory Networks,233.200.79.168,10.75.128.4,Et44
+VN-NY4-SANDBOX-2,cts,A-9,B,Victory Networks,233.200.79.168,10.75.128.11,Et13
+VN-NY4-TP-4-p3p2,cts,A-10,B,Victory Networks,233.200.79.169,10.75.128.4,Et34
+VN-NY4-CAP-2-eth7,cts,A-10,B,Victory Networks,233.200.79.169,10.75.128.4,Et37
+VN-NY4-TP-5-eth1,cts,A-10,B,Victory Networks,233.200.79.169,10.75.128.4,Et44
+VN-NY4-SANDBOX-2,cts,A-10,B,Victory Networks,233.200.79.169,10.75.128.11,Et13
+VN-NY4-TP-4-p3p1,cqs,F-2,A,Victory Networks,233.200.79.17,10.75.128.9,Et10
+VN-NY4-TP-5-p5p1,cqs,F-2,A,Victory Networks,233.200.79.17,10.75.128.9,Et25
+VN-NY4-SANDBOX-2,cqs,F-2,A,Victory Networks,233.200.79.17,10.75.128.11,Et15
+VN-NY4-TP-4-p3p2,cts,A-11,B,Victory Networks,233.200.79.170,10.75.128.4,Et34
+VN-NY4-CAP-2-eth7,cts,A-11,B,Victory Networks,233.200.79.170,10.75.128.4,Et37
+VN-NY4-TP-5-eth1,cts,A-11,B,Victory Networks,233.200.79.170,10.75.128.4,Et44
+VN-NY4-SANDBOX-2,cts,A-11,B,Victory Networks,233.200.79.170,10.75.128.11,Et13
+VN-NY4-TP-4-p3p2,cts,A-12,B,Victory Networks,233.200.79.171,10.75.128.4,Et34
+VN-NY4-CAP-2-eth7,cts,A-12,B,Victory Networks,233.200.79.171,10.75.128.4,Et37
+VN-NY4-TP-5-eth1,cts,A-12,B,Victory Networks,233.200.79.171,10.75.128.4,Et44
+VN-NY4-SANDBOX-2,cts,A-12,B,Victory Networks,233.200.79.171,10.75.128.11,Et13
+VN-NY4-CAP-2-eth7,not-found,not-found,not-found,Victory Networks,233.200.79.172,10.75.128.4,Et37
+VN-NY4-TP-5-p5p2,cts,B-1,B,Victory Networks,233.200.79.176,10.75.128.4,Et15
+VN-NY4-TP-4-p3p2,cts,B-1,B,Victory Networks,233.200.79.176,10.75.128.4,Et34
+VN-NY4-CAP-2-eth7,cts,B-1,B,Victory Networks,233.200.79.176,10.75.128.4,Et37
+VN-NY4-SANDBOX-2,cts,B-1,B,Victory Networks,233.200.79.176,10.75.128.11,Et13
+VN-NY4-TP-5-p5p2,cts,B-2,B,Victory Networks,233.200.79.177,10.75.128.4,Et15
+VN-NY4-TP-4-p3p2,cts,B-2,B,Victory Networks,233.200.79.177,10.75.128.4,Et34
+VN-NY4-CAP-2-eth7,cts,B-2,B,Victory Networks,233.200.79.177,10.75.128.4,Et37
+VN-NY4-SANDBOX-2,cts,B-2,B,Victory Networks,233.200.79.177,10.75.128.11,Et13
+VN-NY4-TP-5-p5p2,cts,B-3,B,Victory Networks,233.200.79.178,10.75.128.4,Et15
+VN-NY4-TP-4-p3p2,cts,B-3,B,Victory Networks,233.200.79.178,10.75.128.4,Et34
+VN-NY4-CAP-2-eth7,cts,B-3,B,Victory Networks,233.200.79.178,10.75.128.4,Et37
+VN-NY4-SANDBOX-2,cts,B-3,B,Victory Networks,233.200.79.178,10.75.128.11,Et13
+VN-NY4-TP-5-p5p2,cts,B-4,B,Victory Networks,233.200.79.179,10.75.128.4,Et15
+VN-NY4-TP-4-p3p2,cts,B-4,B,Victory Networks,233.200.79.179,10.75.128.4,Et34
+VN-NY4-CAP-2-eth7,cts,B-4,B,Victory Networks,233.200.79.179,10.75.128.4,Et37
+VN-NY4-SANDBOX-2,cts,B-4,B,Victory Networks,233.200.79.179,10.75.128.11,Et12
+VN-NY4-TP-4-p3p1,cqs,F-3,A,Victory Networks,233.200.79.18,10.75.128.9,Et10
+VN-NY4-TP-5-p5p1,cqs,F-3,A,Victory Networks,233.200.79.18,10.75.128.9,Et25
+VN-NY4-SANDBOX-2,cqs,F-3,A,Victory Networks,233.200.79.18,10.75.128.11,Et15
+VN-NY4-TP-5-p5p2,cts,B-5,B,Victory Networks,233.200.79.180,10.75.128.4,Et15
+VN-NY4-TP-4-p3p2,cts,B-5,B,Victory Networks,233.200.79.180,10.75.128.4,Et34
+VN-NY4-CAP-2-eth7,cts,B-5,B,Victory Networks,233.200.79.180,10.75.128.4,Et37
+VN-NY4-SANDBOX-2,cts,B-5,B,Victory Networks,233.200.79.180,10.75.128.11,Et12
+VN-NY4-TP-5-p5p2,cts,B-6,B,Victory Networks,233.200.79.181,10.75.128.4,Et15
+VN-NY4-TP-4-p3p2,cts,B-6,B,Victory Networks,233.200.79.181,10.75.128.4,Et34
+VN-NY4-CAP-2-eth7,cts,B-6,B,Victory Networks,233.200.79.181,10.75.128.4,Et37
+VN-NY4-SANDBOX-2,cts,B-6,B,Victory Networks,233.200.79.181,10.75.128.11,Et12
+VN-NY4-TP-4-p2p1,cts,B-7,B,Victory Networks,233.200.79.182,10.75.128.4,Et33
+VN-NY4-CAP-2-eth7,cts,B-7,B,Victory Networks,233.200.79.182,10.75.128.4,Et37
+VN-NY4-TP-5-p2p2,cts,B-7,B,Victory Networks,233.200.79.182,10.75.128.4,Et43
+VN-NY4-SANDBOX-2,cts,B-7,B,Victory Networks,233.200.79.182,10.75.128.11,Et12
+VN-NY4-TP-4-p2p1,cts,B-8,B,Victory Networks,233.200.79.183,10.75.128.4,Et33
+VN-NY4-CAP-2-eth7,cts,B-8,B,Victory Networks,233.200.79.183,10.75.128.4,Et37
+VN-NY4-TP-5-p2p2,cts,B-8,B,Victory Networks,233.200.79.183,10.75.128.4,Et43
+VN-NY4-SANDBOX-2,cts,B-8,B,Victory Networks,233.200.79.183,10.75.128.11,Et12
+VN-NY4-TP-4-p2p1,cts,B-9,B,Victory Networks,233.200.79.184,10.75.128.4,Et33
+VN-NY4-CAP-2-eth7,cts,B-9,B,Victory Networks,233.200.79.184,10.75.128.4,Et37
+VN-NY4-TP-5-p2p2,cts,B-9,B,Victory Networks,233.200.79.184,10.75.128.4,Et43
+VN-NY4-SANDBOX-2,cts,B-9,B,Victory Networks,233.200.79.184,10.75.128.11,Et12
+VN-NY4-TP-4-p1p2,cts,B-10,B,Victory Networks,233.200.79.185,10.75.128.4,Et23
+VN-NY4-CAP-2-eth7,cts,B-10,B,Victory Networks,233.200.79.185,10.75.128.4,Et37
+VN-NY4-TP-5-eth5,cts,B-10,B,Victory Networks,233.200.79.185,10.75.128.4,Et48
+VN-NY4-SANDBOX-2,cts,B-10,B,Victory Networks,233.200.79.185,10.75.128.11,Et12
+VN-NY4-TP-4-p1p2,cts,B-11,B,Victory Networks,233.200.79.186,10.75.128.4,Et23
+VN-NY4-CAP-2-eth7,cts,B-11,B,Victory Networks,233.200.79.186,10.75.128.4,Et37
+VN-NY4-TP-5-eth5,cts,B-11,B,Victory Networks,233.200.79.186,10.75.128.4,Et48
+VN-NY4-SANDBOX-2,cts,B-11,B,Victory Networks,233.200.79.186,10.75.128.11,Et12
+VN-NY4-TP-4-p1p2,cts,B-12,B,Victory Networks,233.200.79.187,10.75.128.4,Et23
+VN-NY4-CAP-2-eth7,cts,B-12,B,Victory Networks,233.200.79.187,10.75.128.4,Et37
+VN-NY4-TP-5-eth5,cts,B-12,B,Victory Networks,233.200.79.187,10.75.128.4,Et48
+VN-NY4-SANDBOX-2,cts,B-12,B,Victory Networks,233.200.79.187,10.75.128.11,Et12
+VN-NY4-CAP-2-eth7,not-found,not-found,not-found,Victory Networks,233.200.79.188,10.75.128.4,Et37
+VN-NY4-CAP-2-eth7,not-found,not-found,not-found,Victory Networks,233.200.79.189,10.75.128.4,Et37
+VN-NY4-TP-4-p3p1,cqs,F-4,A,Victory Networks,233.200.79.19,10.75.128.9,Et10
+VN-NY4-TP-5-p5p1,cqs,F-4,A,Victory Networks,233.200.79.19,10.75.128.9,Et25
+VN-NY4-SANDBOX-2,cqs,F-4,A,Victory Networks,233.200.79.19,10.75.128.9,Et30
+VN-NY4-CAP-2-eth7,cts,Index 1 for Networks A and B,B,Victory Networks,233.200.79.190,10.75.128.4,Et37
+VN-NY4-CAP-2-eth7,cts,Index 2 for Networks A and B,B,Victory Networks,233.200.79.191,10.75.128.4,Et37
+VN-NY4-TP-4-p3p1,cqs,E-3,A,Victory Networks,233.200.79.2,10.75.128.9,Et10
+VN-NY4-SP-2,cqs,E-3,A,Victory Networks,233.200.79.2,10.75.128.9,Et26
+VN-NY4-SANDBOX-2,cqs,E-3,A,Victory Networks,233.200.79.2,10.75.128.11,Et15
+VN-NY4-TP-4-p3p1,cqs,F-5,A,Victory Networks,233.200.79.20,10.75.128.9,Et10
+VN-NY4-TP-5-p5p1,cqs,F-5,A,Victory Networks,233.200.79.20,10.75.128.9,Et25
+VN-NY4-SANDBOX-2,cqs,F-5,A,Victory Networks,233.200.79.20,10.75.128.9,Et30
+VN-NY4-TP-4-p3p1,cqs,F-6,A,Victory Networks,233.200.79.21,10.75.128.9,Et10
+VN-NY4-TP-5-p5p1,cqs,F-6,A,Victory Networks,233.200.79.21,10.75.128.9,Et25
+VN-NY4-SANDBOX-2,cqs,F-6,A,Victory Networks,233.200.79.21,10.75.128.9,Et30
+VN-NY4-TP-4-p2p2,cqs,F-7,A,Victory Networks,233.200.79.22,10.75.128.9,Et9
+VN-NY4-TP-5-p2p1,cqs,F-7,A,Victory Networks,233.200.79.22,10.75.128.9,Et13
+VN-NY4-SANDBOX-2,cqs,F-7,A,Victory Networks,233.200.79.22,10.75.128.9,Et30
+VN-NY4-TP-4-p2p2,cqs,F-8,A,Victory Networks,233.200.79.23,10.75.128.9,Et9
+VN-NY4-TP-5-p2p1,cqs,F-8,A,Victory Networks,233.200.79.23,10.75.128.9,Et13
+VN-NY4-SANDBOX-2,cqs,F-8,A,Victory Networks,233.200.79.23,10.75.128.9,Et30
+VN-NY4-TP-4-p2p2,cqs,F-9,A,Victory Networks,233.200.79.24,10.75.128.9,Et9
+VN-NY4-TP-5-p2p1,cqs,F-9,A,Victory Networks,233.200.79.24,10.75.128.9,Et13
+VN-NY4-SANDBOX-2,cqs,F-9,A,Victory Networks,233.200.79.24,10.75.128.9,Et30
+VN-NY4-TP-4-p1p1,cqs,F-10,A,Victory Networks,233.200.79.25,10.75.128.9,Et8
+VN-NY4-TP-5-eth4,cqs,F-10,A,Victory Networks,233.200.79.25,10.75.128.9,Et16
+VN-NY4-SANDBOX-2,cqs,F-10,A,Victory Networks,233.200.79.25,10.75.128.9,Et30
+VN-NY4-TP-4-p1p1,cqs,F-11,A,Victory Networks,233.200.79.26,10.75.128.9,Et8
+VN-NY4-TP-5-eth4,cqs,F-11,A,Victory Networks,233.200.79.26,10.75.128.9,Et16
+VN-NY4-SANDBOX-2,cqs,F-11,A,Victory Networks,233.200.79.26,10.75.128.9,Et30
+VN-NY4-TP-4-p1p1,cqs,F-12,A,Victory Networks,233.200.79.27,10.75.128.9,Et8
+VN-NY4-TP-5-eth4,cqs,F-12,A,Victory Networks,233.200.79.27,10.75.128.9,Et16
+VN-NY4-SANDBOX-2,cqs,F-12,A,Victory Networks,233.200.79.27,10.75.128.9,Et30
+VN-NY4-CAP-2-eth6,not-found,not-found,not-found,Victory Networks,233.200.79.28,10.75.128.9,Et15
+VN-NY4-TP-4-p3p1,cqs,E-4,A,Victory Networks,233.200.79.3,10.75.128.9,Et10
+VN-NY4-SP-2,cqs,E-4,A,Victory Networks,233.200.79.3,10.75.128.9,Et26
+VN-NY4-SANDBOX-2,cqs,E-4,A,Victory Networks,233.200.79.3,10.75.128.11,Et15
+VN-NY4-TP-4-p3p2,cqs,E-1,B,Victory Networks,233.200.79.32,10.75.128.4,Et34
+VN-NY4-CAP-2-eth7,cqs,E-1,B,Victory Networks,233.200.79.32,10.75.128.4,Et37
+VN-NY4-TP-5-eth1,cqs,E-1,B,Victory Networks,233.200.79.32,10.75.128.4,Et44
+VN-NY4-SANDBOX-2,cqs,E-1,B,Victory Networks,233.200.79.32,10.75.128.11,Et13
+VN-NY4-TP-4-p3p2,cqs,E-2,B,Victory Networks,233.200.79.33,10.75.128.4,Et34
+VN-NY4-CAP-2-eth7,cqs,E-2,B,Victory Networks,233.200.79.33,10.75.128.4,Et37
+VN-NY4-TP-5-eth1,cqs,E-2,B,Victory Networks,233.200.79.33,10.75.128.4,Et44
+VN-NY4-SANDBOX-2,cqs,E-2,B,Victory Networks,233.200.79.33,10.75.128.11,Et13
+VN-NY4-TP-4-p3p2,cqs,E-3,B,Victory Networks,233.200.79.34,10.75.128.4,Et34
+VN-NY4-CAP-2-eth7,cqs,E-3,B,Victory Networks,233.200.79.34,10.75.128.4,Et37
+VN-NY4-TP-5-eth1,cqs,E-3,B,Victory Networks,233.200.79.34,10.75.128.4,Et44
+VN-NY4-SANDBOX-2,cqs,E-3,B,Victory Networks,233.200.79.34,10.75.128.11,Et13
+VN-NY4-TP-4-p3p2,cqs,E-4,B,Victory Networks,233.200.79.35,10.75.128.4,Et34
+VN-NY4-CAP-2-eth7,cqs,E-4,B,Victory Networks,233.200.79.35,10.75.128.4,Et37
+VN-NY4-TP-5-eth1,cqs,E-4,B,Victory Networks,233.200.79.35,10.75.128.4,Et44
+VN-NY4-SANDBOX-2,cqs,E-4,B,Victory Networks,233.200.79.35,10.75.128.11,Et13
+VN-NY4-TP-4-p3p2,cqs,E-5,B,Victory Networks,233.200.79.36,10.75.128.4,Et34
+VN-NY4-CAP-2-eth7,cqs,E-5,B,Victory Networks,233.200.79.36,10.75.128.4,Et37
+VN-NY4-TP-5-eth1,cqs,E-5,B,Victory Networks,233.200.79.36,10.75.128.4,Et44
+VN-NY4-SANDBOX-2,cqs,E-5,B,Victory Networks,233.200.79.36,10.75.128.11,Et13
+VN-NY4-TP-4-p3p2,cqs,E-6,B,Victory Networks,233.200.79.37,10.75.128.4,Et34
+VN-NY4-CAP-2-eth7,cqs,E-6,B,Victory Networks,233.200.79.37,10.75.128.4,Et37
+VN-NY4-TP-5-eth1,cqs,E-6,B,Victory Networks,233.200.79.37,10.75.128.4,Et44
+VN-NY4-SANDBOX-2,cqs,E-6,B,Victory Networks,233.200.79.37,10.75.128.11,Et13
+VN-NY4-TP-4-p3p2,cqs,E-7,B,Victory Networks,233.200.79.38,10.75.128.4,Et34
+VN-NY4-CAP-2-eth7,cqs,E-7,B,Victory Networks,233.200.79.38,10.75.128.4,Et37
+VN-NY4-TP-5-eth1,cqs,E-7,B,Victory Networks,233.200.79.38,10.75.128.4,Et44
+VN-NY4-SANDBOX-2,cqs,E-7,B,Victory Networks,233.200.79.38,10.75.128.11,Et13
+VN-NY4-TP-4-p3p2,cqs,E-8,B,Victory Networks,233.200.79.39,10.75.128.4,Et34
+VN-NY4-CAP-2-eth7,cqs,E-8,B,Victory Networks,233.200.79.39,10.75.128.4,Et37
+VN-NY4-TP-5-eth1,cqs,E-8,B,Victory Networks,233.200.79.39,10.75.128.4,Et44
+VN-NY4-SANDBOX-2,cqs,E-8,B,Victory Networks,233.200.79.39,10.75.128.11,Et13
+VN-NY4-TP-4-p3p1,cqs,E-5,A,Victory Networks,233.200.79.4,10.75.128.9,Et10
+VN-NY4-SP-2,cqs,E-5,A,Victory Networks,233.200.79.4,10.75.128.9,Et26
+VN-NY4-SANDBOX-2,cqs,E-5,A,Victory Networks,233.200.79.4,10.75.128.11,Et15
+VN-NY4-TP-4-p3p2,cqs,E-9,B,Victory Networks,233.200.79.40,10.75.128.4,Et34
+VN-NY4-CAP-2-eth7,cqs,E-9,B,Victory Networks,233.200.79.40,10.75.128.4,Et37
+VN-NY4-TP-5-eth1,cqs,E-9,B,Victory Networks,233.200.79.40,10.75.128.4,Et44
+VN-NY4-SANDBOX-2,cqs,E-9,B,Victory Networks,233.200.79.40,10.75.128.11,Et13
+VN-NY4-TP-4-p3p2,cqs,E-10,B,Victory Networks,233.200.79.41,10.75.128.4,Et34
+VN-NY4-CAP-2-eth7,cqs,E-10,B,Victory Networks,233.200.79.41,10.75.128.4,Et37
+VN-NY4-TP-5-eth1,cqs,E-10,B,Victory Networks,233.200.79.41,10.75.128.4,Et44
+VN-NY4-SANDBOX-2,cqs,E-10,B,Victory Networks,233.200.79.41,10.75.128.11,Et13
+VN-NY4-TP-4-p3p2,cqs,E-11,B,Victory Networks,233.200.79.42,10.75.128.4,Et34
+VN-NY4-CAP-2-eth7,cqs,E-11,B,Victory Networks,233.200.79.42,10.75.128.4,Et37
+VN-NY4-TP-5-eth1,cqs,E-11,B,Victory Networks,233.200.79.42,10.75.128.4,Et44
+VN-NY4-SANDBOX-2,cqs,E-11,B,Victory Networks,233.200.79.42,10.75.128.11,Et13
+VN-NY4-TP-4-p3p2,cqs,E-12,B,Victory Networks,233.200.79.43,10.75.128.4,Et34
+VN-NY4-CAP-2-eth7,cqs,E-12,B,Victory Networks,233.200.79.43,10.75.128.4,Et37
+VN-NY4-TP-5-eth1,cqs,E-12,B,Victory Networks,233.200.79.43,10.75.128.4,Et44
+VN-NY4-SANDBOX-2,cqs,E-12,B,Victory Networks,233.200.79.43,10.75.128.11,Et13
+VN-NY4-CAP-2-eth7,not-found,not-found,not-found,Victory Networks,233.200.79.44,10.75.128.4,Et37
+VN-NY4-TP-5-p5p2,cqs,F-1,B,Victory Networks,233.200.79.48,10.75.128.4,Et15
+VN-NY4-TP-4-p3p2,cqs,F-1,B,Victory Networks,233.200.79.48,10.75.128.4,Et34
+VN-NY4-CAP-2-eth7,cqs,F-1,B,Victory Networks,233.200.79.48,10.75.128.4,Et37
+VN-NY4-SANDBOX-2,cqs,F-1,B,Victory Networks,233.200.79.48,10.75.128.11,Et13
+VN-NY4-TP-5-p5p2,cqs,F-2,B,Victory Networks,233.200.79.49,10.75.128.4,Et15
+VN-NY4-TP-4-p3p2,cqs,F-2,B,Victory Networks,233.200.79.49,10.75.128.4,Et34
+VN-NY4-CAP-2-eth7,cqs,F-2,B,Victory Networks,233.200.79.49,10.75.128.4,Et37
+VN-NY4-SANDBOX-2,cqs,F-2,B,Victory Networks,233.200.79.49,10.75.128.11,Et13
+VN-NY4-TP-4-p3p1,cqs,E-6,A,Victory Networks,233.200.79.5,10.75.128.9,Et10
+VN-NY4-SP-2,cqs,E-6,A,Victory Networks,233.200.79.5,10.75.128.9,Et26
+VN-NY4-SANDBOX-2,cqs,E-6,A,Victory Networks,233.200.79.5,10.75.128.11,Et15
+VN-NY4-TP-5-p5p2,cqs,F-3,B,Victory Networks,233.200.79.50,10.75.128.4,Et15
+VN-NY4-TP-4-p3p2,cqs,F-3,B,Victory Networks,233.200.79.50,10.75.128.4,Et34
+VN-NY4-CAP-2-eth7,cqs,F-3,B,Victory Networks,233.200.79.50,10.75.128.4,Et37
+VN-NY4-SANDBOX-2,cqs,F-3,B,Victory Networks,233.200.79.50,10.75.128.11,Et13
+VN-NY4-TP-5-p5p2,cqs,F-4,B,Victory Networks,233.200.79.51,10.75.128.4,Et15
+VN-NY4-TP-4-p3p2,cqs,F-4,B,Victory Networks,233.200.79.51,10.75.128.4,Et34
+VN-NY4-CAP-2-eth7,cqs,F-4,B,Victory Networks,233.200.79.51,10.75.128.4,Et37
+VN-NY4-SANDBOX-2,cqs,F-4,B,Victory Networks,233.200.79.51,10.75.128.11,Et12
+VN-NY4-TP-5-p5p2,cqs,F-5,B,Victory Networks,233.200.79.52,10.75.128.4,Et15
+VN-NY4-TP-4-p3p2,cqs,F-5,B,Victory Networks,233.200.79.52,10.75.128.4,Et34
+VN-NY4-CAP-2-eth7,cqs,F-5,B,Victory Networks,233.200.79.52,10.75.128.4,Et37
+VN-NY4-SANDBOX-2,cqs,F-5,B,Victory Networks,233.200.79.52,10.75.128.11,Et12
+VN-NY4-TP-5-p5p2,cqs,F-6,B,Victory Networks,233.200.79.53,10.75.128.4,Et15
+VN-NY4-TP-4-p3p2,cqs,F-6,B,Victory Networks,233.200.79.53,10.75.128.4,Et34
+VN-NY4-CAP-2-eth7,cqs,F-6,B,Victory Networks,233.200.79.53,10.75.128.4,Et37
+VN-NY4-SANDBOX-2,cqs,F-6,B,Victory Networks,233.200.79.53,10.75.128.11,Et12
+VN-NY4-TP-4-p2p1,cqs,F-7,B,Victory Networks,233.200.79.54,10.75.128.4,Et33
+VN-NY4-CAP-2-eth7,cqs,F-7,B,Victory Networks,233.200.79.54,10.75.128.4,Et37
+VN-NY4-TP-5-p2p2,cqs,F-7,B,Victory Networks,233.200.79.54,10.75.128.4,Et43
+VN-NY4-SANDBOX-2,cqs,F-7,B,Victory Networks,233.200.79.54,10.75.128.11,Et12
+VN-NY4-TP-4-p2p1,cqs,F-8,B,Victory Networks,233.200.79.55,10.75.128.4,Et33
+VN-NY4-CAP-2-eth7,cqs,F-8,B,Victory Networks,233.200.79.55,10.75.128.4,Et37
+VN-NY4-TP-5-p2p2,cqs,F-8,B,Victory Networks,233.200.79.55,10.75.128.4,Et43
+VN-NY4-SANDBOX-2,cqs,F-8,B,Victory Networks,233.200.79.55,10.75.128.11,Et12
+VN-NY4-TP-4-p2p1,cqs,F-9,B,Victory Networks,233.200.79.56,10.75.128.4,Et33
+VN-NY4-CAP-2-eth7,cqs,F-9,B,Victory Networks,233.200.79.56,10.75.128.4,Et37
+VN-NY4-TP-5-p2p2,cqs,F-9,B,Victory Networks,233.200.79.56,10.75.128.4,Et43
+VN-NY4-SANDBOX-2,cqs,F-9,B,Victory Networks,233.200.79.56,10.75.128.11,Et12
+VN-NY4-TP-4-p1p2,cqs,F-10,B,Victory Networks,233.200.79.57,10.75.128.4,Et23
+VN-NY4-CAP-2-eth7,cqs,F-10,B,Victory Networks,233.200.79.57,10.75.128.4,Et37
+VN-NY4-TP-5-eth5,cqs,F-10,B,Victory Networks,233.200.79.57,10.75.128.4,Et48
+VN-NY4-SANDBOX-2,cqs,F-10,B,Victory Networks,233.200.79.57,10.75.128.11,Et12
+VN-NY4-TP-4-p1p2,cqs,F-11,B,Victory Networks,233.200.79.58,10.75.128.4,Et23
+VN-NY4-CAP-2-eth7,cqs,F-11,B,Victory Networks,233.200.79.58,10.75.128.4,Et37
+VN-NY4-TP-5-eth5,cqs,F-11,B,Victory Networks,233.200.79.58,10.75.128.4,Et48
+VN-NY4-SANDBOX-2,cqs,F-11,B,Victory Networks,233.200.79.58,10.75.128.11,Et12
+VN-NY4-TP-4-p1p2,cqs,F-12,B,Victory Networks,233.200.79.59,10.75.128.4,Et23
+VN-NY4-CAP-2-eth7,cqs,F-12,B,Victory Networks,233.200.79.59,10.75.128.4,Et37
+VN-NY4-TP-5-eth5,cqs,F-12,B,Victory Networks,233.200.79.59,10.75.128.4,Et48
+VN-NY4-SANDBOX-2,cqs,F-12,B,Victory Networks,233.200.79.59,10.75.128.11,Et12
+VN-NY4-TP-4-p3p1,cqs,E-7,A,Victory Networks,233.200.79.6,10.75.128.9,Et10
+VN-NY4-SP-2,cqs,E-7,A,Victory Networks,233.200.79.6,10.75.128.9,Et26
+VN-NY4-SANDBOX-2,cqs,E-7,A,Victory Networks,233.200.79.6,10.75.128.11,Et15
+VN-NY4-CAP-2-eth7,not-found,not-found,not-found,Victory Networks,233.200.79.60,10.75.128.4,Et37
+VN-NY4-TP-4-p3p1,cqs,E-8,A,Victory Networks,233.200.79.7,10.75.128.9,Et10
+VN-NY4-SP-2,cqs,E-8,A,Victory Networks,233.200.79.7,10.75.128.9,Et26
+VN-NY4-SANDBOX-2,cqs,E-8,A,Victory Networks,233.200.79.7,10.75.128.11,Et15
+VN-NY4-TP-4-p3p1,cqs,E-9,A,Victory Networks,233.200.79.8,10.75.128.9,Et10
+VN-NY4-SP-2,cqs,E-9,A,Victory Networks,233.200.79.8,10.75.128.9,Et26
+VN-NY4-SANDBOX-2,cqs,E-9,A,Victory Networks,233.200.79.8,10.75.128.11,Et15
+VN-NY4-TP-4-p3p1,cqs,E-10,A,Victory Networks,233.200.79.9,10.75.128.9,Et10
+VN-NY4-SP-2,cqs,E-10,A,Victory Networks,233.200.79.9,10.75.128.9,Et26
+VN-NY4-SANDBOX-2,cqs,E-10,A,Victory Networks,233.200.79.9,10.75.128.11,Et15
+VN-NY4-TP-6-p3p1,bats_edga,Session 1,B,Victory Networks,233.209.92.0,10.75.128.4,Et28
+VN-NY4-TP-6-p3p1,bats_edga,Session 5,B,Victory Networks,233.209.92.1,10.75.128.4,Et28
+VN-NY4-TP-6-p3p1,bzx,not-found,B,Victory Networks,233.209.92.128,10.75.128.4,Et28
+VN-NY4-TP-6-p3p1,bzx,not-found,B,Victory Networks,233.209.92.129,10.75.128.4,Et28
+VN-NY4-TP-6-p3p1,bzx,not-found,B,Victory Networks,233.209.92.130,10.75.128.4,Et28
+VN-NY4-TP-6-p3p1,bzx,not-found,B,Victory Networks,233.209.92.131,10.75.128.4,Et28
+VN-NY4-TP-6-p2p1,bzx,not-found,B,Victory Networks,233.209.92.132,10.75.128.4,Et30
+VN-NY4-TP-6-p2p1,bzx,not-found,B,Victory Networks,233.209.92.133,10.75.128.4,Et30
+VN-NY4-TP-6-p2p1,bzx,not-found,B,Victory Networks,233.209.92.134,10.75.128.4,Et30
+VN-NY4-TP-6-p2p1,bzx,not-found,B,Victory Networks,233.209.92.135,10.75.128.4,Et30
+VN-NY4-TP-6-p2p1,bzx,all BATS securities,B,Victory Networks,233.209.92.136,10.75.128.4,Et30
+VN-NY4-TP-6-p3p1,byx,Session 1,B,Victory Networks,233.209.92.192,10.75.128.4,Et28
+VN-NY4-TP-6-p3p1,byx,Session 5,B,Victory Networks,233.209.92.193,10.75.128.4,Et28
+VN-NY4-TP-6-p3p1,byx,Session 9,B,Victory Networks,233.209.92.194,10.75.128.4,Et28
+VN-NY4-TP-6-p3p1,byx,Session 13,B,Victory Networks,233.209.92.195,10.75.128.4,Et28
+VN-NY4-TP-6-p2p1,byx,Session 17,B,Victory Networks,233.209.92.196,10.75.128.4,Et30
+VN-NY4-TP-6-p2p1,byx,Session 21,B,Victory Networks,233.209.92.197,10.75.128.4,Et30
+VN-NY4-TP-6-p2p1,byx,Session 25,B,Victory Networks,233.209.92.198,10.75.128.4,Et30
+VN-NY4-TP-6-p2p1,byx,Session 29,B,Victory Networks,233.209.92.199,10.75.128.4,Et30
+VN-NY4-TP-6-p3p1,bats_edga,Session 9,B,Victory Networks,233.209.92.2,10.75.128.4,Et28
+VN-NY4-TP-6-p3p1,bats_edga,Session 13,B,Victory Networks,233.209.92.3,10.75.128.4,Et28
+VN-NY4-TP-6-p2p1,bats_edga,Session 17,B,Victory Networks,233.209.92.4,10.75.128.4,Et30
+VN-NY4-TP-6-p2p1,bats_edga,Session 21,B,Victory Networks,233.209.92.5,10.75.128.4,Et30
+VN-NY4-TP-6-p2p1,bats_edga,Session 25,B,Victory Networks,233.209.92.6,10.75.128.4,Et30
+VN-NY4-TP-6-p3p1,bats_edgx,Session 1,B,Victory Networks,233.209.92.64,10.75.128.4,Et28
+VN-NY4-TP-6-p3p1,bats_edgx,Session 5,B,Victory Networks,233.209.92.65,10.75.128.4,Et28
+VN-NY4-TP-6-p3p1,bats_edgx,Session 9,B,Victory Networks,233.209.92.66,10.75.128.4,Et28
+VN-NY4-TP-6-p3p1,bats_edgx,Session 13,B,Victory Networks,233.209.92.67,10.75.128.4,Et28
+VN-NY4-TP-6-p2p1,bats_edgx,Session 17,B,Victory Networks,233.209.92.68,10.75.128.4,Et30
+VN-NY4-TP-6-p2p1,bats_edgx,Session 21,B,Victory Networks,233.209.92.69,10.75.128.4,Et30
+VN-NY4-TP-6-p2p1,bats_edga,Session 29,B,Victory Networks,233.209.92.7,10.75.128.4,Et30
+VN-NY4-TP-6-p2p1,bats_edgx,Session 25,B,Victory Networks,233.209.92.70,10.75.128.4,Et30
+VN-NY4-TP-6-p2p1,bats_edgx,Session 29,B,Victory Networks,233.209.92.71,10.75.128.4,Et30
+VN-NY4-CAP-2-eth6,iex_tops_ats,not-found,A,Victory Networks,233.215.21.1,10.75.128.9,Et15
+VN-NY4-CAP-2-eth6,iex_tops,not-found,A,Victory Networks,233.215.21.2,10.75.128.9,Et15
+VN-NY4-TP-2-eth8,opra,Session 1,A,Victory Networks,233.43.202.1,10.75.128.9,Et5
+VN-NY4-TP-4-p2p2,opra,Session 1,A,Victory Networks,233.43.202.1,10.75.128.9,Et9
+VN-NY4-TP-2-eth8,opra,Session 10,A,Victory Networks,233.43.202.10,10.75.128.9,Et5
+VN-NY4-TP-4-p3p1,opra,Session 10,A,Victory Networks,233.43.202.10,10.75.128.9,Et10
+VN-NY4-TP-2-eth8,opra,Session 11,A,Victory Networks,233.43.202.11,10.75.128.9,Et5
+VN-NY4-TP-4-p3p1,opra,Session 11,A,Victory Networks,233.43.202.11,10.75.128.9,Et10
+VN-NY4-TP-2-eth11,opra,Session 12,A,Victory Networks,233.43.202.12,10.75.128.9,Et4
+VN-NY4-TP-4-p3p1,opra,Session 12,A,Victory

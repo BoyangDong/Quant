@@ -1,0 +1,1471 @@
+10.10.4.6	catalyst
+SEND COMMAND: show interface description
+{'Vl1': ('down', 'admin', 'down', 'Vl1                            admin down     down     \r')}
+{'Vl4': ('Management Interface', 'up', 'up', 'Vl4                            up             up       Management Interface\r')}
+{('Fa0',): ('', 'down', 'down', 'Fa0                            down           down     \r')}
+{'Gi1/0/1': ('Edgerouter-E0', 'down', 'down', 'Gi1/0/1                        down           down     Edgerouter-E0\r')}
+{'Gi1/0/2': ('SM-NY4-RISK-1-mgt', 'up', 'up', 'Gi1/0/2                        up             up       SM-NY4-RISK-1-mgt\r')}
+{'Gi1/0/3': ('HE-SRV-RDP-4-iLO', 'up', 'up', 'Gi1/0/3                        up             up       HE-SRV-RDP-4-iLO\r')}
+{'Gi1/0/4': ('UR-SRV-EVM-1', 'up', 'up', 'Gi1/0/4                        up             up       UR-SRV-EVM-1\r')}
+{'Gi1/0/5': ('Edgerouter-E1', 'down', 'down', 'Gi1/0/5                        down           down     Edgerouter-E1\r')}
+{'Gi1/0/6': ('TA-SRV-JB-5-mgt', 'up', 'up', 'Gi1/0/6                        up             up       TA-SRV-JB-5-mgt\r')}
+{('Gi1/0/7',): ('', 'down', 'down', 'Gi1/0/7                        down           down     \r')}
+{('Gi1/0/8',): ('', 'down', 'down', 'Gi1/0/8                        down           down     \r')}
+{'Gi1/0/9': ('MST-NY4-5', 'up', 'up', 'Gi1/0/9                        up             up       MST-NY4-5\r')}
+{'Gi1/0/10': ('VN-NY4-CAP-1-mgt', 'up', 'up', 'Gi1/0/10                       up             up       VN-NY4-CAP-1-mgt\r')}
+{'Gi1/0/11': ('fw-vpn-1-755s g0/0', 'up', 'up', 'Gi1/0/11                       up             up       fw-vpn-1-755s g0/0\r')}
+{'Gi1/0/12': ('VIV-NY4-PROD-1', 'up', 'up', 'Gi1/0/12                       up             up       VIV-NY4-PROD-1\r')}
+{('Gi1/0/13',): ('', 'down', 'down', 'Gi1/0/13                       down           down     \r')}
+{('Gi1/0/14',): ('', 'down', 'down', 'Gi1/0/14                       down           down     \r')}
+{('Gi1/0/15',): ('', 'down', 'down', 'Gi1/0/15                       down           down     \r')}
+{'Gi1/0/16': ('SC-NY4-JME-5-mgmt', 'up', 'up', 'Gi1/0/16                       up             up       SC-NY4-JME-5-mgmt\r')}
+{'Gi1/0/17': ('fw-vpn-1-755s g0/1', 'up', 'up', 'Gi1/0/17                       up             up       fw-vpn-1-755s g0/1 \r')}
+{'Gi1/0/18': ('fw-net-1-755s e1/4 Internet DMZ', 'up', 'up', 'Gi1/0/18                       up             up       fw-net-1-755s e1/4 Internet DMZ\r')}
+{'Gi1/0/19': ('SM-NY4-LAE-8-iLO', 'up', 'up', 'Gi1/0/19                       up             up       SM-NY4-LAE-8-iLO\r')}
+{'Gi1/0/20': ('TA-SRV-JB-4-mgt', 'up', 'up', 'Gi1/0/20                       up             up       TA-SRV-JB-4-mgt\r')}
+{'Gi1/0/21': ('VN-NY4-VPN-1-OUTSIDE', 'up', 'up', 'Gi1/0/21                       up             up       VN-NY4-VPN-1-OUTSIDE\r')}
+{'Gi1/0/22': ('VN-NY4-VPN-1-INSIDE', 'up', 'up', 'Gi1/0/22                       up             up       VN-NY4-VPN-1-INSIDE\r')}
+{'Gi1/0/23': ('VN-NY4-SANDBOX-2', 'up', 'up', 'Gi1/0/23                       up             up       VN-NY4-SANDBOX-2\r')}
+{'Gi1/0/24': ('SM-NY4-SBM-1(PROD149)-MGT-unplugged', 'down', 'down', 'Gi1/0/24                       down           down     SM-NY4-SBM-1(PROD149)-MGT-unplugged\r')}
+{'Gi1/0/25': ('SM-NY4-DAV-3-MGT', 'up', 'up', 'Gi1/0/25                       up             up       SM-NY4-DAV-3-MGT\r')}
+{'Gi1/0/26': ('MS-NY4-CAP-2', 'up', 'up', 'Gi1/0/26                       up             up       MS-NY4-CAP-2\r')}
+{'Gi1/0/27': ('MT-NY4-BRY-3-mgmt', 'up', 'up', 'Gi1/0/27                       up             up       MT-NY4-BRY-3-mgmt\r')}
+{'Gi1/0/28': ('SB-SRV-SBM-1', 'up', 'up', 'Gi1/0/28                       up             up       SB-SRV-SBM-1\r')}
+{'Gi1/0/29': ('VN-NY4-SANDBOX-1', 'up', 'up', 'Gi1/0/29                       up             up       VN-NY4-SANDBOX-1\r')}
+{'Gi1/0/30': ('SM-NY4-STE-1-iLO', 'up', 'up', 'Gi1/0/30                       up             up       SM-NY4-STE-1-iLO\r')}
+{'Gi1/0/31': ('SM-NY4-LAW-2-mgmt', 'up', 'up', 'Gi1/0/31                       up             up       SM-NY4-LAW-2-mgmt\r')}
+{'Gi1/0/32': ('SM-NY4-IMPT-2-MGMT', 'up', 'up', 'Gi1/0/32                       up             up       SM-NY4-IMPT-2-MGMT\r')}
+{'Gi1/0/33': ('CT-SRV-GNN-1', 'up', 'up', 'Gi1/0/33                       up             up       CT-SRV-GNN-1\r')}
+{'Gi1/0/34': ('down SM-NY4-DAV1-mgmt', 'admin', 'down', 'Gi1/0/34                       admin down     down     SM-NY4-DAV1-mgmt\r')}
+{'Gi1/0/35': ('EW-SRV-DZL-1-iLO', 'up', 'up', 'Gi1/0/35                       up             up       EW-SRV-DZL-1-iLO\r')}
+{'Gi1/0/36': ('SP-SRV-ORC-2', 'up', 'up', 'Gi1/0/36                       up             up       SP-SRV-ORC-2\r')}
+{('Gi1/0/37',): ('', 'down', 'down', 'Gi1/0/37                       down           down     \r')}
+{'Gi1/0/38': ('UR-SRV-EVM-1', 'up', 'up', 'Gi1/0/38                       up             up       UR-SRV-EVM-1\r')}
+{'Gi1/0/39': ('MT-SRV-BRY-1-eth1', 'up', 'up', 'Gi1/0/39                       up             up       MT-SRV-BRY-1-eth1\r')}
+{'Gi1/0/40': ('ES030', 'up', 'up', 'Gi1/0/40                       up             up       ES030\r')}
+{('Gi1/0/41',): ('', 'down', 'down', 'Gi1/0/41                       down           down     \r')}
+{'Gi1/0/42': ('HE-SRV-RDP-1', 'up', 'up', 'Gi1/0/42                       up             up       HE-SRV-RDP-1\r')}
+{'Gi1/0/43': ('SM-NY4-DUG-1-mgmt', 'up', 'up', 'Gi1/0/43                       up             up       SM-NY4-DUG-1-mgmt\r')}
+{'Gi1/0/44': ('HE-SRV-RDP-3', 'up', 'up', 'Gi1/0/44                       up             up       HE-SRV-RDP-3\r')}
+{'Gi1/0/45': ('SC-NY4-JME-4-mgt', 'up', 'up', 'Gi1/0/45                       up             up       SC-NY4-JME-4-mgt\r')}
+{'Gi1/0/46': ('TA-SRV-JB-5-iLO', 'up', 'up', 'Gi1/0/46                       up             up       TA-SRV-JB-5-iLO\r')}
+{'Gi1/0/47': ('Trunk to ml3-core-2-755s', 'up', 'up', 'Gi1/0/47                       up             up       Trunk to ml3-core-2-755s\r')}
+{'Gi1/0/48': ('Trunk to ml3-core-2-755s', 'up', 'up', 'Gi1/0/48                       up             up       Trunk to ml3-core-2-755s\r')}
+{'Gi1/0/49': ('BOA-cross-connect', 'up', 'up', 'Gi1/0/49                       up             up       BOA-cross-connect\r')}
+{'Gi1/0/50': ('Citi', 'up', 'up', 'Gi1/0/50                       up             up       Citi\r')}
+{'Gi1/0/51': ('LiquidPoint-B', 'up', 'up', 'Gi1/0/51                       up             up       LiquidPoint-B\r')}
+{'Gi1/0/52': ('Goldman-VDI', 'up', 'up', 'Gi1/0/52                       up             up       Goldman-VDI\r')}
+{('Po1',): ('', 'down', 'down', 'Po1                            down           down     \r')}
+{('Po2',): ('', 'down', 'down', 'Po2                            down           down     \r')}
+{'Po4': ('VN-NY4-LF-2', 'up', 'up', 'Po4                            up             up       VN-NY4-LF-2\r')}
+{'Po5': ('Trunk to ml3-core-1-755s', 'down', 'down', 'Po5                            down           down     Trunk to ml3-core-1-755s\r')}
+{('Lo0',): ('', 'up', 'up', 'Lo0                            up             up       ')}
+10.10.129.3	catalyst
+SEND COMMAND: show interface description
+{('Vl1',): ('', 'down', 'down', 'Vl1                            down           down     \r')}
+{'Vl41': ('MGT-10.40.0.0/24', 'up', 'up', 'Vl41                           up             up       MGT-10.40.0.0/24\r')}
+{'Vl52': ('Succession-MGT-10.10.5.16/28', 'down', 'down', 'Vl52                           down           down     Succession-MGT-10.10.5.16/28\r')}
+{'Vl53': ('ORATS-10.40.10.0/27', 'up', 'up', 'Vl53                           up             up       ORATS-10.40.10.0/27\r')}
+{'Vl70': ('EdgeCapture-10.75.2.136/29', 'down', 'down', 'Vl70                           down           down     EdgeCapture-10.75.2.136/29\r')}
+{'Vl72': ('CNC-ILO-10.40.1.160/28', 'up', 'up', 'Vl72                           up             up       CNC-ILO-10.40.1.160/28\r')}
+{'Vl73': ('Alapax-iLO-10.40.1.176/28', 'up', 'up', 'Vl73                           up             up       Alapax-iLO-10.40.1.176/28\r')}
+{'Vl201': ('ORATS-DEV-10.75.4.0/29', 'up', 'up', 'Vl201                          up             up       ORATS-DEV-10.75.4.0/29\r')}
+{'Vl265': ('VDI-ACTIV-10.207.43.0/25', 'up', 'up', 'Vl265                          up             up       VDI-ACTIV-10.207.43.0/25\r')}
+{'Vl267': ('Geneva-GS-10.172.1.0/24', 'up', 'up', 'Vl267                          up             up       Geneva-GS-10.172.1.0/24\r')}
+{'Vl270': ('VDI-CBOE-10.46.28.0/25', 'up', 'up', 'Vl270                          up             up       VDI-CBOE-10.46.28.0/25\r')}
+{'Vl405': ('QIP-10.40.17.0/27', 'up', 'up', 'Vl405                          up             up       QIP-10.40.17.0/27\r')}
+{'Vl664': ('Goldman-Geneva-10.95.30.60/30', 'up', 'up', 'Vl664                          up             up       Goldman-Geneva-10.95.30.60/30\r')}
+{'Vl665': ('C&C-MGT-10.40.2.0/27', 'up', 'up', 'Vl665                          up             up       C&C-MGT-10.40.2.0/27\r')}
+{'Vl1001': ('VN-NY5-SP-2-10.40.253.4/30', 'up', 'up', 'Vl1001                         up             up       VN-NY5-SP-2-10.40.253.4/30\r')}
+{'Vl1006': ('down', 'admin', 'down', 'Vl1006                         admin down     down     \r')}
+{'Gi1/1': ('PROD23', 'up', 'up', 'Gi1/1                          up             up       PROD23\r')}
+{'Gi1/2': ('EC-NY5-SRV-3', 'down', 'down', 'Gi1/2                          down           down     EC-NY5-SRV-3\r')}
+{'Gi1/3': ('EC-NY5-SRV-4', 'down', 'down', 'Gi1/3                          down           down     EC-NY5-SRV-4\r')}
+{'Gi1/4': ('STRATCC3-iLO', 'up', 'up', 'Gi1/4                          up             up       STRATCC3-iLO\r')}
+{'Gi1/5': ('CCSTRAT12-iLO', 'up', 'up', 'Gi1/5                          up             up       CCSTRAT12-iLO\r')}
+{'Gi1/6': ('STRATCC1-iLO', 'up', 'up', 'Gi1/6                          up             up       STRATCC1-iLO\r')}
+{'Gi1/7': ('CCSTRAT11-iLO', 'up', 'up', 'Gi1/7                          up             up       CCSTRAT11-iLO\r')}
+{'Gi1/8': ('ALP-NY5-PROD-1-iLO', 'down', 'down', 'Gi1/8                          down           down     ALP-NY5-PROD-1-iLO\r')}
+{'Gi1/9': ('ALP-NY5-PROD-2-iLO', 'up', 'up', 'Gi1/9                          up             up       ALP-NY5-PROD-2-iLO\r')}
+{('Gi1/10',): ('', 'down', 'down', 'Gi1/10                         down           down     \r')}
+{'Gi1/11': ('CC-SEC2-PROD-1', 'up', 'up', 'Gi1/11                         up             up       CC-SEC2-PROD-1\r')}
+{'Gi1/12': ('CC-SEC2-PROD-2', 'up', 'up', 'Gi1/12                         up             up       CC-SEC2-PROD-2\r')}
+{('Gi1/13',): ('', 'down', 'down', 'Gi1/13                         down           down     \r')}
+{'Gi1/14': ('Gserver176T-NIC-1', 'up', 'up', 'Gi1/14                         up             up       Gserver176T-NIC-1\r')}
+{'Gi1/15': ('Gserver176T-NIC-2', 'up', 'up', 'Gi1/15                         up             up       Gserver176T-NIC-2\r')}
+{'Gi1/16': ('Gserver177T-NIC-1', 'up', 'up', 'Gi1/16                         up             up       Gserver177T-NIC-1\r')}
+{'Gi1/17': ('Gserver177T-NIC-2', 'up', 'up', 'Gi1/17                         up             up       Gserver177T-NIC-2\r')}
+{'Gi1/18': ('GS-NY5-PROD-11', 'up', 'up', 'Gi1/18                         up             up       GS-NY5-PROD-11\r')}
+{('Gi1/19',): ('', 'down', 'down', 'Gi1/19                         down           down     \r')}
+{'Gi1/20': ('VN-NY5-NETMON-1', 'down', 'down', 'Gi1/20                         down           down     VN-NY5-NETMON-1\r')}
+{'Gi1/21': ('Gserver179V-NIC-2', 'up', 'up', 'Gi1/21                         up             up       Gserver179V-NIC-2\r')}
+{'Gi1/22': ('Gserver180T-NIC-1', 'up', 'up', 'Gi1/22                         up             up       Gserver180T-NIC-1\r')}
+{'Gi1/23': ('Gserver180T-NIC-2', 'up', 'up', 'Gi1/23                         up             up       Gserver180T-NIC-2\r')}
+{'Gi1/24': ('Gserver181T-NIC-1', 'up', 'up', 'Gi1/24                         up             up       Gserver181T-NIC-1\r')}
+{'Gi1/25': ('Gserver181T-NIC-2', 'up', 'up', 'Gi1/25                         up             up       Gserver181T-NIC-2\r')}
+{'Gi1/26': ('VN-NY4-VM-1-vmnic0', 'up', 'up', 'Gi1/26                         up             up       VN-NY4-VM-1-vmnic0\r')}
+{'Gi1/27': ('VN-NY4-VM-2-vmnic2', 'up', 'up', 'Gi1/27                         up             up       VN-NY4-VM-2-vmnic2\r')}
+{'Gi1/28': ('QIP-NY4-APP-1', 'up', 'up', 'Gi1/28                         up             up       QIP-NY4-APP-1\r')}
+{'Gi1/29': ('PROD18', 'up', 'up', 'Gi1/29                         up             up       PROD18\r')}
+{'Gi1/30': ('BladeChassis', 'up', 'up', 'Gi1/30                         up             up       BladeChassis\r')}
+{'Gi1/31': ('BladeChassis', 'up', 'up', 'Gi1/31                         up             up       BladeChassis\r')}
+{'Gi1/32': ('DEV17', 'up', 'up', 'Gi1/32                         up             up       DEV17\r')}
+{'Gi1/33': ('VN-NY5-NAS-1-mgt', 'up', 'up', 'Gi1/33                         up             up       VN-NY5-NAS-1-mgt\r')}
+{'Gi1/34': ('VN-NY5-NAS-2-mgt', 'down', 'down', 'Gi1/34                         down           down     VN-NY5-NAS-2-mgt\r')}
+{'Gi1/35': ('CC-SEC-PROD-3', 'up', 'up', 'Gi1/35                         up             up       CC-SEC-PROD-3\r')}
+{'Gi1/36': ('EC-NY4-SRV-1', 'up', 'up', 'Gi1/36                         up             up       EC-NY4-SRV-1\r')}
+{'Gi1/37': ('Fred-PC-NY5', 'up', 'up', 'Gi1/37                         up             up       Fred-PC-NY5\r')}
+{'Gi1/38': ('ORATS-NO1', 'up', 'up', 'Gi1/38                         up             up       ORATS-NO1\r')}
+{('Gi1/39',): ('', 'down', 'down', 'Gi1/39                         down           down     \r')}
+{'Gi1/40': ('VN-NY5-MGT-1', 'up', 'up', 'Gi1/40                         up             up       VN-NY5-MGT-1\r')}
+{'Gi1/41': ('VN-NY5-SP-2', 'up', 'up', 'Gi1/41                         up             up       VN-NY5-SP-2\r')}
+{'Gi1/42': ('VN-NY5-SP-2', 'up', 'up', 'Gi1/42                         up             up       VN-NY5-SP-2\r')}
+{'Gi1/43': ('VN-NY5-SP-2', 'up', 'up', 'Gi1/43                         up             up       VN-NY5-SP-2\r')}
+{'Gi1/44': ('VN-NY5-SP-2', 'up', 'up', 'Gi1/44                         up             up       VN-NY5-SP-2\r')}
+{'Gi1/45': ('BTestDBStore-NIC1', 'up', 'up', 'Gi1/45                         up             up       BTestDBStore-NIC1\r')}
+{'Gi1/46': ('BTestDBStore-NIC2', 'up', 'up', 'Gi1/46                         up             up       BTestDBStore-NIC2\r')}
+{'Gi1/47': ('DEBIAN2', 'up', 'up', 'Gi1/47                         up             up       DEBIAN2\r')}
+{'Gi1/48': ('ORC-NY5-DEV-1-iLO', 'down', 'down', 'Gi1/48                         down           down     ORC-NY5-DEV-1-iLO\r')}
+{'Po2': ('VN-NY5-SP-2', 'up', 'up', 'Po2                            up             up       VN-NY5-SP-2\r')}
+{'Po3': ('BladeChassis', 'up', 'up', 'Po3                            up             up       BladeChassis\r')}
+{('Lo0',): ('', 'up', 'up', 'Lo0                            up             up       ')}
+10.10.0.2	catalyst
+SEND COMMAND: show interface description
+{'Vl1': ('down', 'admin', 'down', 'Vl1                            admin down     down     \r')}
+{('Vl20',): ('', 'up', 'up', 'Vl20                           up             up       \r')}
+{('Vl201',): ('', 'up', 'up', 'Vl201                          up             up       \r')}
+{('Vl400',): ('', 'up', 'down', 'Vl400                          up             down     \r')}
+{'Fa0': ('down', 'admin', 'down', 'Fa0                            admin down     down     \r')}
+{('Gi1/0/1',): ('', 'down', 'down', 'Gi1/0/1                        down           down     \r')}
+{('Gi1/0/2',): ('', 'up', 'up', 'Gi1/0/2                        up             up       \r')}
+{('Gi1/0/3',): ('', 'up', 'up', 'Gi1/0/3                        up             up       \r')}
+{'Gi1/0/4': ('SM-NY4-RISK-2', 'down', 'down', 'Gi1/0/4                        down           down     SM-NY4-RISK-2\r')}
+{'Gi1/0/5': ('PROD112', 'down', 'down', 'Gi1/0/5                        down           down     PROD112\r')}
+{('Gi1/0/6',): ('', 'down', 'down', 'Gi1/0/6                        down           down     \r')}
+{'Gi1/0/7': ('LTN-SRV-WEB-2', 'up', 'up', 'Gi1/0/7                        up             up       LTN-SRV-WEB-2\r')}
+{'Gi1/0/8': ('PROD31', 'up', 'up', 'Gi1/0/8                        up             up       PROD31\r')}
+{'Gi1/0/9': ('PROD112', 'up', 'up', 'Gi1/0/9                        up             up       PROD112 \r')}
+{('Gi1/0/10',): ('', 'down', 'down', 'Gi1/0/10                       down           down     \r')}
+{('Gi1/0/11',): ('', 'up', 'up', 'Gi1/0/11                       up             up       \r')}
+{'Gi1/0/12': ('PROD105-Rob-Dev', 'down', 'down', 'Gi1/0/12                       down           down     PROD105-Rob-Dev\r')}
+{('Gi1/0/13',): ('', 'up', 'up', 'Gi1/0/13                       up             up       \r')}
+{('Gi1/0/14',): ('', 'down', 'down', 'Gi1/0/14                       down           down     \r')}
+{('Gi1/0/15',): ('', 'up', 'up', 'Gi1/0/15                       up             up       \r')}
+{'Gi1/0/16': ('ORATS-NY5-DEV-1', 'up', 'up', 'Gi1/0/16                       up             up       ORATS-NY5-DEV-1\r')}
+{'Gi1/0/17': ('down', 'admin', 'down', 'Gi1/0/17                       admin down     down     \r')}
+{'Gi1/0/18': ('down', 'admin', 'down', 'Gi1/0/18                       admin down     down     \r')}
+{'Gi1/0/19': ('LINK TO ACTIV FINANCIAL', 'down', 'down', 'Gi1/0/19                       down           down     LINK TO ACTIV FINANCIAL\r')}
+{('Gi1/0/20',): ('', 'down', 'down', 'Gi1/0/20                       down           down     \r')}
+{('Gi1/0/21',): ('', 'down', 'down', 'Gi1/0/21                       down           down     \r')}
+{('Gi1/0/22',): ('', 'down', 'down', 'Gi1/0/22                       down           down     \r')}
+{'Gi1/0/23': ('*** ASA5540 INSIDE ***', 'down', 'down', 'Gi1/0/23                       down           down     *** ASA5540 INSIDE ***\r')}
+{('Gi1/0/24',): ('', 'up', 'up', 'Gi1/0/24                       up             up       \r')}
+{'Gi1/0/25': ('To PHLX', 'down', 'down', 'Gi1/0/25                       down           down     To PHLX\r')}
+{('Gi1/0/26',): ('', 'down', 'down', 'Gi1/0/26                       down           down     \r')}
+{('Gi2/0/1',): ('', 'down', 'down', 'Gi2/0/1                        down           down     \r')}
+{('Gi2/0/2',): ('', 'up', 'up', 'Gi2/0/2                        up             up       \r')}
+{('Gi2/0/3',): ('', 'down', 'down', 'Gi2/0/3                        down           down     \r')}
+{'Gi2/0/4': ('SM-NY4-RISK-2', 'down', 'down', 'Gi2/0/4                        down           down     SM-NY4-RISK-2\r')}
+{'Gi2/0/5': ('PROD112', 'down', 'down', 'Gi2/0/5                        down           down     PROD112\r')}
+{('Gi2/0/6',): ('', 'down', 'down', 'Gi2/0/6                        down           down     \r')}
+{'Gi2/0/7': ('LTN-SRV-WEB-2', 'up', 'up', 'Gi2/0/7                        up             up       LTN-SRV-WEB-2\r')}
+{'Gi2/0/8': ('PROD31', 'up', 'up', 'Gi2/0/8                        up             up       PROD31\r')}
+{'Gi2/0/9': ('PROD112', 'up', 'up', 'Gi2/0/9                        up             up       PROD112\r')}
+{('Gi2/0/10',): ('', 'down', 'down', 'Gi2/0/10                       down           down     \r')}
+{('Gi2/0/11',): ('', 'up', 'up', 'Gi2/0/11                       up             up       \r')}
+{'Gi2/0/12': ('PROD105-Rob-Dev', 'up', 'up', 'Gi2/0/12                       up             up       PROD105-Rob-Dev\r')}
+{('Gi2/0/13',): ('', 'up', 'up', 'Gi2/0/13                       up             up       \r')}
+{('Gi2/0/14',): ('', 'down', 'down', 'Gi2/0/14                       down           down     \r')}
+{('Gi2/0/15',): ('', 'up', 'up', 'Gi2/0/15                       up             up       \r')}
+{'Gi2/0/16': ('ORATS-NY5-DEV-1', 'up', 'up', 'Gi2/0/16                       up             up       ORATS-NY5-DEV-1\r')}
+{'Gi2/0/17': ('down', 'admin', 'down', 'Gi2/0/17                       admin down     down     \r')}
+{'Gi2/0/18': ('down', 'admin', 'down', 'Gi2/0/18                       admin down     down     \r')}
+{('Gi2/0/19',): ('', 'down', 'down', 'Gi2/0/19                       down           down     \r')}
+{('Gi2/0/20',): ('', 'down', 'down', 'Gi2/0/20                       down           down     \r')}
+{('Gi2/0/21',): ('', 'down', 'down', 'Gi2/0/21                       down           down     \r')}
+{('Gi2/0/22',): ('', 'down', 'down', 'Gi2/0/22                       down           down     \r')}
+{('Gi2/0/23',): ('', 'down', 'down', 'Gi2/0/23                       down           down     \r')}
+{('Gi2/0/24',): ('', 'up', 'up', 'Gi2/0/24                       up             up       \r')}
+{'Gi2/0/25': ('Trunk to ml3-core-2-755s', 'up', 'up', 'Gi2/0/25                       up             up       Trunk to ml3-core-2-755s\r')}
+{'Gi2/0/26': ('Trunk to ml3-core-2-755s', 'up', 'up', 'Gi2/0/26                       up             up       Trunk to ml3-core-2-755s\r')}
+{'Po1': ('Trunk to ml3-core-2-755s', 'up', 'up', 'Po1                            up             up       Trunk to ml3-core-2-755s\r')}
+{('Po3',): ('', 'down', 'down', 'Po3                            down           down     \r')}
+{('Lo0',): ('', 'up', 'up', 'Lo0                            up             up       ')}
+10.10.4.200	catalyst
+SEND COMMAND: show interface description
+{'Vl1': ('down', 'admin', 'down', 'Vl1                            admin down     down     \r')}
+{('Vl4',): ('', 'up', 'up', 'Vl4                            up             up       \r')}
+{'Vl10': ('management interface', 'up', 'up', 'Vl10                           up             up       management interface\r')}
+{('Vl99',): ('', 'up', 'down', 'Vl99                           up             down     \r')}
+{'Fa0/1': ('SM-NY4-MD-1-iLO', 'up', 'up', 'Fa0/1                          up             up       SM-NY4-MD-1-iLO\r')}
+{'Fa0/2': ('ts1-755s', 'up', 'up', 'Fa0/2                          up             up       ts1-755s\r')}
+{'Fa0/3': ('SM-NY4-AC-1-mgt', 'up', 'up', 'Fa0/3                          up             up       SM-NY4-AC-1-mgt\r')}
+{'Fa0/4': ('SM-NY4-FRM-1-iLO', 'up', 'up', 'Fa0/4                          up             up       SM-NY4-FRM-1-iLO\r')}
+{'Fa0/5': ('VN-NY4-TP-2-iLO', 'up', 'up', 'Fa0/5                          up             up       VN-NY4-TP-2-iLO\r')}
+{'Fa0/6': ('Spare-Arista-mgmt', 'down', 'down', 'Fa0/6                          down           down     Spare-Arista-mgmt\r')}
+{'Fa0/7': ('VN-NY4-SANDBOX-1-iLO', 'up', 'up', 'Fa0/7                          up             up       VN-NY4-SANDBOX-1-iLO\r')}
+{'Fa0/8': ('VN-NY4-SANDBOX-2-iLO', 'up', 'up', 'Fa0/8                          up             up       VN-NY4-SANDBOX-2-iLO\r')}
+{'Fa0/9': ('prod144-iLO', 'up', 'up', 'Fa0/9                          up             up       prod144-iLO\r')}
+{'Fa0/10': ('prod143-iLO', 'up', 'up', 'Fa0/10                         up             up       prod143-iLO\r')}
+{'Fa0/11': ('VN-NY4-NAS-2-iLO', 'up', 'up', 'Fa0/11                         up             up       VN-NY4-NAS-2-iLO\r')}
+{'Fa0/12': ('desk-at-NY4', 'down', 'down', 'Fa0/12                         down           down     desk-at-NY4\r')}
+{'Fa0/13': ('VN-NY4-DB-1-iLO', 'up', 'up', 'Fa0/13                         up             up       VN-NY4-DB-1-iLO\r')}
+{'Fa0/14': ('ZY-SRV-ACE-1-iLO', 'down', 'down', 'Fa0/14                         down           down     ZY-SRV-ACE-1-iLO\r')}
+{'Fa0/15': ('MT-NY4-BRY-3-iLO', 'up', 'up', 'Fa0/15                         up             up       MT-NY4-BRY-3-iLO\r')}
+{'Fa0/16': ('SB-SRV-SBM-1-iLO', 'up', 'up', 'Fa0/16                         up             up       SB-SRV-SBM-1-iLO\r')}
+{'Fa0/17': ('MT-NY4-BRY-2-iLO', 'up', 'up', 'Fa0/17                         up             up       MT-NY4-BRY-2-iLO\r')}
+{'Fa0/18': ('Andrie-NY4-OC-2-iLO', 'down', 'down', 'Fa0/18                         down           down     Andrie-NY4-OC-2-iLO\r')}
+{'Fa0/19': ('SM-NY4-LAW-3-iLO', 'up', 'up', 'Fa0/19                         up             up       SM-NY4-LAW-3-iLO\r')}
+{'Fa0/20': ('EC-NY5-SRV-4-iLO', 'up', 'up', 'Fa0/20                         up             up       EC-NY5-SRV-4-iLO\r')}
+{'Fa0/21': ('CT-SRV-GNN-1-iLO', 'up', 'up', 'Fa0/21                         up             up       CT-SRV-GNN-1-iLO\r')}
+{'Fa0/22': ('DW-SRV-JAW-1-iLO', 'up', 'up', 'Fa0/22                         up             up       DW-SRV-JAW-1-iLO\r')}
+{'Fa0/23': ('AT-SRV-JMS-2-iLO', 'up', 'up', 'Fa0/23                         up             up       AT-SRV-JMS-2-iLO\r')}
+{'Fa0/24': ('SP-SRV-ORC-2-iLO', 'up', 'up', 'Fa0/24                         up             up       SP-SRV-ORC-2-iLO\r')}
+{'Fa0/25': ('prod25-ilo', 'down', 'down', 'Fa0/25                         down           down     prod25-ilo\r')}
+{'Fa0/26': ('prod26-ilo', 'down', 'down', 'Fa0/26                         down           down     prod26-ilo\r')}
+{'Fa0/27': ('SC-SRV-JME-2-iLO', 'up', 'up', 'Fa0/27                         up             up       SC-SRV-JME-2-iLO\r')}
+{'Fa0/28': ('UR-SRV-EVM-1-iLO', 'up', 'up', 'Fa0/28                         up             up       UR-SRV-EVM-1-iLO\r')}
+{'Fa0/29': ('SM-NY4-RG-DEV1-iLO', 'up', 'up', 'Fa0/29                         up             up       SM-NY4-RG-DEV1-iLO\r')}
+{'Fa0/30': ('ES030-iLO', 'up', 'up', 'Fa0/30                         up             up       ES030-iLO\r')}
+{'Fa0/31': ('MCM-NY4-PROD-1-iLO', 'up', 'up', 'Fa0/31                         up             up       MCM-NY4-PROD-1-iLO\r')}
+{'Fa0/32': ('EC-NY5-SRV-3-iLO', 'up', 'up', 'Fa0/32                         up             up       EC-NY5-SRV-3-iLO\r')}
+{'Fa0/33': ('SP-SRV-ORC-3-iLO', 'up', 'up', 'Fa0/33                         up             up       SP-SRV-ORC-3-iLO\r')}
+{'Fa0/34': ('SM-NY4-LAW-2-iLO', 'up', 'up', 'Fa0/34                         up             up       SM-NY4-LAW-2-iLO\r')}
+{'Fa0/35': ('Andrie-NY4-OC-1-iLO', 'down', 'down', 'Fa0/35                         down           down     Andrie-NY4-OC-1-iLO\r')}
+{'Fa0/36': ('VN-SRV-TP-1-iLO', 'up', 'up', 'Fa0/36                         up             up       VN-SRV-TP-1-iLO\r')}
+{'Fa0/37': ('HE-SRV-RDP-2-iLO', 'up', 'up', 'Fa0/37                         up             up       HE-SRV-RDP-2-iLO\r')}
+{'Fa0/38': ('fw-net-1-755s mgt', 'up', 'up', 'Fa0/38                         up             up       fw-net-1-755s mgt\r')}
+{'Fa0/39': ('SM-NY4-LAW-1-iLO', 'up', 'up', 'Fa0/39                         up             up       SM-NY4-LAW-1-iLO\r')}
+{'Fa0/40': ('HE-SRV-RDP-3-iLO', 'up', 'up', 'Fa0/40                         up             up       HE-SRV-RDP-3-iLO\r')}
+{'Fa0/41': ('xl2-dist-2-755s mgt', 'up', 'up', 'Fa0/41                         up             up       xl2-dist-2-755s mgt\r')}
+{'Fa0/42': ('xl2-dist-1-755s mgt', 'up', 'up', 'Fa0/42                         up             up       xl2-dist-1-755s mgt\r')}
+{'Fa0/43': ('MT-SRV-BRY-1-iLO', 'up', 'up', 'Fa0/43                         up             up       MT-SRV-BRY-1-iLO\r')}
+{'Fa0/44': ('SC-NY4-JME-4-iLO', 'up', 'up', 'Fa0/44                         up             up       SC-NY4-JME-4-iLO\r')}
+{'Fa0/45': ('ml3-core-1-mgt', 'down', 'down', 'Fa0/45                         down           down     ml3-core-1-mgt\r')}
+{'Fa0/46': ('temp-7150s-64 management port', 'down', 'down', 'Fa0/46                         down           down     temp-7150s-64 management port\r')}
+{'Fa0/47': ('HE-SRV-RDP-1-iLO', 'up', 'up', 'Fa0/47                         up             up       HE-SRV-RDP-1-iLO\r')}
+{'Fa0/48': ('VN-NY4-NET-2-MGMT', 'up', 'up', 'Fa0/48                         up             up       VN-NY4-NET-2-MGMT\r')}
+{'Gi0/1': ('To ml3-core-2-755s', 'up', 'up', 'Gi0/1                          up             up       To ml3-core-2-755s\r')}
+{('Gi0/2',): ('', 'down', 'down', 'Gi0/2                          down           down     \r')}
+{('Lo0',): ('', 'up', 'up', 'Lo0                            up             up       ')}
+10.10.4.201	catalyst
+SEND COMMAND: show interface description
+{'Vl1': ('down', 'admin', 'down', 'Vl1                            admin down     down     \r')}
+{('Vl4',): ('', 'up', 'up', 'Vl4                            up             up       \r')}
+{'Fa0/1': ('SM-NY4-RISK-1-iLO', 'up', 'up', 'Fa0/1                          up             up       SM-NY4-RISK-1-iLO\r')}
+{'Fa0/2': ('SM-SRV-SAKI-1-iLO', 'down', 'down', 'Fa0/2                          down           down     SM-SRV-SAKI-1-iLO\r')}
+{'Fa0/3': ('ES-SRV-DEV-1-iLO', 'down', 'down', 'Fa0/3                          down           down     ES-SRV-DEV-1-iLO\r')}
+{'Fa0/4': ('MS-SRV-NY4-1-iLO', 'up', 'up', 'Fa0/4                          up             up       MS-SRV-NY4-1-iLO\r')}
+{'Fa0/5': ('SM-NY4-DAV-3-iLO', 'up', 'up', 'Fa0/5                          up             up       SM-NY4-DAV-3-iLO\r')}
+{'Fa0/6': ('VN-NY4-CAP-1-iLO', 'up', 'up', 'Fa0/6                          up             up       VN-NY4-CAP-1-iLO\r')}
+{'Fa0/7': ('VN-NY4-TP-3-iLO', 'up', 'up', 'Fa0/7                          up             up       VN-NY4-TP-3-iLO\r')}
+{'Fa0/8': ('VN-NY4-TP-4-iLO', 'up', 'up', 'Fa0/8                          up             up       VN-NY4-TP-4-iLO\r')}
+{'Fa0/9': ('VN-NY4-NET-1-MGT', 'up', 'up', 'Fa0/9                          up             up       VN-NY4-NET-1-MGT\r')}
+{'Fa0/10': ('PROD147-iLO', 'down', 'down', 'Fa0/10                         down           down     PROD147-iLO\r')}
+{'Fa0/11': ('SM-NY4-LAE-12-iLO', 'down', 'down', 'Fa0/11                         down           down     SM-NY4-LAE-12-iLO\r')}
+{'Fa0/12': ('TA-SRV-JB-3-iLO', 'up', 'up', 'Fa0/12                         up             up       TA-SRV-JB-3-iLO\r')}
+{'Fa0/13': ('SM-NY4-RG-DEV2-iLO', 'up', 'up', 'Fa0/13                         up             up       SM-NY4-RG-DEV2-iLO\r')}
+{'Fa0/14': ('SM-NY4-LAE-13-iLO', 'up', 'up', 'Fa0/14                         up             up       SM-NY4-LAE-13-iLO\r')}
+{'Fa0/15': ('MST-NY4-5-iLO', 'up', 'up', 'Fa0/15                         up             up       MST-NY4-5-iLO\r')}
+{'Fa0/16': ('SC-NY4-JME-5-iLO', 'up', 'up', 'Fa0/16                         up             up       SC-NY4-JME-5-iLO\r')}
+{'Fa0/17': ('SM-NY4-JAE-1-iLO', 'up', 'up', 'Fa0/17                         up             up       SM-NY4-JAE-1-iLO\r')}
+{'Fa0/18': ('SM-NY4-JAE-2-iLO', 'up', 'up', 'Fa0/18                         up             up       SM-NY4-JAE-2-iLO\r')}
+{'Fa0/19': ('SM-NY4-JAE-3-iLO', 'up', 'up', 'Fa0/19                         up             up       SM-NY4-JAE-3-iLO \r')}
+{'Fa0/20': ('EW-SV-DZL-2-iLO', 'up', 'up', 'Fa0/20                         up             up       EW-SV-DZL-2-iLO\r')}
+{'Fa0/21': ('SM-NY4-JAE-4-iLO', 'up', 'up', 'Fa0/21                         up             up       SM-NY4-JAE-4-iLO \r')}
+{'Fa0/22': ('SM-NY4-CNL-1-iLO', 'up', 'up', 'Fa0/22                         up             up       SM-NY4-CNL-1-iLO\r')}
+{'Fa0/23': ('SM-NY4-JAE-5-iLO', 'up', 'up', 'Fa0/23                         up             up       SM-NY4-JAE-5-iLO \r')}
+{'Fa0/24': ('DW-SRV-LUC-1-iLO', 'up', 'up', 'Fa0/24                         up             up       DW-SRV-LUC-1-iLO\r')}
+{'Fa0/25': ('ANDRIE-NY4-BRICK-2-iLO', 'down', 'down', 'Fa0/25                         down           down     ANDRIE-NY4-BRICK-2-iLO\r')}
+{'Fa0/26': ('SM-NY4-AC-1-iLO', 'up', 'up', 'Fa0/26                         up             up       SM-NY4-AC-1-iLO\r')}
+{'Fa0/27': ('MP-SRV-CAP-22-iLO', 'up', 'up', 'Fa0/27                         up             up       MP-SRV-CAP-22-iLO\r')}
+{'Fa0/28': ('MP-SRV-CAP-14-iLO', 'down', 'down', 'Fa0/28                         down           down     MP-SRV-CAP-14-iLO\r')}
+{'Fa0/29': ('NY4-DVMETALS-01-iLO', 'up', 'up', 'Fa0/29                         up             up       NY4-DVMETALS-01-iLO\r')}
+{'Fa0/30': ('TA-SRV-JB-5-iLO', 'up', 'up', 'Fa0/30                         up             up       TA-SRV-JB-5-iLO\r')}
+{'Fa0/31': ('VN-NY4-TP-7-iLO', 'down', 'down', 'Fa0/31                         down           down     VN-NY4-TP-7-iLO\r')}
+{'Fa0/32': ('SM-NY4-JAE-6-iLO', 'up', 'up', 'Fa0/32                         up             up       SM-NY4-JAE-6-iLO \r')}
+{'Fa0/33': ('SM-NY4-JAE-7-iLO', 'up', 'up', 'Fa0/33                         up             up       SM-NY4-JAE-7-iLO \r')}
+{'Fa0/34': ('VN-NY4-TP-5-iLO', 'up', 'up', 'Fa0/34                         up             up       VN-NY4-TP-5-iLO\r')}
+{'Fa0/35': ('SM-NY4-JAE-9-iLO', 'up', 'up', 'Fa0/35                         up             up       SM-NY4-JAE-9-iLO \r')}
+{'Fa0/36': ('SM-NY4-JAE-10-iLO', 'up', 'up', 'Fa0/36                         up             up       SM-NY4-JAE-10-iLO \r')}
+{'Fa0/37': ('PDU-02', 'up', 'up', 'Fa0/37                         up             up       PDU-02\r')}
+{'Fa0/38': ('PDU-03', 'up', 'up', 'Fa0/38                         up             up       PDU-03\r')}
+{'Fa0/39': ('PDU-04', 'up', 'up', 'Fa0/39                         up             up       PDU-04\r')}
+{'Fa0/40': ('PDU-05', 'up', 'up', 'Fa0/40                         up             up       PDU-05\r')}
+{'Fa0/41': ('MS-NY4-CAP-2-iLO', 'up', 'up', 'Fa0/41                         up             up       MS-NY4-CAP-2-iLO \r')}
+{'Fa0/42': ('VIV-NY4-PROD-1-iLO', 'up', 'up', 'Fa0/42                         up             up       VIV-NY4-PROD-1-iLO\r')}
+{'Fa0/43': ('VN-NY4-TP-6-iLO', 'up', 'up', 'Fa0/43                         up             up       VN-NY4-TP-6-iLO\r')}
+{'Fa0/44': ('SM-NY4-LAE-11-iLO', 'up', 'up', 'Fa0/44                         up             up       SM-NY4-LAE-11-iLO\r')}
+{'Fa0/45': ('SM-NY4-DAV-1-iLO', 'up', 'up', 'Fa0/45                         up             up       SM-NY4-DAV-1-iLO\r')}
+{'Fa0/46': ('PROD25-CG-Maint', 'down', 'down', 'Fa0/46                         down           down     PROD25-CG-Maint\r')}
+{'Fa0/47': ('PROD26-CG-Maint', 'down', 'down', 'Fa0/47                         down           down     PROD26-CG-Maint\r')}
+{'Fa0/48': ('PROD151-iLO', 'down', 'down', 'Fa0/48                         down           down     PROD151-iLO\r')}
+{'Gi0/1': ('To ml3-core-2-755s', 'up', 'up', 'Gi0/1                          up             up       To ml3-core-2-755s\r')}
+{('Gi0/2',): ('', 'down', 'down', 'Gi0/2                          down           down     \r')}
+{('Lo0',): ('', 'up', 'up', 'Lo0                            up             up       ')}
+10.13.128.1	catalyst
+unable to connect, moving on to next
+10.10.128.1	catalyst
+SEND COMMAND: show interface description
+{'Vl1': ('down DO-NOT-USE', 'admin', 'down', 'Vl1                            admin down     down     DO-NOT-USE\r')}
+{'Vl4': ('*** OOB Management VLAN ***', 'up', 'up', 'Vl4                            up             up       *** OOB Management VLAN ***\r')}
+{'Vl5': ('down Succession-MGT-10.10.5.0/28', 'admin', 'down', 'Vl5                            admin down     down     Succession-MGT-10.10.5.0/28\r')}
+{'Vl6': ('MGT-10.11.31.0/24', 'up', 'up', 'Vl6                            up             up       MGT-10.11.31.0/24\r')}
+{'Vl10': ('MGT-10.11.0.0/24', 'up', 'up', 'Vl10                           up             up       MGT-10.11.0.0/24\r')}
+{'Vl12': ('*** Legacy SERVERS VLAN ***', 'up', 'up', 'Vl12                           up             up       *** Legacy SERVERS VLAN ***\r')}
+{'Vl15': ('Server-lan-10.11.2.0/24', 'up', 'up', 'Vl15                           up             up       Server-lan-10.11.2.0/24\r')}
+{'Vl16': ('*** SERVERS VLAN - North Side ***', 'up', 'up', 'Vl16                           up             up       *** SERVERS VLAN - North Side ***\r')}
+{'Vl17': ('down *** SERVERS VLAN - South Side ***', 'admin', 'down', 'Vl17                           admin down     down     *** SERVERS VLAN - South Side ***\r')}
+{'Vl18': ('*** Storage VLAN ***', 'up', 'up', 'Vl18                           up             up       *** Storage VLAN ***\r')}
+{'Vl19': ('Activ South side 10.10.19.0/27', 'up', 'up', 'Vl19                           up             up       Activ South side 10.10.19.0/27\r')}
+{'Vl20': ('*** Legacy MGT LAN ***', 'up', 'up', 'Vl20                           up             up       *** Legacy MGT LAN ***\r')}
+{'Vl21': ('*** Legacy iLO LAN ***', 'up', 'up', 'Vl21                           up             up       *** Legacy iLO LAN ***\r')}
+{'Vl27': ('down Server-vlan-10.11.17.0/24', 'admin', 'down', 'Vl27                           admin down     down     Server-vlan-10.11.17.0/24\r')}
+{'Vl28': ('down Server-vlan-10.11.18.0/24', 'admin', 'down', 'Vl28                           admin down     down     Server-vlan-10.11.18.0/24\r')}
+{'Vl31': ('*** iLO LAN ***', 'up', 'up', 'Vl31                           up             up       *** iLO LAN ***\r')}
+{'Vl32': ('*** iLO DMZ LAN ***', 'up', 'up', 'Vl32                           up             up       *** iLO DMZ LAN ***\r')}
+{'Vl33': ('down Victory-SRV-10.75.6.32/27', 'admin', 'down', 'Vl33                           admin down     down     Victory-SRV-10.75.6.32/27\r')}
+{'Vl34': ('down TP-OUT-10.10.20.0/28', 'admin', 'down', 'Vl34                           admin down     down     TP-OUT-10.10.20.0/28\r')}
+{'Vl35': ('down TP-IN-10.41.10.16/28', 'admin', 'down', 'Vl35                           admin down     down     TP-IN-10.41.10.16/28\r')}
+{'Vl42': ('*** SFTI ISE Vlan ***', 'up', 'up', 'Vl42                           up             up       *** SFTI ISE Vlan ***\r')}
+{'Vl52': ('SFTI-Nasdaq-10.203.131.76/30', 'up', 'up', 'Vl52                           up             up       SFTI-Nasdaq-10.203.131.76/30\r')}
+{'Vl53': ('NY4-OOB-10.41.0.0/25', 'up', 'up', 'Vl53                           up             up       NY4-OOB-10.41.0.0/25\r')}
+{'Vl54': ('Andrie-OOB-192.168.75.0/28', 'up', 'up', 'Vl54                           up             up       Andrie-OOB-192.168.75.0/28\r')}
+{'Vl55': ('OC-OOB-192.168.75.16/28', 'up', 'up', 'Vl55                           up             up       OC-OOB-192.168.75.16/28\r')}
+{'Vl56': ('Andrie-OOB-192.168.75.32/29', 'up', 'up', 'Vl56                           up             up       Andrie-OOB-192.168.75.32/29\r')}
+{'Vl60': ('NYMEX_Floor', 'down', 'down', 'Vl60                           down           down     NYMEX_Floor\r')}
+{'Vl200': ('down External-client-Michael-Whitman-10.75.2.0/28', 'admin', 'down', 'Vl200                          admin down     down     External-client-Michael-Whitman-10.75.2.0/28\r')}
+{'Vl202': ('down Sumo-CBOE-10.75.6.0/27', 'admin', 'down', 'Vl202                          admin down     down     Sumo-CBOE-10.75.6.0/27\r')}
+{'Vl203': ('down Titan-10.75.2.16/29', 'admin', 'down', 'Vl203                          admin down     down     Titan-10.75.2.16/29\r')}
+{'Vl204': ('down Maystreet-10.75.1.0/29', 'admin', 'down', 'Vl204                          admin down     down     Maystreet-10.75.1.0/29\r')}
+{'Vl210': ('down Succession-10.46.17.16/28', 'admin', 'down', 'Vl210                          admin down     down     Succession-10.46.17.16/28\r')}
+{'Vl211': ('down Edge-ACE-10.46.17.32/28', 'admin', 'down', 'Vl211                          admin down     down     Edge-ACE-10.46.17.32/28 \r')}
+{'Vl213': ('down Edge-SBM-10.46.17.48/29', 'admin', 'down', 'Vl213                          admin down     down     Edge-SBM-10.46.17.48/29\r')}
+{'Vl214': ('down Atlantic-10.46.17.80/29', 'admin', 'down', 'Vl214                          admin down     down     Atlantic-10.46.17.80/29\r')}
+{'Vl215': ('down URSA-10.46.17.88/29', 'admin', 'down', 'Vl215                          admin down     down     URSA-10.46.17.88/29\r')}
+{'Vl216': ('Captuure-mgt-10.46.17.96/29', 'up', 'up', 'Vl216                          up             up       Captuure-mgt-10.46.17.96/29\r')}
+{'Vl217': ('down Synergy-10.46.17.104/29', 'admin', 'down', 'Vl217                          admin down     down     Synergy-10.46.17.104/29\r')}
+{'Vl218': ('down DROWST-10.46.17.64/28', 'admin', 'down', 'Vl218                          admin down     down     DROWST-10.46.17.64/28\r')}
+{'Vl219': ('Cassandra-10.46.17.56/29', 'up', 'up', 'Vl219                          up             up       Cassandra-10.46.17.56/29\r')}
+{'Vl220': ('SUMO-10.46.17.0/29', 'up', 'up', 'Vl220                          up             up       SUMO-10.46.17.0/29\r')}
+{'Vl221': ('GBAR-10.46.17.112/29', 'up', 'up', 'Vl221                          up             up       GBAR-10.46.17.112/29\r')}
+{'Vl222': ('down DROWST-CSM-10.75.1.16/28', 'admin', 'down', 'Vl222                          admin down     down     DROWST-CSM-10.75.1.16/28\r')}
+{'Vl223': ('down Atlantic-JMS-CSM-10.75.1.8/29', 'admin', 'down', 'Vl223                          admin down     down     Atlantic-JMS-CSM-10.75.1.8/29\r')}
+{'Vl224': ('down Sparta-CSM-10.75.1.32/29', 'admin', 'down', 'Vl224                          admin down     down     Sparta-CSM-10.75.1.32/29\r')}
+{'Vl226': ('down URSA-CSM-10.75.1.40/29', 'admin', 'down', 'Vl226                          admin down     down     URSA-CSM-10.75.1.40/29\r')}
+{'Vl227': ('OptionsCity-10.75.75.16/28', 'up', 'up', 'Vl227                          up             up       OptionsCity-10.75.75.16/28\r')}
+{'Vl228': ('GBAR-CSM-10.75.1.64/29', 'up', 'up', 'Vl228                          up             up       GBAR-CSM-10.75.1.64/29\r')}
+{'Vl229': ('down PROD28-10.75.1.72/29', 'admin', 'down', 'Vl229                          admin down     down     PROD28-10.75.1.72/29\r')}
+{'Vl231': ('down Budo-TT-10.46.17.136/29', 'admin', 'down', 'Vl231                          admin down     down     Budo-TT-10.46.17.136/29\r')}
+{'Vl232': ('down MarathonTrading-CMI2-10.46.17.144/29', 'admin', 'down', 'Vl232                          admin down     down     MarathonTrading-CMI2-10.46.17.144/29\r')}
+{'Vl233': ('down MarathonTrading-CSM-10.75.1.80/29', 'admin', 'down', 'Vl233                          admin down     down     MarathonTrading-CSM-10.75.1.80/29\r')}
+{'Vl234': ('down Cassandra-SBM-CSM-10.75.4.8/29', 'admin', 'down', 'Vl234                          admin down     down     Cassandra-SBM-CSM-10.75.4.8/29\r')}
+{'Vl235': ('down Syergy-CSM-10.75.1.88/29', 'admin', 'down', 'Vl235                          admin down     down     Syergy-CSM-10.75.1.88/29\r')}
+{'Vl237': ('CME-NAT-SRC-10.75.1.128/26', 'up', 'up', 'Vl237                          up             up       CME-NAT-SRC-10.75.1.128/26\r')}
+{'Vl238': ('down Hard8-10.46.17.160/28', 'admin', 'down', 'Vl238                          admin down     down     Hard8-10.46.17.160/28\r')}
+{'Vl239': ('FTOptions-10.46.17.176/29', 'up', 'up', 'Vl239                          up             up       FTOptions-10.46.17.176/29\r')}
+{'Vl240': ('down Actant-Exstream-10.75.2.32/27', 'admin', 'down', 'Vl240                          admin down     down     Actant-Exstream-10.75.2.32/27\r')}
+{'Vl241': ('down Sumo-LAE-10.46.17.192/27', 'admin', 'down', 'Vl241                          admin down     down     Sumo-LAE-10.46.17.192/27\r')}
+{'Vl242': ('MP-CAP-10.75.4.16/28', 'up', 'up', 'Vl242                          up             up       MP-CAP-10.75.4.16/28\r')}
+{'Vl243': ('MP-CAP-10.75.4.32/28', 'up', 'up', 'Vl243                          up             up       MP-CAP-10.75.4.32/28\r')}
+{'Vl244': ('MayStreet-10.41.10.0/29', 'up', 'up', 'Vl244                          up             up       MayStreet-10.41.10.0/29\r')}
+{'Vl245': ('down Synergy-ORC-10.46.17.240/29', 'admin', 'down', 'Vl245                          admin down     down     Synergy-ORC-10.46.17.240/29\r')}
+{'Vl246': ('down RBC-10.75.2.64/29', 'admin', 'down', 'Vl246                          admin down     down     RBC-10.75.2.64/29\r')}
+{'Vl247': ('down BOS-10.75.2.72/29-multicast', 'admin', 'down', 'Vl247                          admin down     down     BOS-10.75.2.72/29-multicast\r')}
+{'Vl248': ('down Maystreet-10.46.17.224/28', 'admin', 'down', 'Vl248                          admin down     down     Maystreet-10.46.17.224/28\r')}
+{'Vl249': ('down StatEcon-10.75.2.80/29', 'admin', 'down', 'Vl249                          admin down     down     StatEcon-10.75.2.80/29\r')}
+{'Vl250': ('down StatEcon-10.46.22.0/29', 'admin', 'down', 'Vl250                          admin down     down     StatEcon-10.46.22.0/29\r')}
+{'Vl251': ('down ZenFX-10.75.6.64/28', 'admin', 'down', 'Vl251                          admin down     down     ZenFX-10.75.6.64/28\r')}
+{'Vl252': ('down LanceO-10.75.2.88/29', 'admin', 'down', 'Vl252                          admin down     down     LanceO-10.75.2.88/29\r')}
+{'Vl253': ('down Sumo-LAE-10.46.22.32/27', 'admin', 'down', 'Vl253                          admin down     down     Sumo-LAE-10.46.22.32/27\r')}
+{'Vl254': ('down Accreate-10.75.4.48/28', 'admin', 'down', 'Vl254                          admin down     down     Accreate-10.75.4.48/28\r')}
+{'Vl260': ('down', 'admin', 'down', 'Vl260                          admin down     down     \r')}
+{'Vl261': ('down', 'admin', 'down', 'Vl261                          admin down     down     \r')}
+{'Vl262': ('Andrie-10.75.0.0/28', 'up', 'up', 'Vl262                          up             up       Andrie-10.75.0.0/28\r')}
+{'Vl299': ('TP-MGT-10.11.19.0/27', 'up', 'up', 'Vl299                          up             up       TP-MGT-10.11.19.0/27\r')}
+{'Vl302': ('down AndrewCurto-10.46.22.64/28', 'admin', 'down', 'Vl302                          admin down     down     AndrewCurto-10.46.22.64/28\r')}
+{'Vl303': ('down AndrewCurto-10.11.19.96/28', 'admin', 'down', 'Vl303                          admin down     down     AndrewCurto-10.11.19.96/28\r')}
+{'Vl501': ('VN-NY4-SP-1', 'up', 'up', 'Vl501                          up             up       VN-NY4-SP-1\r')}
+{'Vl502': ('To fw-net-1', 'up', 'up', 'Vl502                          up             up       To fw-net-1\r')}
+{'Vl503': ('To rr-wan-1.1118th', 'up', 'up', 'Vl503                          up             up       To rr-wan-1.1118th\r')}
+{'Vl504': ('To fw-net-1 SFTI nat interface', 'up', 'up', 'Vl504                          up             up       To fw-net-1 SFTI nat interface \r')}
+{'Vl505': ('To VN-NY4-RTR-1 10.10.253.48/30', 'up', 'up', 'Vl505                          up             up       To VN-NY4-RTR-1 10.10.253.48/30\r')}
+{'Vl506': ('VN-NY4-LF-6-10.10.253.64/30', 'up', 'up', 'Vl506                          up             up       VN-NY4-LF-6-10.10.253.64/30\r')}
+{'Vl512': ('VN-NY4-SP-2-10.10.253.188/30', 'down', 'down', 'Vl512                          down           down     VN-NY4-SP-2-10.10.253.188/30\r')}
+{'Vl524': ('VN-NY4-SP-2-10.10.253.244/30', 'up', 'up', 'Vl524                          up             up       VN-NY4-SP-2-10.10.253.244/30\r')}
+{'Vl525': ('VN-NY4-SP-2-10.10.253.248/30', 'up', 'up', 'Vl525                          up             up       VN-NY4-SP-2-10.10.253.248/30\r')}
+{'Vl527': ('Balyasny-Clifton-10.10.254.16/30', 'up', 'up', 'Vl527                          up             up       Balyasny-Clifton-10.10.254.16/30\r')}
+{'Vl601': ('To fw-vpn-1-755s', 'up', 'up', 'Vl601                          up             up       To fw-vpn-1-755s\r')}
+{'Vl810': ('Activ Content Gateway network', 'up', 'up', 'Vl810                          up             up       Activ Content Gateway network\r')}
+{'Vl1566': ('*** MPLS ***', 'down', 'down', 'Vl1566                         down           down     *** MPLS ***\r')}
+{'Vl2551': ('Activ-Order-Execution-10.193.233.36/30', 'up', 'up', 'Vl2551                         up             up       Activ-Order-Execution-10.193.233.36/30\r')}
+{'Vl2564': ('Extranet-DMZ-10.10.253.152/29', 'up', 'up', 'Vl2564                         up             up       Extranet-DMZ-10.10.253.152/29\r')}
+{'Vl2571': ('CBOE-CSM-B-10.212.19.112/30', 'down', 'down', 'Vl2571                         down           down     CBOE-CSM-B-10.212.19.112/30\r')}
+{'Vl2578': ('LiquidPoint-mcast-172.20.6.60/30', 'up', 'up', 'Vl2578                         up             up       LiquidPoint-mcast-172.20.6.60/30\r')}
+{'Vl2591': ('Activ-TOPO-10.207.89.64/30', 'up', 'up', 'Vl2591                         up             up       Activ-TOPO-10.207.89.64/30\r')}
+{'Vl2595': ('R2G-172.20.254.250/31', 'up', 'up', 'Vl2595                         up             up       R2G-172.20.254.250/31\r')}
+{'Vl2599': ('Activ-Edge-Capture-10.192.225.180/30', 'up', 'up', 'Vl2599                         up             up       Activ-Edge-Capture-10.192.225.180/30\r')}
+{'Vl2601': ('428B-LT-10.10.254.24/30', 'up', 'up', 'Vl2601                         up             up       428B-LT-10.10.254.24/30\r')}
+{('Fa1',): ('', 'down', 'down', 'Fa1                            down           down     \r')}
+{'Te1/1': ('VN-NY4-SP-2', 'up', 'up', 'Te1/1                          up             up       VN-NY4-SP-2\r')}
+{'Te1/2': ('VN-NY4-SP-2', 'up', 'up', 'Te1/2                          up             up       VN-NY4-SP-2\r')}
+{'Te1/3': ('VN-NY4-SP-1', 'up', 'up', 'Te1/3                          up             up       VN-NY4-SP-1\r')}
+{'Te1/4': ('Activ-Financial', 'up', 'up', 'Te1/4                          up             up       Activ-Financial\r')}
+{'Te1/5': ('VN-NY4-SP-1', 'up', 'up', 'Te1/5                          up             up       VN-NY4-SP-1\r')}
+{'Te1/6': ('xl2-dist-2-755s', 'up', 'up', 'Te1/6                          up             up       xl2-dist-2-755s\r')}
+{'Te1/7': ('VN-NY4-SP-1', 'up', 'up', 'Te1/7                          up             up       VN-NY4-SP-1\r')}
+{'Te1/8': ('xl2-dist-2-755s', 'up', 'up', 'Te1/8                          up             up       xl2-dist-2-755s\r')}
+{'Gi2/1': ('xl2-dist-5-755s', 'up', 'up', 'Gi2/1                          up             up       xl2-dist-5-755s\r')}
+{'Gi2/2': ('VN-NY4-LF-6', 'up', 'up', 'Gi2/2                          up             up       VN-NY4-LF-6\r')}
+{'Gi2/3': ('To Victory switch', 'up', 'up', 'Gi2/3                          up             up       To Victory switch\r')}
+{'Gi2/4': ('To Victory switch', 'up', 'up', 'Gi2/4                          up             up       To Victory switch\r')}
+{'Gi2/5': ('VN-NY4-NET-2 0/0', 'up', 'up', 'Gi2/5                          up             up       VN-NY4-NET-2 0/0\r')}
+{'Gi2/6': ('fw-net-1-755s external e1/1', 'up', 'up', 'Gi2/6                          up             up       fw-net-1-755s external e1/1\r')}
+{'Gi2/7': ('xl2-dist-8-755s', 'up', 'up', 'Gi2/7                          up             up       xl2-dist-8-755s\r')}
+{'Gi2/8': ('rr-wan-1-755s-external', 'up', 'up', 'Gi2/8                          up             up       rr-wan-1-755s-external\r')}
+{'Gi2/9': ('fw-vpn-1 SFTI', 'up', 'up', 'Gi2/9                          up             up       fw-vpn-1 SFTI\r')}
+{'Gi2/10': ('To fw-net-1-755s e1/3 extranet-dmz', 'up', 'up', 'Gi2/10                         up             up       To fw-net-1-755s e1/3 extranet-dmz\r')}
+{'Gi2/11': ('VN-NY4-LF-6', 'up', 'up', 'Gi2/11                         up             up       VN-NY4-LF-6\r')}
+{'Gi2/12': ('fw-net-1 internal interface', 'up', 'up', 'Gi2/12                         up             up       fw-net-1 internal interface\r')}
+{'Gi2/13': ('fw-vpn-1-EXTRANET', 'up', 'up', 'Gi2/13                         up             up       fw-vpn-1-EXTRANET\r')}
+{'Gi2/14': ('rr-wan-1-755s', 'down', 'down', 'Gi2/14                         down           down     rr-wan-1-755s\r')}
+{'Gi2/15': ('RC-NY4-VM-1', 'up', 'up', 'Gi2/15                         up             up       RC-NY4-VM-1\r')}
+{'Gi2/16': ('down', 'admin', 'down', 'Gi2/16                         admin down     down     \r')}
+{'Gi2/17': ('nas1-e0a-secondary-controller', 'up', 'up', 'Gi2/17                         up             up       nas1-e0a-secondary-controller\r')}
+{'Gi2/18': ('nas1-e0b-secondary-controller', 'up', 'up', 'Gi2/18                         up             up       nas1-e0b-secondary-controller\r')}
+{'Gi2/19': ('To xl2-dist-4-1118th', 'up', 'up', 'Gi2/19                         up             up       To xl2-dist-4-1118th\r')}
+{'Gi2/20': ('To xl2-dist-4-1118th', 'up', 'up', 'Gi2/20                         up             up       To xl2-dist-4-1118th\r')}
+{'Po1': ('Trunk to VN-NY4-SP-1', 'up', 'up', 'Po1                            up             up       Trunk to VN-NY4-SP-1\r')}
+{'Po2': ('To xl2-dist-2.1118th', 'up', 'up', 'Po2                            up             up       To xl2-dist-2.1118th\r')}
+{'Po4': ('xl2-dist-4-755s', 'up', 'up', 'Po4                            up             up       xl2-dist-4-755s\r')}
+{'Po5': ('To Victory switch', 'up', 'up', 'Po5                            up             up       To Victory switch\r')}
+{'Po9': ('VN-NY4-LF-6', 'up', 'up', 'Po9                            up             up       VN-NY4-LF-6\r')}
+{'Po24': ('Trunk to VN-NY4-SP-2', 'down', 'down', 'Po24                           down           down     Trunk to VN-NY4-SP-2\r')}
+{'Po25': ('Trunk to NAS1-2', 'up', 'up', 'Po25                           up             up       Trunk to NAS1-2\r')}
+{'Po30': ('VN-NY4-SP-2', 'up', 'up', 'Po30                           up             up       VN-NY4-SP-2\r')}
+{'Lo0': ('Management Interface', 'up', 'up', 'Lo0                            up             up       Management Interface\r')}
+{'Lo1': ('down TUNNEL SOURCE TO UCFCRCR-SUMO01 FOR MULTICAST', 'admin', 'down', 'Lo1                            admin down     down     TUNNEL SOURCE TO UCFCRCR-SUMO01 FOR MULTICAST\r')}
+{'Lo2': ('Anycast IP', 'up', 'up', 'Lo2                            up             up       Anycast IP\r')}
+{'Lo4': ('Multicast-RP-default-bucket', 'up', 'up', 'Lo4                            up             up       Multicast-RP-default-bucket\r')}
+{'Lo5': ('down Anycast RP', 'admin', 'down', 'Lo5                            admin down     down     Anycast RP\r')}
+{'Lo244': ('down', 'admin', 'down', 'Lo244                          admin down     down     \r')}
+{'Lo250': ('RP=Bucket', 'up', 'up', 'Lo250                          up             up       RP=Bucket\r')}
+{'Tu0': ('MULTICAST TUNNEL TO UCFCRCR-SUMO01 TUNNEL 0', 'up', 'down', 'Tu0                            up             down     MULTICAST TUNNEL TO UCFCRCR-SUMO01 TUNNEL 0\r')}
+{'Tu1': ('Multicast tunnel to 120 Broadway, NYC', 'up', 'up', 'Tu1                            up             up       Multicast tunnel to 120 Broadway, NYC')}
+10.64.254.1	arista
+SEND COMMAND: show interface description
+{'Et1': ('', 'down', 'down', 'Et1                            down           down     ')}
+{'Et2': ('VN-DC3-SP-2-E2', 'up', 'up', 'Et2                            up             up       VN-DC3-SP-2-E2')}
+{'Et3': ('CME-A-Feed-GLK-1514', 'up', 'up', 'Et3                            up             up       CME-A-Feed-GLK-1514')}
+{'Et4': ('LightTower-Cermak-10G-CircuitID-40199-ET-AURRILIL-CHCGILDT', 'up', 'up', 'Et4                            up             up       LightTower-Cermak-10G-CircuitID-40199-ET-AURRILIL-CHCGILDT')}
+{'Et5': ('VN-DC3-LF-1-TE49', 'up', 'up', 'Et5                            up             up       VN-DC3-LF-1-TE49')}
+{'Et6': ('VN-DC3-LF-2-GE47', 'up', 'up', 'Et6                            up             up       VN-DC3-LF-2-GE47')}
+{'Et7': ('', 'down', 'down', 'Et7                            down           down     ')}
+{'Et8': ('CME_CERT', 'up', 'up', 'Et8                            up             up       CME_CERT')}
+{'Et9': ('VN-DC3-SP-2-E2', 'up', 'up', 'Et9                            up             up       VN-DC3-SP-2-E2')}
+{'Et10': ('QH-A', 'up', 'up', 'Et10                           up             up       QH-A')}
+{'Et11': ('', 'down', 'down', 'Et11                           down           down     ')}
+{'Et12': ('', 'down', 'down', 'Et12                           down           down     ')}
+{'Et13': ('', 'down', 'down', 'Et13                           down           down     ')}
+{'Et14': ('BUDO-DC3-TT-1-SF1', 'down', 'down', 'Et14                           down           down     BUDO-DC3-TT-1-SF1')}
+{'Et15': ('ACTANT-DC3-ACT-4-SF1', 'up', 'up', 'Et15                           up             up       ACTANT-DC3-ACT-4-SF1')}
+{'Et16': ('ACTANT-DC3-ACT-3-SF1', 'up', 'up', 'Et16                           up             up       ACTANT-DC3-ACT-3-SF1')}
+{'Et17': ('ACTANT-DC3-ACT-2-SF1', 'up', 'up', 'Et17                           up             up       ACTANT-DC3-ACT-2-SF1')}
+{'Et18': ('SUMO-DC3-ACT-1-SF1', 'up', 'up', 'Et18                           up             up       SUMO-DC3-ACT-1-SF1')}
+{'Et19': ('ACTANT-DC3-ACT-1-SF1', 'up', 'up', 'Et19                           up             up       ACTANT-DC3-ACT-1-SF1')}
+{'Et20': ('WWD-DC3-PROD-3-p1p1', 'up', 'up', 'Et20                           up             up       WWD-DC3-PROD-3-p1p1')}
+{'Et21': ('KOT-DC3-ACT-1-SF1', 'down', 'down', 'Et21                           down           down     KOT-DC3-ACT-1-SF1')}
+{'Et22': ('', 'down', 'down', 'Et22                           down           down     ')}
+{'Et23': ('ELK-DC3-PROD-2-p2p2', 'up', 'up', 'Et23                           up             up       ELK-DC3-PROD-2-p2p2')}
+{'Et24': ('', 'down', 'down', 'Et24                           down           down     ')}
+{'Et25': ('', 'down', 'down', 'Et25                           down           down     ')}
+{'Et26': ('', 'down', 'down', 'Et26                           down           down     ')}
+{'Et27': ('ROCA-DC3-PROD-1', 'up', 'up', 'Et27                           up             up       ROCA-DC3-PROD-1')}
+{'Et28': ('', 'down', 'down', 'Et28                           down           down     ')}
+{'Et29': ('', 'down', 'down', 'Et29                           down           down     ')}
+{'Et30': ('WWD-DC3-PROD-2-eth5', 'up', 'up', 'Et30                           up             up       WWD-DC3-PROD-2-eth5')}
+{'Et31': ('', 'down', 'down', 'Et31                           down           down     ')}
+{'Et32': ('BUDO-DC3-TT-3-SF1', 'down', 'down', 'Et32                           down           down     BUDO-DC3-TT-3-SF1')}
+{'Et33': ('', 'down', 'down', 'Et33                           down           down     ')}
+{'Et34': ('VN-DC3-PC-1-P4P1', 'up', 'up', 'Et34                           up             up       VN-DC3-PC-1-P4P1')}
+{'Et35': ('VN-DC3-PC-1-P5P2-SPAN', 'up', 'up', 'Et35                           up             up       VN-DC3-PC-1-P5P2-SPAN')}
+{'Et36': ('SUMO-DC3-PO-1-SF1', 'up', 'up', 'Et36                           up             up       SUMO-DC3-PO-1-SF1')}
+{'Et37': ('BUDO-DC3-TT-4-SF1', 'up', 'up', 'Et37                           up             up       BUDO-DC3-TT-4-SF1')}
+{'Et38': ('', 'down', 'down', 'Et38                           down           down     ')}
+{'Et39': ('SUMO-DC3-LUK-1', 'up', 'up', 'Et39                           up             up       SUMO-DC3-LUK-1')}
+{'Et40': ('SUMO-DC3-LUK-2', 'up', 'up', 'Et40                           up             up       SUMO-DC3-LUK-2')}
+{'Et41': ('ACTANT-DC3-SRV-6', 'up', 'up', 'Et41                           up             up       ACTANT-DC3-SRV-6')}
+{'Et42': ('ACTANT-DC3-SRV-5', 'up', 'up', 'Et42                           up             up       ACTANT-DC3-SRV-5')}
+{'Et43': ('BUDO-DC3-TT-6', 'down', 'down', 'Et43                           down           down     BUDO-DC3-TT-6')}
+{'Et44': ('', 'down', 'down', 'Et44                           down           down     ')}
+{'Et45': ('WWD-DC3-PROD-1-eth4', 'up', 'up', 'Et45                           up             up       WWD-DC3-PROD-1-eth4')}
+{'Et46': ('SM-DC3-JD-1-p1p2', 'up', 'up', 'Et46                           up             up       SM-DC3-JD-1-p1p2')}
+{'Et47': ('ELK-DC3-PROD-1-eth4', 'up', 'up', 'Et47                           up             up       ELK-DC3-PROD-1-eth4')}
+{'Et48': ('', 'down', 'down', 'Et48                           down           down     ')}
+{'Et49': ('BUDO-DC3-VM-1-SF1', 'down', 'down', 'Et49                           down           down     BUDO-DC3-VM-1-SF1')}
+{'Et50': ('', 'down', 'down', 'Et50                           down           down     ')}
+{'Et51': ('', 'down', 'down', 'Et51                           down           down     ')}
+{'Et52': ('GrandMasterClock Eth2', 'up', 'up', 'Et52                           up             up       GrandMasterClock Eth2')}
+{'Lo0': ('Management_IP', 'up', 'up', 'Lo0                            up             up       Management_IP')}
+{'Lo6': ('Anycast RP for Andrie', 'up', 'up', 'Lo6                            up             up       Anycast RP for Andrie')}
+{'Ma1': ('', 'down', 'down', 'Ma1                            down           down     ')}
+{'Po1': ('', 'up', 'up', 'Po1                            up             up       ')}
+{'Po52': ('', 'down', 'lowerlayerdown', 'Po52                           down           lowerlayerdown ')}
+{'Vl10': ('Budo_ASide_VLAN_172.17.174.0/27', 'up', 'up', 'Vl10                           up             up       Budo_ASide_VLAN_172.17.174.0/27')}
+{'Vl11': ('BUDO_ASIDE_VLAN-172.17.174.128/28', 'down', 'lowerlayerdown', 'Vl11                           down           lowerlayerdown BUDO_ASIDE_VLAN-172.17.174.128/28')}
+{'Vl20': ('Customer_ASide_VLAN', 'up', 'up', 'Vl20                           up             up       Customer_ASide_VLAN')}
+{'Vl21': ('Customer_ASide_VLAN-172.17.174.144/28', 'up', 'up', 'Vl21                           up             up       Customer_ASide_VLAN-172.17.174.144/28')}
+{'Vl30': ('Actant_ASide_VLAN', 'up', 'up', 'Vl30                           up             up       Actant_ASide_VLAN')}
+{'Vl40': ('Andrie_ASide_VLAN', 'down', 'lowerlayerdown', 'Vl40                           down           lowerlayerdown Andrie_ASide_VLAN')}
+{'Vl42': ('ICE_A_Side_VLAN', 'down', 'lowerlayerdown', 'Vl42                           down           lowerlayerdown ICE_A_Side_VLAN')}
+{'Vl45': ('Andrie_10G_MGT', 'down', 'lowerlayerdown', 'Vl45                           down           lowerlayerdown Andrie_10G_MGT')}
+{'Vl50': ('Victory_ASide_VLAN', 'up', 'up', 'Vl50                           up             up       Victory_ASide_VLAN')}
+{'Vl60': ('Budo_Internal_ASide_VLAN', 'up', 'up', 'Vl60                           up             up       Budo_Internal_ASide_VLAN')}
+{'Vl70': ('NYSE_A_Side_VLAN', 'down', 'lowerlayerdown', 'Vl70                           down           lowerlayerdown NYSE_A_Side_VLAN')}
+{'Vl90': ('PCAP-10.64.128.64/29', 'down', 'lowerlayerdown', 'Vl90                           down           lowerlayerdown PCAP-10.64.128.64/29')}
+10.10.128.3	arista
+SEND COMMAND: show interface description
+{'Et1': ('VN-NY4-SP-1', 'up', 'up', 'Et1                            up             up       VN-NY4-SP-1')}
+{'Et2': ('VN-NY4-SP-1', 'up', 'up', 'Et2                            up             up       VN-NY4-SP-1')}
+{'Et3': ('SM-NY4-LAE-10-eth0', 'up', 'up', 'Et3                            up             up       SM-NY4-LAE-10-eth0')}
+{'Et4': ('SM-NY4-LAE-10-eth1', 'up', 'up', 'Et4                            up             up       SM-NY4-LAE-10-eth1')}
+{'Et5': ('SM-NY4-LAE-7-eth0', 'up', 'up', 'Et5                            up             up       SM-NY4-LAE-7-eth0')}
+{'Et6': ('SM-NY4-LAE-7-eth1', 'up', 'up', 'Et6                            up             up       SM-NY4-LAE-7-eth1')}
+{'Et7': ('VN-NY4-SP-2', 'up', 'up', 'Et7                            up             up       VN-NY4-SP-2')}
+{'Et8': ('SM-NY4-LAE-8-eth1', 'down', 'down', 'Et8                            down           down     SM-NY4-LAE-8-eth1')}
+{'Et9': ('SM-NY4-LAE-9-eth0', 'up', 'up', 'Et9                            up             up       SM-NY4-LAE-9-eth0')}
+{'Et10': ('SM-NY4-LAE-9-eth1', 'up', 'up', 'Et10                           up             up       SM-NY4-LAE-9-eth1')}
+{'Et11': ('SM-NY4-LAE-6-eth0', 'up', 'up', 'Et11                           up             up       SM-NY4-LAE-6-eth0')}
+{'Et12': ('SM-NY4-LAE-6-eth1', 'up', 'up', 'Et12                           up             up       SM-NY4-LAE-6-eth1')}
+{'Et13': ('SM-NY4-LAE-5-eth0', 'up', 'up', 'Et13                           up             up       SM-NY4-LAE-5-eth0')}
+{'Et14': ('SM-NY4-LAE-5-eth1', 'up', 'up', 'Et14                           up             up       SM-NY4-LAE-5-eth1')}
+{'Et15': ('SM-NY4-LAE-4-eth0', 'up', 'up', 'Et15                           up             up       SM-NY4-LAE-4-eth0')}
+{'Et16': ('SM-NY4-LAE-4-eth1', 'up', 'up', 'Et16                           up             up       SM-NY4-LAE-4-eth1')}
+{'Et17': ('SM-NY4-LAE-3-eth0', 'up', 'up', 'Et17                           up             up       SM-NY4-LAE-3-eth0')}
+{'Et18': ('SM-NY4-LAE-3-eth1', 'up', 'up', 'Et18                           up             up       SM-NY4-LAE-3-eth1')}
+{'Et19': ('SM-NY4-LAE-2-eth0', 'up', 'up', 'Et19                           up             up       SM-NY4-LAE-2-eth0')}
+{'Et20': ('SM-NY4-LAE-2-eth1', 'up', 'up', 'Et20                           up             up       SM-NY4-LAE-2-eth1')}
+{'Et21': ('SM-NY4-LAE-1-eth0', 'up', 'up', 'Et21                           up             up       SM-NY4-LAE-1-eth0')}
+{'Et22': ('SM-NY4-LAE-1-eth1', 'up', 'up', 'Et22                           up             up       SM-NY4-LAE-1-eth1')}
+{'Et23': ('VN-NY4-SP-2', 'up', 'up', 'Et23                           up             up       VN-NY4-SP-2')}
+{'Et24': ('SM-NY4-LAE-8', 'down', 'down', 'Et24                           down           down     SM-NY4-LAE-8')}
+{'Et25': ('SM-NY4-STE-1', 'up', 'up', 'Et25                           up             up       SM-NY4-STE-1')}
+{'Et26': ('QIP-NY4-APP-3', 'up', 'up', 'Et26                           up             up       QIP-NY4-APP-3')}
+{'Et27': ('SM-NY4-IMPT-1', 'up', 'up', 'Et27                           up             up       SM-NY4-IMPT-1')}
+{'Et28': ('SM-NY4-IMPT-2', 'up', 'up', 'Et28                           up             up       SM-NY4-IMPT-2')}
+{'Et29': ('VN-NY4-SANDBOX-1', 'up', 'up', 'Et29                           up             up       VN-NY4-SANDBOX-1')}
+{'Et30': ('SM-NY4-LAE-8', 'up', 'up', 'Et30                           up             up       SM-NY4-LAE-8')}
+{'Et31': ('', 'down', 'notpresent', 'Et31                           down           notpresent ')}
+{'Et32': ('', 'down', 'notpresent', 'Et32                           down           notpresent ')}
+{'Et33': ('', 'down', 'notpresent', 'Et33                           down           notpresent ')}
+{'Et34': ('', 'down', 'notpresent', 'Et34                           down           notpresent ')}
+{'Et35': ('', 'down', 'notpresent', 'Et35                           down           notpresent ')}
+{'Et36': ('', 'down', 'notpresent', 'Et36                           down           notpresent ')}
+{'Et37': ('MCM-NY4-PROD-1-Myricom', 'down', 'down', 'Et37                           down           down     MCM-NY4-PROD-1-Myricom')}
+{'Et38': ('VIV-NY4-PROD-1 port 2', 'up', 'up', 'Et38                           up             up       VIV-NY4-PROD-1 port 2')}
+{'Et39': ('', 'down', 'notpresent', 'Et39                           down           notpresent ')}
+{'Et40': ('', 'down', 'notpresent', 'Et40                           down           notpresent ')}
+{'Et41': ('', 'down', 'notpresent', 'Et41                           down           notpresent ')}
+{'Et42': ('', 'down', 'notpresent', 'Et42                           down           notpresent ')}
+{'Et43': ('', 'down', 'notpresent', 'Et43                           down           notpresent ')}
+{'Et44': ('', 'down', 'notpresent', 'Et44                           down           notpresent ')}
+{'Et45': ('VN-NY4-SP-2', 'down', 'notpresent', 'Et45                           down           notpresent VN-NY4-SP-2')}
+{'Et46': ('VN-NY4-SP-2', 'down', 'notpresent', 'Et46                           down           notpresent VN-NY4-SP-2')}
+{'Et47': ('VN-NY4-SP-2', 'down', 'notpresent', 'Et47                           down           notpresent VN-NY4-SP-2')}
+{'Et48': ('VN-NY4-SP-2', 'down', 'notpresent', 'Et48                           down           notpresent VN-NY4-SP-2')}
+{'Et49': ('VN-NY4-SP-1', 'down', 'notpresent', 'Et49                           down           notpresent VN-NY4-SP-1')}
+{'Et50': ('VN-NY4-SP-1', 'down', 'notpresent', 'Et50                           down           notpresent VN-NY4-SP-1')}
+{'Et51': ('VN-NY4-SP-1', 'up', 'up', 'Et51                           up             up       VN-NY4-SP-1')}
+{'Et52': ('VN-NY4-SP-1', 'up', 'up', 'Et52                           up             up       VN-NY4-SP-1')}
+{'Lo0': ('', 'up', 'up', 'Lo0                            up             up       ')}
+{'Lo1': ('RP bucket', 'up', 'up', 'Lo1                            up             up       RP bucket')}
+{'Ma1': ('', 'down', 'down', 'Ma1                            down           down     ')}
+{'Po1': ('', 'down', 'lowerlayerdown', 'Po1                            down           lowerlayerdown ')}
+{'Po10': ('ml3-ore-1-755s', 'up', 'up', 'Po10                           up             up       ml3-ore-1-755s')}
+{'Po23': ('VN-NY4-SP-2', 'up', 'up', 'Po23                           up             up       VN-NY4-SP-2')}
+{'Vl241': ('Sumo-LAE-10.46.17.192/27', 'up', 'up', 'Vl241                          up             up       Sumo-LAE-10.46.17.192/27')}
+{'Vl253': ('Sumo-LAE-10.46.22.32/27', 'up', 'up', 'Vl253                          up             up       Sumo-LAE-10.46.22.32/27')}
+{'Vl255': ('Sumo-10.46.22.96/27', 'up', 'up', 'Vl255                          up             up       Sumo-10.46.22.96/27')}
+{'Vl507': ('VN-NY4-SP-1-10.10.253.168/30', 'up', 'up', 'Vl507                          up             up       VN-NY4-SP-1-10.10.253.168/30')}
+{'Vl511': ('VN-NY4-SP-2-10.10.253.184/30', 'up', 'up', 'Vl511                          up             up       VN-NY4-SP-2-10.10.253.184/30')}
+{'Vl527': ('Vivcourt-10.46.17.248/29', 'up', 'up', 'Vl527                          up             up       Vivcourt-10.46.17.248/29')}
+10.64.254.2	arista
+SEND COMMAND: show interface description
+{'Et1': ('VN-DC3-SP-LF-3-E2', 'down', 'down', 'Et1                            down           down     VN-DC3-SP-LF-3-E2')}
+{'Et2': ('VN-DC3-SP-1-E2-LightTower-10G-CircuitID-40199-ET-AURRILIL-CHCGILDT', 'up', 'up', 'Et2                            up             up       VN-DC3-SP-1-E2-LightTower-10G-CircuitID-40199-ET-AURRILIL-CHCGILDT')}
+{'Et3': ('CME-B-Feed-GLK-1515', 'up', 'up', 'Et3                            up             up       CME-B-Feed-GLK-1515')}
+{'Et4': ('', 'down', 'down', 'Et4                            down           down     ')}
+{'Et5': ('VN-DC3-LF-1-TE50', 'up', 'up', 'Et5                            up             up       VN-DC3-LF-1-TE50')}
+{'Et6': ('VN-DC3-LF-2-GE48', 'up', 'up', 'Et6                            up             up       VN-DC3-LF-2-GE48')}
+{'Et7': ('VN-DC3-SP-LF-4-E2', 'down', 'notpresent', 'Et7                            down           notpresent VN-DC3-SP-LF-4-E2')}
+{'Et8': ('10G_NY4_CID:A-R00061-Support:888.277.5620', 'up', 'up', 'Et8                            up             up       10G_NY4_CID:A-R00061-Support:888.277.5620')}
+{'Et9': ('VN-DC3-SP-1-E9', 'up', 'up', 'Et9                            up             up       VN-DC3-SP-1-E9')}
+{'Et10': ('QH-B', 'up', 'up', 'Et10                           up             up       QH-B')}
+{'Et11': ('', 'down', 'down', 'Et11                           down           down     ')}
+{'Et12': ('', 'down', 'down', 'Et12                           down           down     ')}
+{'Et13': ('', 'down', 'down', 'Et13                           down           down     ')}
+{'Et14': ('BUDO-DC3-TT-1-SF2', 'down', 'down', 'Et14                           down           down     BUDO-DC3-TT-1-SF2')}
+{'Et15': ('ACTANT-DC3-ACT-4-SF2', 'up', 'up', 'Et15                           up             up       ACTANT-DC3-ACT-4-SF2')}
+{'Et16': ('ACTANT-DC3-ACT-3-SF2', 'up', 'up', 'Et16                           up             up       ACTANT-DC3-ACT-3-SF2')}
+{'Et17': ('ACTANT-DC3-ACT-2-SF2', 'up', 'up', 'Et17                           up             up       ACTANT-DC3-ACT-2-SF2')}
+{'Et18': ('SUMO-DC3-ACT-2-SF2', 'up', 'up', 'Et18                           up             up       SUMO-DC3-ACT-2-SF2')}
+{'Et19': ('ACTANT-DC3-ACT-1-SF2', 'up', 'up', 'Et19                           up             up       ACTANT-DC3-ACT-1-SF2')}
+{'Et20': ('WWD-DC3-PROD-3-p1p2', 'up', 'up', 'Et20                           up             up       WWD-DC3-PROD-3-p1p2')}
+{'Et21': ('KOT-DC3-ACT-1-SF2', 'down', 'down', 'Et21                           down           down     KOT-DC3-ACT-1-SF2')}
+{'Et22': ('10G_440_SP_1-TE9/1-CID-BDCL5543', 'down', 'down', 'Et22                           down           down     10G_440_SP_1-TE9/1-CID-BDCL5543')}
+{'Et23': ('ELK-DC3-PROD-2-plp2', 'up', 'up', 'Et23                           up             up       ELK-DC3-PROD-2-plp2')}
+{'Et24': ('', 'down', 'down', 'Et24                           down           down     ')}
+{'Et25': ('', 'down', 'down', 'Et25                           down           down     ')}
+{'Et26': ('ANDRIE-DC3-BTS-2-SF2', 'down', 'down', 'Et26                           down           down     ANDRIE-DC3-BTS-2-SF2')}
+{'Et27': ('ROCA-DC3-PROD-1', 'up', 'up', 'Et27                           up             up       ROCA-DC3-PROD-1')}
+{'Et28': ('ANDRIE-DC3-OC-3-SF2', 'down', 'down', 'Et28                           down           down     ANDRIE-DC3-OC-3-SF2')}
+{'Et29': ('', 'down', 'down', 'Et29                           down           down     ')}
+{'Et30': ('WWD-DC3-PROD-2-eth4', 'up', 'up', 'Et30                           up             up       WWD-DC3-PROD-2-eth4')}
+{'Et31': ('', 'down', 'down', 'Et31                           down           down     ')}
+{'Et32': ('BUDO-DC3-TT-3-SF2', 'down', 'down', 'Et32                           down           down     BUDO-DC3-TT-3-SF2')}
+{'Et33': ('', 'down', 'down', 'Et33                           down           down     ')}
+{'Et34': ('VN-DC3-PC-1-P4P2', 'up', 'up', 'Et34                           up             up       VN-DC3-PC-1-P4P2')}
+{'Et35': ('VN-DC3-PC-1-P5P1-SPAN', 'up', 'up', 'Et35                           up             up       VN-DC3-PC-1-P5P1-SPAN')}
+{'Et36': ('SUMO-DC3-PO-1-SF2', 'up', 'up', 'Et36                           up             up       SUMO-DC3-PO-1-SF2')}
+{'Et37': ('BUDO-DC3-TT-4-SF2', 'up', 'up', 'Et37                           up             up       BUDO-DC3-TT-4-SF2')}
+{'Et38': ('', 'down', 'down', 'Et38                           down           down     ')}
+{'Et39': ('SUMO-DC3-LUK-1', 'up', 'up', 'Et39                           up             up       SUMO-DC3-LUK-1')}
+{'Et40': ('SUMO-DC3-LUK-2', 'up', 'up', 'Et40                           up             up       SUMO-DC3-LUK-2')}
+{'Et41': ('ACT-DC3-SRV-6', 'up', 'up', 'Et41                           up             up       ACT-DC3-SRV-6')}
+{'Et42': ('ACTANT-DC3-SRV-5', 'up', 'up', 'Et42                           up             up       ACTANT-DC3-SRV-5')}
+{'Et43': ('BUDO-DC3-TT-6', 'down', 'down', 'Et43                           down           down     BUDO-DC3-TT-6')}
+{'Et44': ('BUDO-DC3-TT-5-SF2', 'down', 'down', 'Et44                           down           down     BUDO-DC3-TT-5-SF2')}
+{'Et45': ('WWD-DC3-PROD-1-eth5', 'up', 'up', 'Et45                           up             up       WWD-DC3-PROD-1-eth5')}
+{'Et46': ('SM-DC3-JD-1-p2p1', 'up', 'up', 'Et46                           up             up       SM-DC3-JD-1-p2p1')}
+{'Et47': ('ELK-DC3-PROD-1-p1p1', 'up', 'up', 'Et47                           up             up       ELK-DC3-PROD-1-p1p1')}
+{'Et48': ('', 'down', 'down', 'Et48                           down           down     ')}
+{'Et49': ('BUDO-DC3-PO-1-SF1', 'down', 'down', 'Et49                           down           down     BUDO-DC3-PO-1-SF1')}
+{'Et50': ('BUDO-DC3-TT-2-SF2', 'down', 'down', 'Et50                           down           down     BUDO-DC3-TT-2-SF2')}
+{'Et51': ('', 'down', 'down', 'Et51                           down           down     ')}
+{'Et52': ('GrandMasterClock eth1', 'up', 'up', 'Et52                           up             up       GrandMasterClock eth1')}
+{'Lo0': ('Management_IP', 'up', 'up', 'Lo0                            up             up       Management_IP')}
+{'Lo6': ('Anycast RP for Andrie', 'up', 'up', 'Lo6                            up             up       Anycast RP for Andrie')}
+{'Lo51': ('', 'up', 'up', 'Lo51                           up             up       ')}
+{'Ma1': ('', 'down', 'down', 'Ma1                            down           down     ')}
+{'Po1': ('', 'up', 'up', 'Po1                            up             up       ')}
+{'Vl10': ('Budo_BSide_VLAN', 'up', 'up', 'Vl10                           up             up       Budo_BSide_VLAN')}
+{'Vl11': ('Budo-BSide-LAN-172.17.175.128/28', 'down', 'lowerlayerdown', 'Vl11                           down           lowerlayerdown Budo-BSide-LAN-172.17.175.128/28')}
+{'Vl20': ('Customer_BSide_VLAN', 'up', 'up', 'Vl20                           up             up       Customer_BSide_VLAN')}
+{'Vl30': ('Actant_BSide_VLAN', 'up', 'up', 'Vl30                           up             up       Actant_BSide_VLAN')}
+{'Vl40': ('Andrie_BSide_VLAN', 'down', 'lowerlayerdown', 'Vl40                           down           lowerlayerdown Andrie_BSide_VLAN')}
+{'Vl41': ('Andrie_CBOE_VLAN', 'up', 'up', 'Vl41                           up             up       Andrie_CBOE_VLAN')}
+{'Vl42': ('ICE_B_Side_VLAN', 'down', 'lowerlayerdown', 'Vl42                           down           lowerlayerdown ICE_B_Side_VLAN')}
+{'Vl43': ('ICE-172.18.115.16/29', 'up', 'up', 'Vl43                           up             up       ICE-172.18.115.16/29')}
+{'Vl50': ('Victory_BSide_VLAN', 'up', 'up', 'Vl50                           up             up       Victory_BSide_VLAN')}
+{'Vl60': ('Budo_Internal_BSide', 'up', 'up', 'Vl60                           up             up       Budo_Internal_BSide')}
+{'Vl70': ('NYSE_B_Side_VLAN', 'down', 'lowerlayerdown', 'Vl70                           down           lowerlayerdown NYSE_B_Side_VLAN')}
+{'Vl80': ('CME_CERT_BSide', 'up', 'up', 'Vl80                           up             up       CME_CERT_BSide')}
+{'Vl100': ('PCAP-10.64.128.72/29', 'up', 'up', 'Vl100                          up             up       PCAP-10.64.128.72/29')}
+10.75.128.9	arista
+SEND COMMAND: show interface description
+{'Et1': ('VN-NY4-TP-1-eth14', 'up', 'up', 'Et1                            up             up       VN-NY4-TP-1-eth14')}
+{'Et2': ('VN-NY4-TP-1-eth15', 'up', 'up', 'Et2                            up             up       VN-NY4-TP-1-eth15')}
+{'Et3': ('', 'down', 'down', 'Et3                            down           down     ')}
+{'Et4': ('VN-NY4-TP-2-eth11', 'up', 'up', 'Et4                            up             up       VN-NY4-TP-2-eth11')}
+{'Et5': ('VN-NY4-TP-2-eth8', 'up', 'up', 'Et5                            up             up       VN-NY4-TP-2-eth8')}
+{'Et6': ('VN-NY4-TP-3-eth1', 'up', 'up', 'Et6                            up             up       VN-NY4-TP-3-eth1')}
+{'Et7': ('VN-NY4-TP-3-eth2', 'down', 'down', 'Et7                            down           down     VN-NY4-TP-3-eth2')}
+{'Et8': ('VN-NY4-TP-4-p1p1', 'up', 'up', 'Et8                            up             up       VN-NY4-TP-4-p1p1')}
+{'Et9': ('VN-NY4-TP-4-p2p2', 'up', 'up', 'Et9                            up             up       VN-NY4-TP-4-p2p2')}
+{'Et10': ('VN-NY4-TP-4-p3p1', 'up', 'up', 'Et10                           up             up       VN-NY4-TP-4-p3p1')}
+{'Et11': ('', 'down', 'notpresent', 'Et11                           down           notpresent ')}
+{'Et12': ('MST-NY4-1-eth2', 'up', 'up', 'Et12                           up             up       MST-NY4-1-eth2')}
+{'Et13': ('VN-NY4-TP-5-p2p1', 'up', 'up', 'Et13                           up             up       VN-NY4-TP-5-p2p1')}
+{'Et14': ('CFE-CSMI-BATS-A', 'up', 'up', 'Et14                           up             up       CFE-CSMI-BATS-A')}
+{'Et15': ('VN-NY4-CAP-2-eth6', 'up', 'up', 'Et15                           up             up       VN-NY4-CAP-2-eth6')}
+{'Et16': ('VN-NY4-TP-5-eth4', 'up', 'up', 'Et16                           up             up       VN-NY4-TP-5-eth4')}
+{'Et17': ('VN-NY4-TP-6-p3p2', 'up', 'up', 'Et17                           up             up       VN-NY4-TP-6-p3p2')}
+{'Et18': ('VN-NY4-TP-6-p2p2', 'up', 'up', 'Et18                           up             up       VN-NY4-TP-6-p2p2')}
+{'Et19': ('VN-NY4-TP-6-p1p2', 'up', 'up', 'Et19                           up             up       VN-NY4-TP-6-p1p2')}
+{'Et20': ('Jefferies-A', 'up', 'up', 'Et20                           up             up       Jefferies-A')}
+{'Et21': ('', 'down', 'notpresent', 'Et21                           down           notpresent ')}
+{'Et22': ('WEX-10.80.5.148/30', 'up', 'up', 'Et22                           up             up       WEX-10.80.5.148/30')}
+{'Et23': ('BATS-A', 'up', 'up', 'Et23                           up             up       BATS-A')}
+{'Et24': ('', 'down', 'notpresent', 'Et24                           down           notpresent ')}
+{'Et25': ('VN-NY4-TP-5-p5p1', 'up', 'up', 'Et25                           up             up       VN-NY4-TP-5-p5p1')}
+{'Et26': ('VN-NY4-SP-2', 'up', 'up', 'Et26                           up             up       VN-NY4-SP-2')}
+{'Et27': ('MS-NY4-CAP-2-eth9', 'up', 'up', 'Et27                           up             up       MS-NY4-CAP-2-eth9')}
+{'Et28': ('BOX-A', 'up', 'up', 'Et28                           up             up       BOX-A')}
+{'Et29': ('VN-NY4-TP-7', 'down', 'notpresent', 'Et29                           down           notpresent VN-NY4-TP-7')}
+{'Et30': ('VN-NY4-SANDBOX-2 p1p1', 'up', 'up', 'Et30                           up             up       VN-NY4-SANDBOX-2 p1p1')}
+{'Et31': ('RBC-A', 'up', 'up', 'Et31                           up             up       RBC-A')}
+{'Et32': ('', 'down', 'down', 'Et32                           down           down     ')}
+{'Et33': ('Trunk to VN-NY4-SP-2', 'up', 'up', 'Et33                           up             up       Trunk to VN-NY4-SP-2')}
+{'Et34': ('Trunk to VN-NY4-SP-2', 'up', 'up', 'Et34                           up             up       Trunk to VN-NY4-SP-2')}
+{'Et35': ('Trunk to VN-NY4-SP-2', 'up', 'up', 'Et35                           up             up       Trunk to VN-NY4-SP-2')}
+{'Et36': ('Trunk to VN-NY4-SP-2', 'up', 'up', 'Et36                           up             up       Trunk to VN-NY4-SP-2')}
+{'Et37': ('CBOE-CSM-cross-connect', 'up', 'up', 'Et37                           up             up       CBOE-CSM-cross-connect')}
+{'Et38': ('', 'down', 'notpresent', 'Et38                           down           notpresent ')}
+{'Et39': ('notpresent CFE-Multicast-A', 'admin', 'down', 'Et39                           admin down     notpresent CFE-Multicast-A')}
+{'Et40': ('CFE-Unicast-A', 'up', 'up', 'Et40                           up             up       CFE-Unicast-A')}
+{'Et41': ('OptionsIT-NY4', 'up', 'up', 'Et41                           up             up       OptionsIT-NY4')}
+{'Et42': ('', 'down', 'notpresent', 'Et42                           down           notpresent ')}
+{'Et43': ('Clearpool', 'up', 'up', 'Et43                           up             up       Clearpool')}
+{'Et44': ('', 'down', 'notpresent', 'Et44                           down           notpresent ')}
+{'Et45': ('', 'down', 'notpresent', 'Et45                           down           notpresent ')}
+{'Et46': ('down PTP-VN-NY4-SP-1', 'admin', 'down', 'Et46                           admin down     down     PTP-VN-NY4-SP-1')}
+{'Et47': ('', 'down', 'down', 'Et47                           down           down     ')}
+{'Et48': ('', 'down', 'notpresent', 'Et48                           down           notpresent ')}
+{'Et49': ('VN-NY4-SP-1', 'up', 'up', 'Et49                           up             up       VN-NY4-SP-1')}
+{'Et50': ('VN-NY4-SP-1', 'up', 'up', 'Et50                           up             up       VN-NY4-SP-1')}
+{'Et51': ('VN-NY4-SP-1', 'up', 'up', 'Et51                           up             up       VN-NY4-SP-1')}
+{'Et52': ('VN-NY4-SP-1', 'up', 'up', 'Et52                           up             up       VN-NY4-SP-1')}
+{'Lo0': ('', 'up', 'up', 'Lo0                            up             up       ')}
+{'Lo5': ('Anycast RP', 'up', 'up', 'Lo5                            up             up       Anycast RP')}
+{'Lo10': ('', 'up', 'up', 'Lo10                           up             up       ')}
+{'Lo250': ('RP-Bucket', 'up', 'up', 'Lo250                          up             up       RP-Bucket')}
+{'Ma1': ('', 'up', 'up', 'Ma1                            up             up       ')}
+{'Po23': ('VN-NY4-SP-1', 'up', 'up', 'Po23                           up             up       VN-NY4-SP-1')}
+{'Po26': ('Trunk to VN-NY4-SP-2', 'up', 'up', 'Po26                           up             up       Trunk to VN-NY4-SP-2')}
+{'Vl10': ('', 'down', 'lowerlayerdown', 'Vl10                           down           lowerlayerdown ')}
+{'Vl17': ('SFTI_CERT', 'down', 'lowerlayerdown', 'Vl17                           down           lowerlayerdown SFTI_CERT')}
+{'Vl35': ('TP-IN-10.41.10.16/28', 'up', 'up', 'Vl35                           up             up       TP-IN-10.41.10.16/28')}
+{'Vl39': ('TP-IN-10.41.10.64/28', 'up', 'up', 'Vl39                           up             up       TP-IN-10.41.10.64/28')}
+{'Vl41': ('TP-IN-10.41.10.96/28', 'up', 'up', 'Vl41                           up             up       TP-IN-10.41.10.96/28')}
+{'Vl44': ('PCAP-10.41.10.144/28', 'up', 'up', 'Vl44                           up             up       PCAP-10.41.10.144/28')}
+{'Vl45': ('Capture-10.41.10.160/29', 'down', 'lowerlayerdown', 'Vl45                           down           lowerlayerdown Capture-10.41.10.160/29')}
+{'Vl50': ('', 'down', 'lowerlayerdown', 'Vl50                           down           lowerlayerdown ')}
+{'Vl63': ('SFTI_VLAN', 'down', 'lowerlayerdown', 'Vl63                           down           lowerlayerdown SFTI_VLAN')}
+{'Vl304': ('TP-output-204.90.88.224/28', 'up', 'up', 'Vl304                          up             up       TP-output-204.90.88.224/28')}
+{'Vl515': ('VN-NY4-SP-1-10.10.253.196/30', 'up', 'up', 'Vl515                          up             up       VN-NY4-SP-1-10.10.253.196/30')}
+{'Vl518': ('VN-NY4-SP-2-10.10.253.208/30', 'up', 'up', 'Vl518                          up             up       VN-NY4-SP-2-10.10.253.208/30')}
+{'Vl2110': ('R2G-172.20.254.116/30', 'down', 'lowerlayerdown', 'Vl2110                         down           lowerlayerdown R2G-172.20.254.116/30')}
+{'Vl2160': ('R2G-L2-ASide-VLAN', 'down', 'lowerlayerdown', 'Vl2160                         down           lowerlayerdown R2G-L2-ASide-VLAN')}
+{'Vl2558': ('CBOE-CSM-10.212.18.112/30', 'up', 'up', 'Vl2558                         up             up       CBOE-CSM-10.212.18.112/30')}
+{'Vl2576': ('Liquidpoint-mcast-172.20.6.56/30', 'up', 'up', 'Vl2576                         up             up       Liquidpoint-mcast-172.20.6.56/30')}
+{'Vl2580': ('LiquidPoint-10.185.144.152/30', 'up', 'up', 'Vl2580                         up             up       LiquidPoint-10.185.144.152/30')}
+{'Vl2581': ('MIAX-10.246.1.136/31', 'up', 'up', 'Vl2581                         up             up       MIAX-10.246.1.136/31')}
+10.10.129.1	arista
+SEND COMMAND: show interface description
+{'Et1': ('VN-NY5-NAS-1', 'up', 'up', 'Et1                            up             up       VN-NY5-NAS-1')}
+{'Et2': ('VN-NY5-LF-4', 'up', 'up', 'Et2                            up             up       VN-NY5-LF-4')}
+{'Et3': ('GS-NY5-PROD-8-Port1', 'up', 'up', 'Et3                            up             up       GS-NY5-PROD-8-Port1')}
+{'Et4': ('ORC-NY5-DEV-1', 'down', 'notpresent', 'Et4                            down           notpresent ORC-NY5-DEV-1')}
+{'Et5': ('VN-NY5-NAS-2', 'down', 'down', 'Et5                            down           down     VN-NY5-NAS-2')}
+{'Et6': ('GS-NY5-PROD-1-Port1', 'up', 'up', 'Et6                            up             up       GS-NY5-PROD-1-Port1')}
+{'Et7': ('GS-NY5-PROD-2-Port1', 'up', 'up', 'Et7                            up             up       GS-NY5-PROD-2-Port1')}
+{'Et8': ('GS-NY5-PROD-3-Port1', 'up', 'up', 'Et8                            up             up       GS-NY5-PROD-3-Port1')}
+{'Et9': ('GS-NY5-PROD-4-Port1', 'up', 'up', 'Et9                            up             up       GS-NY5-PROD-4-Port1')}
+{'Et10': ('GS-NY5-PROD-5-Port1', 'up', 'up', 'Et10                           up             up       GS-NY5-PROD-5-Port1')}
+{'Et11': ('down ORATS-NY5-PROD-2', 'admin', 'down', 'Et11                           admin down     down     ORATS-NY5-PROD-2')}
+{'Et12': ('down ORATS-NY5-PROD-1', 'admin', 'down', 'Et12                           admin down     down     ORATS-NY5-PROD-1')}
+{'Et13': ('CWDM-NY4-1270nm', 'up', 'up', 'Et13                           up             up       CWDM-NY4-1270nm')}
+{'Et14': ('CWDM-NY4-1290nm', 'up', 'up', 'Et14                           up             up       CWDM-NY4-1290nm')}
+{'Et15': ('CWDM-NY4-1310nm', 'up', 'up', 'Et15                           up             up       CWDM-NY4-1310nm')}
+{'Et16': ('CWDM-NY4-1330nm', 'up', 'up', 'Et16                           up             up       CWDM-NY4-1330nm')}
+{'Et17': ('VN-NY5-VM-2', 'up', 'up', 'Et17                           up             up       VN-NY5-VM-2')}
+{'Et18': ('CC-NY5-PROD-3-p2p1', 'up', 'up', 'Et18                           up             up       CC-NY5-PROD-3-p2p1')}
+{'Et19': ('VN-NY5-SP-3', 'up', 'up', 'Et19                           up             up       VN-NY5-SP-3')}
+{'Et20': ('VN-NY5-SP-3', 'up', 'up', 'Et20                           up             up       VN-NY5-SP-3')}
+{'Et21': ('VN-NY5-ADMIN-1-TE2/7', 'down', 'down', 'Et21                           down           down     VN-NY5-ADMIN-1-TE2/7')}
+{'Et22': ('VN-NY5-ADMIN-1-TE2/8', 'down', 'down', 'Et22                           down           down     VN-NY5-ADMIN-1-TE2/8')}
+{'Et23': ('VN-NY5-SP-2', 'up', 'up', 'Et23                           up             up       VN-NY5-SP-2')}
+{'Et24': ('VN-NY5-SP-2', 'up', 'up', 'Et24                           up             up       VN-NY5-SP-2')}
+{'Lo0': ('', 'up', 'up', 'Lo0                            up             up       ')}
+{'Lo1': ('RP-registration-source', 'up', 'up', 'Lo1                            up             up       RP-registration-source')}
+{'Lo5': ('Anycast RP for C&C', 'up', 'up', 'Lo5                            up             up       Anycast RP for C&C')}
+{'Ma1': ('', 'down', 'down', 'Ma1                            down           down     ')}
+{'Po1': ('VN-NY5-SP-2', 'up', 'up', 'Po1                            up             up       VN-NY5-SP-2')}
+{'Po3': ('VN-NY5-SP-3', 'up', 'up', 'Po3                            up             up       VN-NY5-SP-3')}
+{'Po31': ('VN-NY5-ADMIN-1', 'down', 'lowerlayerdown', 'Po31                           down           lowerlayerdown VN-NY5-ADMIN-1')}
+{'Po55': ('VN-NY4-SP-1', 'up', 'up', 'Po55                           up             up       VN-NY4-SP-1')}
+{'Vl50': ('ORC_NY5_VLAN', 'down', 'lowerlayerdown', 'Vl50                           down           lowerlayerdown ORC_NY5_VLAN')}
+{'Vl53': ('Succession-10.40.32.0/28', 'down', 'lowerlayerdown', 'Vl53                           down           lowerlayerdown Succession-10.40.32.0/28')}
+{'Vl54': ('Storage 10.40.32.16/28', 'up', 'up', 'Vl54                           up             up       Storage 10.40.32.16/28')}
+{'Vl59': ('Geneva-A-10.40.33.0/27', 'up', 'up', 'Vl59                           up             up       Geneva-A-10.40.33.0/27')}
+{'Vl71': ('Vmware-10.40.10.200/29', 'up', 'up', 'Vl71                           up             up       Vmware-10.40.10.200/29')}
+{'Vl202': ('down ORATS-PROD-10.40.32.128/27', 'admin', 'down', 'Vl202                          admin down     down     ORATS-PROD-10.40.32.128/27')}
+{'Vl233': ('Gemini-C&C-10.244.8.0/29', 'up', 'up', 'Vl233                          up             up       Gemini-C&C-10.244.8.0/29')}
+{'Vl508': ('VN-NY4-SP-1-10.10.253.172/30', 'up', 'up', 'Vl508                          up             up       VN-NY4-SP-1-10.10.253.172/30')}
+{'Vl525': ('VN-NY5-LF-4-10.40.253.28/30', 'up', 'up', 'Vl525                          up             up       VN-NY5-LF-4-10.40.253.28/30')}
+{'Vl1000': ('VN-NY5-SP-2-10.40.253.0/30', 'up', 'up', 'Vl1000                         up             up       VN-NY5-SP-2-10.40.253.0/30')}
+{'Vl1002': ('VN-NY5-SP-2-10.40.253.8/30', 'up', 'up', 'Vl1002                         up             up       VN-NY5-SP-2-10.40.253.8/30')}
+{'Vl1003': ('VN-NY5-SP-3-10.40.253.16/30', 'up', 'up', 'Vl1003                         up             up       VN-NY5-SP-3-10.40.253.16/30')}
+{'Vl1004': ('VN-NY5-SP-3-10.40.253.20/30', 'up', 'up', 'Vl1004                         up             up       VN-NY5-SP-3-10.40.253.20/30')}
+10.10.129.2	arista
+SEND COMMAND: show interface description
+{'Et1': ('SM-NY5-STE-1', 'up', 'up', 'Et1                            up             up       SM-NY5-STE-1')}
+{'Et2': ('PROD24', 'up', 'up', 'Et2                            up             up       PROD24')}
+{'Et3': ('VN-NY5-TT-1', 'up', 'up', 'Et3                            up             up       VN-NY5-TT-1')}
+{'Et4': ('PROD19', 'up', 'up', 'Et4                            up             up       PROD19')}
+{'Et5': ('VN-NY4-VM-1-vmnic4', 'up', 'up', 'Et5                            up             up       VN-NY4-VM-1-vmnic4')}
+{'Et6': ('PROD22-PORTSRV3', 'down', 'down', 'Et6                            down           down     PROD22-PORTSRV3')}
+{'Et7': ('VN-NY4-VM-2-vmnic0', 'up', 'up', 'Et7                            up             up       VN-NY4-VM-2-vmnic0')}
+{'Et8': ('VN-NY5-LF-2-10.40.253.12/30', 'up', 'up', 'Et8                            up             up       VN-NY5-LF-2-10.40.253.12/30')}
+{'Et9': ('VN-NY5-LF-2-10.40.253.12/30', 'up', 'up', 'Et9                            up             up       VN-NY5-LF-2-10.40.253.12/30')}
+{'Et10': ('VN-NY4-VM-7-eth4', 'up', 'up', 'Et10                           up             up       VN-NY4-VM-7-eth4')}
+{'Et11': ('VN-NY4-VM-7-eth2', 'up', 'up', 'Et11                           up             up       VN-NY4-VM-7-eth2')}
+{'Et12': ('VN-NY4-NAS-2-eth5', 'up', 'up', 'Et12                           up             up       VN-NY4-NAS-2-eth5')}
+{'Et13': ('PROD21', 'up', 'up', 'Et13                           up             up       PROD21')}
+{'Et14': ('VN-NY5-VM-1', 'up', 'up', 'Et14                           up             up       VN-NY5-VM-1')}
+{'Et15': ('CNCDB2-Port-3', 'up', 'up', 'Et15                           up             up       CNCDB2-Port-3')}
+{'Et16': ('VN-NY5-DB-1-em1', 'up', 'up', 'Et16                           up             up       VN-NY5-DB-1-em1')}
+{'Et17': ('CC-SEC2-PROD-1', 'up', 'up', 'Et17                           up             up       CC-SEC2-PROD-1')}
+{'Et18': ('CC-SEC2-PROD-2', 'up', 'up', 'Et18                           up             up       CC-SEC2-PROD-2')}
+{'Et19': ('VN-NY5-SP-1', 'up', 'up', 'Et19                           up             up       VN-NY5-SP-1')}
+{'Et20': ('VN-NY5-SP-1', 'up', 'up', 'Et20                           up             up       VN-NY5-SP-1')}
+{'Et21': ('VN-NY5-LF-1', 'up', 'up', 'Et21                           up             up       VN-NY5-LF-1')}
+{'Et22': ('VN-NY5-LF-1', 'up', 'up', 'Et22                           up             up       VN-NY5-LF-1')}
+{'Et23': ('VN-NY5-LF-1', 'up', 'up', 'Et23                           up             up       VN-NY5-LF-1')}
+{'Et24': ('VN-NY5-LF-1', 'up', 'up', 'Et24                           up             up       VN-NY5-LF-1')}
+{'Lo0': ('', 'up', 'up', 'Lo0                            up             up       ')}
+{'Ma1': ('', 'down', 'down', 'Ma1                            down           down     ')}
+{'Ma2': ('', 'down', 'down', 'Ma2                            down           down     ')}
+{'Po1': ('VN-NY5-SP-1', 'up', 'up', 'Po1                            up             up       VN-NY5-SP-1')}
+{'Po2': ('VN-NY5-LF-1', 'up', 'up', 'Po2                            up             up       VN-NY5-LF-1')}
+{'Po3': ('VN-NY5-LF-2-10.40.253.12/30', 'up', 'up', 'Po3                            up             up       VN-NY5-LF-2-10.40.253.12/30')}
+{'Vl40': ('Sumo-10.46.37.0/27', 'up', 'up', 'Vl40                           up             up       Sumo-10.46.37.0/27')}
+{'Vl59': ('VMWare-10.40.10.192/29', 'up', 'up', 'Vl59                           up             up       VMWare-10.40.10.192/29')}
+{'Vl202': ('ORATS-PROD-10.40.32.128/27', 'down', 'lowerlayerdown', 'Vl202                          down           lowerlayerdown ORATS-PROD-10.40.32.128/27')}
+{'Vl234': ('Gemini-C&C-10.244.8.8/29', 'up', 'up', 'Vl234                          up             up       Gemini-C&C-10.244.8.8/29')}
+{'Vl271': ('C&C-10.46.28.96/27', 'up', 'up', 'Vl271                          up             up       C&C-10.46.28.96/27')}
+{'Vl301': ('C&C-IEX-10.1.32.0/29', 'up', 'up', 'Vl301                          up             up       C&C-IEX-10.1.32.0/29')}
+{'Vl904': ('HyperV-GuestOS-10.46.19.0/24', 'up', 'up', 'Vl904                          up             up       HyperV-GuestOS-10.46.19.0/24')}
+{'Vl1000': ('VN-NY5-SP-1-10.40.253.0/30', 'up', 'up', 'Vl1000                         up             up       VN-NY5-SP-1-10.40.253.0/30')}
+{'Vl1001': ('VN-NY5-LF-1-10.40.253.4/30', 'up', 'up', 'Vl1001                         up             up       VN-NY5-LF-1-10.40.253.4/30')}
+{'Vl1002': ('VN-NY5-SP-1-10.40.253.8/30', 'up', 'up', 'Vl1002                         up             up       VN-NY5-SP-1-10.40.253.8/30')}
+{'Vl1103': ('VN-NY5-LF-2-10.40.253.12/30', 'up', 'up', 'Vl1103                         up             up       VN-NY5-LF-2-10.40.253.12/30')}
+10.66.254.5	arista
+SEND COMMAND: show interface description
+{'Et1': ('VN-CAR-LF-2-Gi1/43', 'down', 'notpresent', 'Et1                            down           notpresent VN-CAR-LF-2-Gi1/43')}
+{'Et2': ('VN-CAR-LF-2-Gi1/44', 'down', 'down', 'Et2                            down           down     VN-CAR-LF-2-Gi1/44')}
+{'Et3': ('', 'down', 'notpresent', 'Et3                            down           notpresent ')}
+{'Et4': ('', 'down', 'notpresent', 'Et4                            down           notpresent ')}
+{'Et5': ('SM-CAR-LAE-1', 'down', 'notpresent', 'Et5                            down           notpresent SM-CAR-LAE-1')}
+{'Et6': ('SM-CAR-LAE-1', 'down', 'notpresent', 'Et6                            down           notpresent SM-CAR-LAE-1')}
+{'Et7': ('SM-CAR-LAE-2', 'down', 'notpresent', 'Et7                            down           notpresent SM-CAR-LAE-2')}
+{'Et8': ('SM-CAR-LAE-2', 'down', 'notpresent', 'Et8                            down           notpresent SM-CAR-LAE-2')}
+{'Et9': ('SM-CAR-LAE-3', 'down', 'notpresent', 'Et9                            down           notpresent SM-CAR-LAE-3')}
+{'Et10': ('SM-CAR-LAE-3', 'down', 'notpresent', 'Et10                           down           notpresent SM-CAR-LAE-3')}
+{'Et11': ('VN-CAR-CAP-1-eth5', 'down', 'down', 'Et11                           down           down     VN-CAR-CAP-1-eth5')}
+{'Et12': ('VN-CAR-CAP-1-eth4-PTP', 'down', 'down', 'Et12                           down           down     VN-CAR-CAP-1-eth4-PTP')}
+{'Et13': ('SM-CAR-LAE-4', 'down', 'notpresent', 'Et13                           down           notpresent SM-CAR-LAE-4')}
+{'Et14': ('SM-CAR-LAE-4', 'down', 'notpresent', 'Et14                           down           notpresent SM-CAR-LAE-4')}
+{'Et15': ('SM-CAR-LAE-5', 'down', 'notpresent', 'Et15                           down           notpresent SM-CAR-LAE-5')}
+{'Et16': ('SM-CAR-LAE-5', 'down', 'notpresent', 'Et16                           down           notpresent SM-CAR-LAE-5')}
+{'Et17': ('SM-CAR-LAE-6', 'down', 'notpresent', 'Et17                           down           notpresent SM-CAR-LAE-6')}
+{'Et18': ('SM-CAR-LAE-6', 'down', 'notpresent', 'Et18                           down           notpresent SM-CAR-LAE-6')}
+{'Et19': ('', 'down', 'notpresent', 'Et19                           down           notpresent ')}
+{'Et20': ('', 'down', 'notpresent', 'Et20                           down           notpresent ')}
+{'Et21': ('VN-CAR-CAP-1-MGT', 'down', 'notpresent', 'Et21                           down           notpresent VN-CAR-CAP-1-MGT')}
+{'Et22': ('PTP from VN-CAR-GPS-1', 'down', 'notpresent', 'Et22                           down           notpresent PTP from VN-CAR-GPS-1')}
+{'Et23': ('down Hehmeyer-Trading', 'admin', 'down', 'Et23                           admin down     down     Hehmeyer-Trading')}
+{'Et24': ('Monadnock', 'up', 'up', 'Et24                           up             up       Monadnock')}
+{'Et25': ('', 'down', 'notpresent', 'Et25                           down           notpresent ')}
+{'Et26': ('', 'down', 'notpresent', 'Et26                           down           notpresent ')}
+{'Et27': ('', 'down', 'notpresent', 'Et27                           down           notpresent ')}
+{'Et28': ('', 'down', 'notpresent', 'Et28                           down           notpresent ')}
+{'Et29': ('', 'down', 'notpresent', 'Et29                           down           notpresent ')}
+{'Et30': ('', 'down', 'notpresent', 'Et30                           down           notpresent ')}
+{'Et31': ('QH-20G', 'up', 'up', 'Et31                           up             up       QH-20G')}
+{'Et32': ('QH-20G', 'up', 'up', 'Et32                           up             up       QH-20G')}
+{'Et33': ('VN-CAR-LF-2-Gi1/39', 'down', 'notpresent', 'Et33                           down           notpresent VN-CAR-LF-2-Gi1/39')}
+{'Et34': ('VN-CAR-LF-2-Gi1/40', 'down', 'down', 'Et34                           down           down     VN-CAR-LF-2-Gi1/40')}
+{'Et35': ('', 'down', 'notpresent', 'Et35                           down           notpresent ')}
+{'Et36': ('PTP to VN-CAR-GPS-1', 'down', 'notpresent', 'Et36                           down           notpresent PTP to VN-CAR-GPS-1')}
+{'Et37': ('SM-CAR-LAW-1', 'down', 'notpresent', 'Et37                           down           notpresent SM-CAR-LAW-1')}
+{'Et38': ('SM-CAR-LAW-1', 'down', 'notpresent', 'Et38                           down           notpresent SM-CAR-LAW-1')}
+{'Et39': ('SM-CAR-LAW-2', 'down', 'notpresent', 'Et39                           down           notpresent SM-CAR-LAW-2')}
+{'Et40': ('SM-CAR-LAW-2', 'down', 'notpresent', 'Et40                           down           notpresent SM-CAR-LAW-2')}
+{'Et41': ('DWDM-NY4-C57', 'down', 'notpresent', 'Et41                           down           notpresent DWDM-NY4-C57')}
+{'Et42': ('DWDM-NY4-C59', 'down', 'notpresent', 'Et42                           down           notpresent DWDM-NY4-C59')}
+{'Et43': ('DWDM-NY4-C58', 'down', 'notpresent', 'Et43                           down           notpresent DWDM-NY4-C58')}
+{'Et44': ('DWDM-NY4-C60', 'down', 'notpresent', 'Et44                           down           notpresent DWDM-NY4-C60')}
+{'Et45': ('Peak6-1', 'up', 'up', 'Et45                           up             up       Peak6-1')}
+{'Et46': ('Peak6-2', 'up', 'up', 'Et46                           up             up       Peak6-2')}
+{'Et47': ('LIME-MarketData', 'up', 'up', 'Et47                           up             up       LIME-MarketData')}
+{'Et48': ('LIME-MarketData', 'up', 'up', 'Et48                           up             up       LIME-MarketData')}
+{'Et49/1': ('', 'down', 'notpresent', 'Et49/1                         down           notpresent ')}
+{'Et49/2': ('', 'down', 'notpresent', 'Et49/2                         down           notpresent ')}
+{'Et49/3': ('', 'down', 'notpresent', 'Et49/3                         down           notpresent ')}
+{'Et49/4': ('', 'down', 'notpresent', 'Et49/4                         down           notpresent ')}
+{'Et50/1': ('', 'down', 'notpresent', 'Et50/1                         down           notpresent ')}
+{'Et50/2': ('', 'down', 'notpresent', 'Et50/2                         down           notpresent ')}
+{'Et50/3': ('', 'down', 'notpresent', 'Et50/3                         down           notpresent ')}
+{'Et50/4': ('', 'down', 'notpresent', 'Et50/4                         down           notpresent ')}
+{'Et51/1': ('', 'down', 'notpresent', 'Et51/1                         down           notpresent ')}
+{'Et51/2': ('', 'down', 'notpresent', 'Et51/2                         down           notpresent ')}
+{'Et51/3': ('', 'down', 'notpresent', 'Et51/3                         down           notpresent ')}
+{'Et51/4': ('', 'down', 'notpresent', 'Et51/4                         down           notpresent ')}
+{'Et52/1': ('', 'down', 'notpresent', 'Et52/1                         down           notpresent ')}
+{'Et52/2': ('', 'down', 'notpresent', 'Et52/2                         down           notpresent ')}
+{'Et52/3': ('', 'down', 'notpresent', 'Et52/3                         down           notpresent ')}
+{'Et52/4': ('', 'down', 'notpresent', 'Et52/4                         down           notpresent ')}
+{'Lo0': ('', 'up', 'up', 'Lo0                            up             up       ')}
+{'Lo100': ('Nasdaq-source-NAT', 'up', 'up', 'Lo100                          up             up       Nasdaq-source-NAT')}
+{'Lo250': ('RP-Bucket', 'up', 'up', 'Lo250                          up             up       RP-Bucket')}
+{'Ma1': ('', 'down', 'down', 'Ma1                            down           down     ')}
+{'Po1': ('VN-CAR-LF-2', 'down', 'lowerlayerdown', 'Po1                            down           lowerlayerdown VN-CAR-LF-2')}
+{'Po3': ('QH-20G', 'up', 'up', 'Po3                            up             up       QH-20G')}
+{'Po31': ('VN-NY4-SP-2', 'down', 'lowerlayerdown', 'Po31                           down           lowerlayerdown VN-NY4-SP-2')}
+{'Po33': ('Peak6', 'up', 'up', 'Po33                           up             up       Peak6')}
+{'Po34': ('LIME-MarketData', 'up', 'up', 'Po34                           up             up       LIME-MarketData')}
+{'Vl30': ('down Sumo_10.66.18.32/27', 'admin', 'down', 'Vl30                           admin down     down     Sumo_10.66.18.32/27')}
+{'Vl50': ('down Victory_10.66.18.80/28', 'admin', 'down', 'Vl50                           admin down     down     Victory_10.66.18.80/28')}
+{'Vl100': ('PTP-Capture-10.66.128.0/28', 'down', 'lowerlayerdown', 'Vl100                          down           lowerlayerdown PTP-Capture-10.66.128.0/28')}
+{'Vl130': ('down Sumo_10.66.118.32/27', 'admin', 'down', 'Vl130                          admin down     down     Sumo_10.66.118.32/27')}
+{'Vl2001': ('down Transit-to-NY4', 'admin', 'down', 'Vl2001                         admin down     down     Transit-to-NY4')}
+{'Vl2002': ('QH-10.66.253.32/30', 'up', 'up', 'Vl2002                         up             up       QH-10.66.253.32/30')}
+10.75.128.10	arista
+SEND COMMAND: show interface description
+{'Et1': ('VN-NY4-LF-5', 'up', 'up', 'Et1                            up             up       VN-NY4-LF-5')}
+{'Et2': ('DWDM-Carteret-C57', 'up', 'up', 'Et2                            up             up       DWDM-Carteret-C57')}
+{'Et3': ('VN-NY4-LF-5', 'up', 'up', 'Et3                            up             up       VN-NY4-LF-5')}
+{'Et4': ('DWDM-Carteret-C58', 'up', 'up', 'Et4                            up             up       DWDM-Carteret-C58')}
+{'Et5': ('VN-NY4-LF-5', 'up', 'up', 'Et5                            up             up       VN-NY4-LF-5')}
+{'Et6': ('DWDM-Carteret-C59', 'up', 'up', 'Et6                            up             up       DWDM-Carteret-C59')}
+{'Et7': ('', 'down', 'notpresent', 'Et7                            down           notpresent ')}
+{'Et8': ('DWDM-Carteret-C60', 'up', 'up', 'Et8                            up             up       DWDM-Carteret-C60')}
+{'Et9': ('', 'down', 'notpresent', 'Et9                            down           notpresent ')}
+{'Et10': ('', 'down', 'notpresent', 'Et10                           down           notpresent ')}
+{'Et11': ('Aurora-MetroOptical-CID:A-R00061-Support:888.277.5620', 'up', 'up', 'Et11                           up             up       Aurora-MetroOptical-CID:A-R00061-Support:888.277.5620')}
+{'Et12': ('Cutler', 'up', 'up', 'Et12                           up             up       Cutler')}
+{'Et13': ('VN-NY5-SP-3', 'up', 'up', 'Et13                           up             up       VN-NY5-SP-3')}
+{'Et14': ('VN-NY5-SP-3', 'up', 'up', 'Et14                           up             up       VN-NY5-SP-3')}
+{'Et15': ('mst-ny4-1', 'up', 'up', 'Et15                           up             up       mst-ny4-1')}
+{'Et16': ('', 'down', 'notpresent', 'Et16                           down           notpresent ')}
+{'Et17': ('', 'down', 'notpresent', 'Et17                           down           notpresent ')}
+{'Et18': ('', 'down', 'notpresent', 'Et18                           down           notpresent ')}
+{'Et19': ('MST-NY4-5', 'up', 'up', 'Et19                           up             up       MST-NY4-5')}
+{'Et20': ('MST-NY4-5', 'up', 'up', 'Et20                           up             up       MST-NY4-5')}
+{'Et21': ('', 'down', 'notpresent', 'Et21                           down           notpresent ')}
+{'Et22': ('', 'down', 'notpresent', 'Et22                           down           notpresent ')}
+{'Et23': ('VN-NY4-LF-1', 'up', 'up', 'Et23                           up             up       VN-NY4-LF-1')}
+{'Et24': ('VN-NY4-LF-1', 'up', 'up', 'Et24                           up             up       VN-NY4-LF-1')}
+{'Et25': ('', 'down', 'notpresent', 'Et25                           down           notpresent ')}
+{'Et26': ('', 'down', 'notpresent', 'Et26                           down           notpresent ')}
+{'Et27': ('', 'down', 'notpresent', 'Et27                           down           notpresent ')}
+{'Et28': ('', 'down', 'notpresent', 'Et28                           down           notpresent ')}
+{'Et29': ('VN-NY4-SP-1', 'up', 'up', 'Et29                           up             up       VN-NY4-SP-1')}
+{'Et30': ('VN-NY4-SP-1', 'up', 'up', 'Et30                           up             up       VN-NY4-SP-1')}
+{'Et31': ('VN-NY4-SP-1', 'up', 'up', 'Et31                           up             up       VN-NY4-SP-1')}
+{'Et32': ('VN-NY4-SP-1', 'up', 'up', 'Et32                           up             up       VN-NY4-SP-1')}
+{'Et33': ('VN-NY4-LF-3', 'up', 'up', 'Et33                           up             up       VN-NY4-LF-3')}
+{'Et34': ('VN-NY4-LF-3', 'up', 'up', 'Et34                           up             up       VN-NY4-LF-3')}
+{'Et35': ('VN-NY4-LF-3', 'up', 'up', 'Et35                           up             up       VN-NY4-LF-3')}
+{'Et36': ('VN-NY4-LF-3', 'up', 'up', 'Et36                           up             up       VN-NY4-LF-3')}
+{'Et37': ('VN-NY4-LF-2', 'up', 'up', 'Et37                           up             up       VN-NY4-LF-2')}
+{'Et38': ('VN-NY4-LF-2', 'up', 'up', 'Et38                           up             up       VN-NY4-LF-2')}
+{'Et39': ('VN-NY4-LF-4', 'up', 'up', 'Et39                           up             up       VN-NY4-LF-4')}
+{'Et40': ('VN-NY4-LF-4', 'up', 'up', 'Et40                           up             up       VN-NY4-LF-4')}
+{'Et41': ('VN-NY4-LF-4', 'up', 'up', 'Et41                           up             up       VN-NY4-LF-4')}
+{'Et42': ('VN-NY4-LF-4', 'up', 'up', 'Et42                           up             up       VN-NY4-LF-4')}
+{'Et43': ('QH-B', 'down', 'notpresent', 'Et43                           down           notpresent QH-B')}
+{'Et44': ('', 'down', 'notpresent', 'Et44                           down           notpresent ')}
+{'Et45': ('', 'down', 'down', 'Et45                           down           down     ')}
+{'Et46': ('', 'down', 'down', 'Et46                           down           down     ')}
+{'Et47': ('LIME-B', 'up', 'up', 'Et47                           up             up       LIME-B')}
+{'Et48': ('LIME-B', 'up', 'up', 'Et48                           up             up       LIME-B')}
+{'Et49/1': ('QH-40G-B', 'up', 'up', 'Et49/1                         up             up       QH-40G-B')}
+{'Et49/2': ('', 'down', 'down', 'Et49/2                         down           down     ')}
+{'Et49/3': ('', 'down', 'down', 'Et49/3                         down           down     ')}
+{'Et49/4': ('', 'down', 'down', 'Et49/4                         down           down     ')}
+{'Et50/1': ('QH-40G-B-2nd', 'up', 'up', 'Et50/1                         up             up       QH-40G-B-2nd')}
+{'Et50/2': ('', 'down', 'down', 'Et50/2                         down           down     ')}
+{'Et50/3': ('', 'down', 'down', 'Et50/3                         down           down     ')}
+{'Et50/4': ('', 'down', 'down', 'Et50/4                         down           down     ')}
+{'Et51/1': ('OptionsIT-B', 'up', 'up', 'Et51/1                         up             up       OptionsIT-B')}
+{'Et51/2': ('', 'down', 'down', 'Et51/2                         down           down     ')}
+{'Et51/3': ('', 'down', 'down', 'Et51/3                         down           down     ')}
+{'Et51/4': ('', 'down', 'down', 'Et51/4                         down           down     ')}
+{'Et52/1': ('', 'down', 'notpresent', 'Et52/1                         down           notpresent ')}
+{'Et52/2': ('', 'down', 'notpresent', 'Et52/2                         down           notpresent ')}
+{'Et52/3': ('', 'down', 'notpresent', 'Et52/3                         down           notpresent ')}
+{'Et52/4': ('', 'down', 'notpresent', 'Et52/4                         down           notpresent ')}
+{'Lo0': ('', 'up', 'up', 'Lo0                            up             up       ')}
+{'Lo5': ('Anycast RP', 'up', 'up', 'Lo5                            up             up       Anycast RP')}
+{'Lo250': ('RP-Bucket', 'up', 'up', 'Lo250                          up             up       RP-Bucket')}
+{'Ma1': ('', 'down', 'down', 'Ma1                            down           down     ')}
+{'Po22': ('LIME-B', 'up', 'up', 'Po22                           up             up       LIME-B')}
+{'Po23': ('VN-NY4-LF-1', 'up', 'up', 'Po23                           up             up       VN-NY4-LF-1')}
+{'Po24': ('Trunk to VN-NY4-LF-4', 'up', 'up', 'Po24                           up             up       Trunk to VN-NY4-LF-4')}
+{'Po25': ('Trunk to VN-NY4-SP-1', 'up', 'up', 'Po25                           up             up       Trunk to VN-NY4-SP-1')}
+{'Po26': ('Trunk to VN-NY4-LF-3', 'up', 'up', 'Po26                           up             up       Trunk to VN-NY4-LF-3')}
+{'Po28': ('Trunk to VN-NY4-LF-5', 'up', 'up', 'Po28                           up             up       Trunk to VN-NY4-LF-5')}
+{'Po29': ('Trunk to VN-NY5-SP-3', 'up', 'up', 'Po29                           up             up       Trunk to VN-NY5-SP-3')}
+{'Po30': ('VN-NY4-LF-2', 'up', 'up', 'Po30                           up             up       VN-NY4-LF-2')}
+{'Po31': ('VN-CAR-SP-1', 'up', 'up', 'Po31                           up             up       VN-CAR-SP-1')}
+{'Vl204': ('Maystreet--10.75.1.0/29', 'up', 'up', 'Vl204                          up             up       Maystreet--10.75.1.0/29')}
+{'Vl256': ('Atrasys-10.75.6.96/28', 'down', 'lowerlayerdown', 'Vl256                          down           lowerlayerdown Atrasys-10.75.6.96/28')}
+{'Vl258': ('Atrasys-10.75.6.128/28', 'down', 'lowerlayerdown', 'Vl258                          down           lowerlayerdown Atrasys-10.75.6.128/28')}
+{'Vl307': ('Maystreet-10.11.19.112/28', 'up', 'up', 'Vl307                          up             up       Maystreet-10.11.19.112/28')}
+{'Vl308': ('AndrewCurto-10.11.19.128/28', 'down', 'lowerlayerdown', 'Vl308                          down           lowerlayerdown AndrewCurto-10.11.19.128/28')}
+{'Vl312': ('QH-Global-172.24.3.72/30', 'up', 'up', 'Vl312                          up             up       QH-Global-172.24.3.72/30')}
+{'Vl314': ('QH-Broker-172.24.3.80/30', 'up', 'up', 'Vl314                          up             up       QH-Broker-172.24.3.80/30')}
+{'Vl511': ('VN-NY4-LF-1-10.10.253.184/30', 'up', 'up', 'Vl511                          up             up       VN-NY4-LF-1-10.10.253.184/30')}
+{'Vl516': ('VN-NY4-LF-4-10.10.253.200/30', 'up', 'up', 'Vl516                          up             up       VN-NY4-LF-4-10.10.253.200/30')}
+{'Vl517': ('VN-NY4-SP-1-10.10.253.204/30', 'up', 'up', 'Vl517                          up             up       VN-NY4-SP-1-10.10.253.204/30')}
+{'Vl518': ('VN-NY4-LF-3-10.10.253.208/30', 'up', 'up', 'Vl518                          up             up       VN-NY4-LF-3-10.10.253.208/30')}
+{'Vl521': ('VN-NY4-LF-5-10.10.253.220/30', 'up', 'up', 'Vl521                          up             up       VN-NY4-LF-5-10.10.253.220/30')}
+{'Vl522': ('VN-NY4-SP-1-10.10.253.224/30', 'up', 'up', 'Vl522                          up             up       VN-NY4-SP-1-10.10.253.224/30')}
+{'Vl523': ('VN-NY5-SP-3-10.10.253.240/30', 'up', 'up', 'Vl523                          up             up       VN-NY5-SP-3-10.10.253.240/30')}
+{'Vl524': ('VN-NY4-LF-2-10.10.253.244/30', 'up', 'up', 'Vl524                          up             up       VN-NY4-LF-2-10.10.253.244/30')}
+{'Vl525': ('VN-NY4-LF-2-10.10.253.248/30', 'up', 'up', 'Vl525                          up             up       VN-NY4-LF-2-10.10.253.248/30')}
+{'Vl2000': ('LIME-B-10.33.1.68/30', 'up', 'up', 'Vl2000                         up             up       LIME-B-10.33.1.68/30')}
+10.75.128.4	arista
+SEND COMMAND: show interface description
+{'Et1': ('VN-NY4-SP-1', 'up', 'up', 'Et1                            up             up       VN-NY4-SP-1')}
+{'Et2': ('', 'down', 'down', 'Et2                            down           down     ')}
+{'Et3': ('', 'down', 'down', 'Et3                            down           down     ')}
+{'Et4': ('ITG-10G', 'up', 'up', 'Et4                            up             up       ITG-10G')}
+{'Et5': ('CBOE-CMI', 'up', 'up', 'Et5                            up             up       CBOE-CMI')}
+{'Et6': ('MS-NY4-CAP-2-PTP-eth8', 'up', 'up', 'Et6                            up             up       MS-NY4-CAP-2-PTP-eth8')}
+{'Et7': ('BOX-B', 'up', 'up', 'Et7                            up             up       BOX-B')}
+{'Et8': ('', 'down', 'down', 'Et8                            down           down     ')}
+{'Et9': ('CBOE-CSM-B', 'up', 'up', 'Et9                            up             up       CBOE-CSM-B')}
+{'Et10': ('CFE-CSMI-BATS-B', 'up', 'up', 'Et10                           up             up       CFE-CSMI-BATS-B')}
+{'Et11': ('notpresent CFE-Multicast-B', 'admin', 'down', 'Et11                           admin down     notpresent CFE-Multicast-B')}
+{'Et12': ('notpresent CFE-Unicast-B', 'admin', 'down', 'Et12                           admin down     notpresent CFE-Unicast-B')}
+{'Et13': ('SM-NY4-LAE-11-eth1', 'up', 'up', 'Et13                           up             up       SM-NY4-LAE-11-eth1')}
+{'Et14': ('Hanweck', 'up', 'up', 'Et14                           up             up       Hanweck')}
+{'Et15': ('VN-NY4-TP-5-p5p2', 'up', 'up', 'Et15                           up             up       VN-NY4-TP-5-p5p2')}
+{'Et16': ('Guavatech', 'up', 'up', 'Et16                           up             up       Guavatech')}
+{'Et17': ('SM-NY4-LAE-13-eth1', 'up', 'up', 'Et17                           up             up       SM-NY4-LAE-13-eth1')}
+{'Et18': ('', 'down', 'notpresent', 'Et18                           down           notpresent ')}
+{'Et19': ('MST-NY4-5-enp175s0f0', 'up', 'up', 'Et19                           up             up       MST-NY4-5-enp175s0f0')}
+{'Et20': ('MST-NY4-5-enp175s0f2', 'up', 'up', 'Et20                           up             up       MST-NY4-5-enp175s0f2')}
+{'Et21': ('Bluefin-B', 'up', 'up', 'Et21                           up             up       Bluefin-B')}
+{'Et22': ('RONIN', 'up', 'up', 'Et22                           up             up       RONIN')}
+{'Et23': ('VN-NY4-TP-4-p1p2', 'up', 'up', 'Et23                           up             up       VN-NY4-TP-4-p1p2')}
+{'Et24': ('VN-NY4-SP-1', 'up', 'up', 'Et24                           up             up       VN-NY4-SP-1')}
+{'Et25': ('VN-NY4-SP-1', 'up', 'up', 'Et25                           up             up       VN-NY4-SP-1')}
+{'Et26': ('VN-NY4-TP-1-eth16', 'up', 'up', 'Et26                           up             up       VN-NY4-TP-1-eth16')}
+{'Et27': ('vn-NY4-TP-2-eth9', 'up', 'up', 'Et27                           up             up       vn-NY4-TP-2-eth9')}
+{'Et28': ('VN-NY4-TP-6-p3p1', 'up', 'up', 'Et28                           up             up       VN-NY4-TP-6-p3p1')}
+{'Et29': ('VN-NY4-TP-7', 'down', 'down', 'Et29                           down           down     VN-NY4-TP-7')}
+{'Et30': ('VN-NY4-TP-6-p2p1', 'up', 'up', 'Et30                           up             up       VN-NY4-TP-6-p2p1')}
+{'Et31': ('RBC-B', 'up', 'up', 'Et31                           up             up       RBC-B')}
+{'Et32': ('VN-NY4-TP-6-p1p1', 'up', 'up', 'Et32                           up             up       VN-NY4-TP-6-p1p1')}
+{'Et33': ('VN-NY4-TP-4-p2p1', 'up', 'up', 'Et33                           up             up       VN-NY4-TP-4-p2p1')}
+{'Et34': ('VN-NY4-TP-4-p3p2', 'up', 'up', 'Et34                           up             up       VN-NY4-TP-4-p3p2')}
+{'Et35': ('VN-NY4-TP-3-eth0', 'up', 'up', 'Et35                           up             up       VN-NY4-TP-3-eth0')}
+{'Et36': ('VN-NY4-TP-3-eth3', 'up', 'up', 'Et36                           up             up       VN-NY4-TP-3-eth3')}
+{'Et37': ('VN-NY4-CAP-2-eth7', 'up', 'up', 'Et37                           up             up       VN-NY4-CAP-2-eth7')}
+{'Et38': ('Jefferies-B', 'up', 'up', 'Et38                           up             up       Jefferies-B')}
+{'Et39': ('Trunk to VN-NY4-SP-2', 'up', 'up', 'Et39                           up             up       Trunk to VN-NY4-SP-2')}
+{'Et40': ('Trunk to VN-NY4-SP-2', 'up', 'up', 'Et40                           up             up       Trunk to VN-NY4-SP-2')}
+{'Et41': ('Trunk to VN-NY4-SP-2', 'up', 'up', 'Et41                           up             up       Trunk to VN-NY4-SP-2')}
+{'Et42': ('Trunk to VN-NY4-SP-2', 'up', 'up', 'Et42                           up             up       Trunk to VN-NY4-SP-2')}
+{'Et43': ('VN-NY4-TP-5-p2p2', 'up', 'up', 'Et43                           up             up       VN-NY4-TP-5-p2p2')}
+{'Et44': ('VN-NY4-TP-5-eth1', 'up', 'up', 'Et44                           up             up       VN-NY4-TP-5-eth1')}
+{'Et45': ('VN-NY4-SP-1', 'up', 'up', 'Et45                           up             up       VN-NY4-SP-1')}
+{'Et46': ('MS-NY4-CAP-3-enp3s0f3', 'down', 'down', 'Et46                           down           down     MS-NY4-CAP-3-enp3s0f3')}
+{'Et47': ('MS-NY4-CAP-3-enp3s0f2', 'down', 'down', 'Et47                           down           down     MS-NY4-CAP-3-enp3s0f2')}
+{'Et48': ('VN-NY4-TP-5-eth5', 'up', 'up', 'Et48                           up             up       VN-NY4-TP-5-eth5')}
+{'Et49': ('VN-NY4-TP-1-eth17', 'up', 'up', 'Et49                           up             up       VN-NY4-TP-1-eth17')}
+{'Et50': ('VN-NY4-TP-2-eth10', 'up', 'up', 'Et50                           up             up       VN-NY4-TP-2-eth10')}
+{'Et51': ('', 'down', 'notpresent', 'Et51                           down           notpresent ')}
+{'Et52': ('notpresent VN-NY4-LF-2', 'admin', 'down', 'Et52                           admin down     notpresent VN-NY4-LF-2')}
+{'Lo0': ('', 'up', 'up', 'Lo0                            up             up       ')}
+{'Lo5': ('Anycast RP', 'up', 'up', 'Lo5                            up             up       Anycast RP')}
+{'Lo250': ('RP-Bucket', 'up', 'up', 'Lo250                          up             up       RP-Bucket')}
+{'Ma1': ('', 'down', 'down', 'Ma1                            down           down     ')}
+{'Po22': ('Trunk to VN-NY4-SP-1', 'up', 'up', 'Po22                           up             up       Trunk to VN-NY4-SP-1')}
+{'Po24': ('Trunk to VN-NY4-SP-2', 'up', 'up', 'Po24                           up             up       Trunk to VN-NY4-SP-2')}
+{'Po45': ('', 'down', 'lowerlayerdown', 'Po45                           down           lowerlayerdown ')}
+{'Vl10': ('', 'down', 'lowerlayerdown', 'Vl10                           down           lowerlayerdown ')}
+{'Vl17': ('', 'down', 'lowerlayerdown', 'Vl17                           down           lowerlayerdown ')}
+{'Vl21': ('down', 'admin', 'down', 'Vl21                           admin down     down     ')}
+{'Vl36': ('TP-IN-10.41.10.32/28', 'up', 'up', 'Vl36                           up             up       TP-IN-10.41.10.32/28')}
+{'Vl37': ('TP-IN-10.41.10.48/28', 'up', 'up', 'Vl37                           up             up       TP-IN-10.41.10.48/28')}
+{'Vl40': ('TP-IN-10.41.10.80/28', 'up', 'up', 'Vl40                           up             up       TP-IN-10.41.10.80/28')}
+{'Vl42': ('TP-IN-10.41.10.112/28', 'up', 'up', 'Vl42                           up             up       TP-IN-10.41.10.112/28')}
+{'Vl43': ('PTP-10.41.10.128/28', 'up', 'up', 'Vl43                           up             up       PTP-10.41.10.128/28')}
+{'Vl46': ('Capture-10.41.10.168/29', 'down', 'lowerlayerdown', 'Vl46                           down           lowerlayerdown Capture-10.41.10.168/29')}
+{'Vl47': ('Capture-10.41.10.176/29', 'down', 'lowerlayerdown', 'Vl47                           down           lowerlayerdown Capture-10.41.10.176/29')}
+{'Vl63': ('down SFTI_VLAN', 'admin', 'down', 'Vl63                           admin down     down     SFTI_VLAN')}
+{'Vl301': ('LAE-10.11.19.64/27', 'up', 'up', 'Vl301                          up             up       LAE-10.11.19.64/27')}
+{'Vl306': ('TP-output-204.90.88.208/28', 'up', 'up', 'Vl306                          up             up       TP-output-204.90.88.208/28')}
+{'Vl509': ('VN-NY4-SP-1-10.10.253.176/30', 'up', 'up', 'Vl509                          up             up       VN-NY4-SP-1-10.10.253.176/30')}
+{'Vl510': ('VN-NY4-SP-1-10.10.253.180/30', 'up', 'up', 'Vl510                          up             up       VN-NY4-SP-1-10.10.253.180/30')}
+{'Vl512': ('VN-NY4-LF-2-10.10.253.188/30', 'down', 'lowerlayerdown', 'Vl512                          down           lowerlayerdown VN-NY4-LF-2-10.10.253.188/30')}
+{'Vl516': ('VN-NY4-SP-2-10.10.253.200/30', 'up', 'up', 'Vl516                          up             up       VN-NY4-SP-2-10.10.253.200/30')}
+{'Vl2000': ('down', 'admin', 'down', 'Vl2000                         admin down     down     ')}
+{'Vl2001': ('Transit-to-Carteret-10.66.253.12/30', 'down', 'lowerlayerdown', 'Vl2001                         down           lowerlayerdown Transit-to-Carteret-10.66.253.12/30')}
+{'Vl2111': ('R2G-172.20.255.116/30', 'down', 'lowerlayerdown', 'Vl2111                         down           lowerlayerdown R2G-172.20.255.116/30')}
+{'Vl2161': ('R2G-L2-BSide-VLAN', 'down', 'lowerlayerdown', 'Vl2161                         down           lowerlayerdown R2G-L2-BSide-VLAN')}
+{'Vl2571': ('CBOE-CSM-B-10.212.19.112/30', 'up', 'up', 'Vl2571                         up             up       CBOE-CSM-B-10.212.19.112/30')}
+{'Vl2572': ('CBOE-CMI-10G-10.212.5.76/30', 'up', 'up', 'Vl2572                         up             up       CBOE-CMI-10G-10.212.5.76/30')}
+{'Vl3325': ('SAVVIS-NYSE-208.170.41.164/30', 'down', 'lowerlayerdown', 'Vl3325                         down           lowerlayerdown SAVVIS-NYSE-208.170.41.164/30')}
+{'Vl3415': ('Savvis-208.170.41.16/30', 'down', 'lowerlayerdown', 'Vl3415                         down           lowerlayerdown Savvis-208.170.41.16/30')}
+{'Vl3630': ('OneChicago-166.49.89.0/29', 'down', 'lowerlayerdown', 'Vl3630                         down           lowerlayerdown OneChicago-166.49.89.0/29')}
+10.75.128.11	arista
+SEND COMMAND: show interface description
+{'Et1': ('VN-NY4-SP-1', 'up', 'up', 'Et1                            up             up       VN-NY4-SP-1')}
+{'Et2': ('SC-NY4-JME-4', 'up', 'up', 'Et2                            up             up       SC-NY4-JME-4')}
+{'Et3': ('VN-NY4-SP-1', 'up', 'up', 'Et3                            up             up       VN-NY4-SP-1')}
+{'Et4': ('SP-SRV-ORC-3-CSM', 'down', 'down', 'Et4                            down           down     SP-SRV-ORC-3-CSM')}
+{'Et5': ('VN-NY4-SP-1', 'up', 'up', 'Et5                            up             up       VN-NY4-SP-1')}
+{'Et6': ('Bluefin', 'up', 'up', 'Et6                            up             up       Bluefin')}
+{'Et7': ('VN-NY4-SP-1', 'up', 'up', 'Et7                            up             up       VN-NY4-SP-1')}
+{'Et8': ('VN-NY4-SANDBOX-1-CME', 'up', 'up', 'Et8                            up             up       VN-NY4-SANDBOX-1-CME')}
+{'Et9': ('SM-NY4-IMPT-1', 'up', 'up', 'Et9                            up             up       SM-NY4-IMPT-1')}
+{'Et10': ('TA-SRV-JB-4', 'up', 'up', 'Et10                           up             up       TA-SRV-JB-4')}
+{'Et11': ('TA-SRV-JB-5', 'up', 'up', 'Et11                           up             up       TA-SRV-JB-5')}
+{'Et12': ('VN-NY4-SANDBOX-2 p1p2', 'up', 'up', 'Et12                           up             up       VN-NY4-SANDBOX-2 p1p2')}
+{'Et13': ('VN-NY4-SANDBOX-2 p3p2', 'up', 'up', 'Et13                           up             up       VN-NY4-SANDBOX-2 p3p2')}
+{'Et14': ('SM-NY4-LAE-11-eth0', 'up', 'up', 'Et14                           up             up       SM-NY4-LAE-11-eth0')}
+{'Et15': ('VN-NY4-SANDBOX-2 p3p1', 'up', 'up', 'Et15                           up             up       VN-NY4-SANDBOX-2 p3p1')}
+{'Et16': ('SM-NY4-LAE-13-eth0', 'up', 'up', 'Et16                           up             up       SM-NY4-LAE-13-eth0')}
+{'Et17': ('', 'down', 'notpresent', 'Et17                           down           notpresent ')}
+{'Et18': ('SM-NY4-LAE-8', 'up', 'up', 'Et18                           up             up       SM-NY4-LAE-8')}
+{'Et19': ('', 'down', 'notpresent', 'Et19                           down           notpresent ')}
+{'Et20': ('TA-SRV-JB-3', 'up', 'up', 'Et20                           up             up       TA-SRV-JB-3')}
+{'Et21': ('HUME-NY4-PROD-1', 'up', 'up', 'Et21                           up             up       HUME-NY4-PROD-1')}
+{'Et22': ('QIP-NY4-APP-3', 'up', 'up', 'Et22                           up             up       QIP-NY4-APP-3')}
+{'Et23': ('SM-NY4-SBM-1', 'up', 'up', 'Et23                           up             up       SM-NY4-SBM-1')}
+{'Et24': ('SM-NY4-DAV-3', 'up', 'up', 'Et24                           up             up       SM-NY4-DAV-3')}
+{'Et25': ('NY4-DVMETAL-01', 'up', 'up', 'Et25                           up             up       NY4-DVMETAL-01')}
+{'Et26': ('NY4-DVMETAL-01', 'up', 'up', 'Et26                           up             up       NY4-DVMETAL-01')}
+{'Et27': ('', 'down', 'notpresent', 'Et27                           down           notpresent ')}
+{'Et28': ('SM-NY4-IMPT-2', 'up', 'up', 'Et28                           up             up       SM-NY4-IMPT-2')}
+{'Et29': ('SC-NY4-JME-4', 'up', 'up', 'Et29                           up             up       SC-NY4-JME-4')}
+{'Et30': ('AT-SRV-JMS-2', 'up', 'up', 'Et30                           up             up       AT-SRV-JMS-2')}
+{'Et31': ('SC-NY5-JME-5', 'up', 'up', 'Et31                           up             up       SC-NY5-JME-5')}
+{'Et32': ('SC-NY5-JME-5', 'up', 'up', 'Et32                           up             up       SC-NY5-JME-5')}
+{'Et33': ('SM-NY4-AC-1', 'up', 'up', 'Et33                           up             up       SM-NY4-AC-1')}
+{'Et34': ('ZF-NY4-DEV-1-test', 'up', 'up', 'Et34                           up             up       ZF-NY4-DEV-1-test')}
+{'Et35': ('AT-SRV-JMS-2', 'up', 'up', 'Et35                           up             up       AT-SRV-JMS-2')}
+{'Et36': ('ZF-NY4-DEV-1-test', 'up', 'up', 'Et36                           up             up       ZF-NY4-DEV-1-test')}
+{'Et37': ('MCM-NY4-PROD-1-CBOE-Myricom', 'down', 'down', 'Et37                           down           down     MCM-NY4-PROD-1-CBOE-Myricom')}
+{'Et38': ('VIV-NY4-PROD-1 Port 1', 'up', 'up', 'Et38                           up             up       VIV-NY4-PROD-1 Port 1')}
+{'Et39': ('SM-NY4-LAW-1', 'up', 'up', 'Et39                           up             up       SM-NY4-LAW-1')}
+{'Et40': ('SM-NY4-LAW-3', 'up', 'up', 'Et40                           up             up       SM-NY4-LAW-3')}
+{'Et41': ('SM-NY4-LAW-3', 'up', 'up', 'Et41                           up             up       SM-NY4-LAW-3')}
+{'Et42': ('MCM-NY4-PROD-1-CBOE', 'up', 'up', 'Et42                           up             up       MCM-NY4-PROD-1-CBOE')}
+{'Et43': ('SM-NY4-LAW-2', 'up', 'up', 'Et43                           up             up       SM-NY4-LAW-2')}
+{'Et44': ('SM-NY4-LAW-2', 'up', 'up', 'Et44                           up             up       SM-NY4-LAW-2')}
+{'Et45': ('HUME-NY4-PROD-1', 'up', 'up', 'Et45                           up             up       HUME-NY4-PROD-1')}
+{'Et46': ('SM-NY4-RG-DEV1', 'up', 'up', 'Et46                           up             up       SM-NY4-RG-DEV1')}
+{'Et47': ('SM-NY4-RG-DEV2-CBOE', 'up', 'up', 'Et47                           up             up       SM-NY4-RG-DEV2-CBOE')}
+{'Et48': ('SM-NY4-RG-DEV2-CME', 'up', 'up', 'Et48                           up             up       SM-NY4-RG-DEV2-CME')}
+{'Et49': ('Trunk to VN-NY4-SP-2', 'up', 'up', 'Et49                           up             up       Trunk to VN-NY4-SP-2')}
+{'Et50': ('Trunk to VN-NY4-SP-2', 'up', 'up', 'Et50                           up             up       Trunk to VN-NY4-SP-2')}
+{'Et51': ('Trunk to VN-NY4-SP-2', 'up', 'up', 'Et51                           up             up       Trunk to VN-NY4-SP-2')}
+{'Et52': ('Trunk to VN-NY4-SP-2', 'down', 'notpresent', 'Et52                           down           notpresent Trunk to VN-NY4-SP-2')}
+{'Lo0': ('', 'up', 'up', 'Lo0                            up             up       ')}
+{'Lo250': ('RP-Bucket', 'up', 'up', 'Lo250                          up             up       RP-Bucket')}
+{'Ma1': ('', 'down', 'down', 'Ma1                            down           down     ')}
+{'Po27': ('VN-NY4-SP-1', 'up', 'up', 'Po27                           up             up       VN-NY4-SP-1')}
+{'Po28': ('Trunk to VN-NY4-SP-2', 'up', 'up', 'Po28                           up             up       Trunk to VN-NY4-SP-2')}
+{'Vl26': ('Sumo-10.10.21.0/27', 'up', 'up', 'Vl26                           up             up       Sumo-10.10.21.0/27')}
+{'Vl40': ('CME-172.17.173.32/27', 'up', 'up', 'Vl40                           up             up       CME-172.17.173.32/27')}
+{'Vl41': ('Sumo-10.46.43.0/27', 'up', 'up', 'Vl41                           up             up       Sumo-10.46.43.0/27')}
+{'Vl42': ('TP-10.46.43.32/28', 'up', 'up', 'Vl42                           up             up       TP-10.46.43.32/28')}
+{'Vl43': ('TP-10.46.43.48/28', 'down', 'lowerlayerdown', 'Vl43                           down           lowerlayerdown TP-10.46.43.48/28')}
+{'Vl44': ('TP-10.46.43.64/28', 'up', 'up', 'Vl44                           up             up       TP-10.46.43.64/28')}
+{'Vl45': ('TP-10.46.43.80/28', 'up', 'up', 'Vl45                           up             up       TP-10.46.43.80/28')}
+{'Vl46': ('Andrie-CBOE-10.46.32.128/28', 'down', 'lowerlayerdown', 'Vl46                           down           lowerlayerdown Andrie-CBOE-10.46.32.128/28')}
+{'Vl47': ('Monadnock-10.46.32.144/28', 'up', 'up', 'Vl47                           up             up       Monadnock-10.46.32.144/28')}
+{'Vl48': ('Andrie-ICE-172.28.208.96/29', 'down', 'lowerlayerdown', 'Vl48                           down           lowerlayerdown Andrie-ICE-172.28.208.96/29')}
+{'Vl49': ('Andrie-Activ-10.75.2.96/28', 'down', 'lowerlayerdown', 'Vl49                           down           lowerlayerdown Andrie-Activ-10.75.2.96/28')}
+{'Vl56': ('OptionsCity-A-10.46.75.16/28', 'up', 'up', 'Vl56                           up             up       OptionsCity-A-10.46.75.16/28')}
+{'Vl57': ('OptionsCity-B-10.75.5.16/28', 'up', 'up', 'Vl57                           up             up       OptionsCity-B-10.75.5.16/28')}
+{'Vl58': ('SM-10.46.43.128/28', 'up', 'up', 'Vl58                           up             up       SM-10.46.43.128/28')}
+{'Vl59': ('HUME-10.46.43.144/28', 'up', 'up', 'Vl59                           up             up       HUME-10.46.43.144/28')}
+{'Vl224': ('HUME--10.75.1.32/29', 'up', 'up', 'Vl224                          up             up       HUME--10.75.1.32/29')}
+{'Vl225': ('Synergy-10.75.4.80/29', 'up', 'up', 'Vl225                          up             up       Synergy-10.75.4.80/29')}
+{'Vl236': ('Sumo-LAE-10.46.17.152/29', 'up', 'up', 'Vl236                          up             up       Sumo-LAE-10.46.17.152/29')}
+{'Vl247': ('BOS-10.75.2.72/29-multicast', 'down', 'lowerlayerdown', 'Vl247                          down           lowerlayerdown BOS-10.75.2.72/29-multicast')}
+{'Vl305': ('SANDBOX-Mcast-10.75.6.96/27', 'down', 'lowerlayerdown', 'Vl305                          down           lowerlayerdown SANDBOX-Mcast-10.75.6.96/27')}
+{'Vl311': ('Titan-10.75.4.64/28', 'up', 'up', 'Vl311                          up             up       Titan-10.75.4.64/28')}
+{'Vl312': ('Synergy-10.46.43.96/29', 'up', 'up', 'Vl312                          up             up       Synergy-10.46.43.96/29')}
+{'Vl520': ('VN-NY4-SP-1-10.10.253.216/30', 'up', 'up', 'Vl520                          up             up       VN-NY4-SP-1-10.10.253.216/30')}
+{'Vl521': ('VN-NY4-SP-2-10.10.253.220/30', 'up', 'up', 'Vl521                          up             up       VN-NY4-SP-2-10.10.253.220/30')}
+10.64.254.6	arista
+unable to connect, moving on to next
+10.64.254.5	arista
+unable to connect, moving on to next
+10.66.254.7	arista
+SEND COMMAND: show interface description
+{'Et1': ('', 'down', 'notpresent', 'Et1                            down           notpresent ')}
+{'Et2': ('', 'down', 'notpresent', 'Et2                            down           notpresent ')}
+{'Et3': ('', 'down', 'down', 'Et3                            down           down     ')}
+{'Et4': ('', 'down', 'notpresent', 'Et4                            down           notpresent ')}
+{'Et5': ('Options-IT-A', 'up', 'up', 'Et5                            up             up       Options-IT-A')}
+{'Et6': ('', 'down', 'notpresent', 'Et6                            down           notpresent ')}
+{'Et7': ('', 'down', 'notpresent', 'Et7                            down           notpresent ')}
+{'Et8': ('', 'down', 'notpresent', 'Et8                            down           notpresent ')}
+{'Et9': ('', 'down', 'notpresent', 'Et9                            down           notpresent ')}
+{'Et10': ('', 'down', 'notpresent', 'Et10                           down           notpresent ')}
+{'Et11': ('', 'up', 'up', 'Et11                           up             up       ')}
+{'Et12': ('', 'down', 'down', 'Et12                           down           down     ')}
+{'Et13': ('Nasdaq-10G-Ultra', 'up', 'up', 'Et13                           up             up       Nasdaq-10G-Ultra')}
+{'Et14': ('QHN-nyccar-lf02-21407 G1/43', 'up', 'up', 'Et14                           up             up       QHN-nyccar-lf02-21407 G1/43')}
+{'Et15': ('SM-CAR-LAE-1', 'up', 'up', 'Et15                           up             up       SM-CAR-LAE-1')}
+{'Et16': ('SM-CAR-LAE-2', 'up', 'up', 'Et16                           up             up       SM-CAR-LAE-2')}
+{'Et17': ('SM-CAR-LAE-3', 'up', 'up', 'Et17                           up             up       SM-CAR-LAE-3')}
+{'Et18': ('SM-CAR-LAE-4', 'up', 'up', 'Et18                           up             up       SM-CAR-LAE-4')}
+{'Et19': ('SM-CAR-LAE-5', 'up', 'up', 'Et19                           up             up       SM-CAR-LAE-5')}
+{'Et20': ('SM-CAR-LAE-6', 'up', 'up', 'Et20                           up             up       SM-CAR-LAE-6')}
+{'Et21': ('SM-CAR-LAW-1', 'up', 'up', 'Et21                           up             up       SM-CAR-LAW-1')}
+{'Et22': ('SM-CAR-LAW-2', 'up', 'up', 'Et22                           up             up       SM-CAR-LAW-2')}
+{'Et23': ('', 'down', 'notpresent', 'Et23                           down           notpresent ')}
+{'Et24': ('', 'down', 'notpresent', 'Et24                           down           notpresent ')}
+{'Et25': ('', 'down', 'down', 'Et25                           down           down     ')}
+{'Et26': ('', 'down', 'down', 'Et26                           down           down     ')}
+{'Et27': ('', 'down', 'down', 'Et27                           down           down     ')}
+{'Et28': ('', 'down', 'down', 'Et28                           down           down     ')}
+{'Et29': ('', 'down', 'down', 'Et29                           down           down     ')}
+{'Et30': ('', 'down', 'down', 'Et30                           down           down     ')}
+{'Et31': ('', 'down', 'down', 'Et31                           down           down     ')}
+{'Et32': ('', 'down', 'down', 'Et32                           down           down     ')}
+{'Et33': ('', 'down', 'down', 'Et33                           down           down     ')}
+{'Et34': ('', 'down', 'down', 'Et34                           down           down     ')}
+{'Et35': ('', 'down', 'down', 'Et35                           down           down     ')}
+{'Et36': ('', 'down', 'down', 'Et36                           down           down     ')}
+{'Et37': ('', 'down', 'down', 'Et37                           down           down     ')}
+{'Et38': ('', 'down', 'down', 'Et38                           down           down     ')}
+{'Et39': ('', 'down', 'down', 'Et39                           down           down     ')}
+{'Et40': ('VN-CAR-CAP-1-eth4', 'down', 'down', 'Et40                           down           down     VN-CAR-CAP-1-eth4')}
+{'Et41': ('VN-CAR-CAP-1-eth5', 'down', 'down', 'Et41                           down           down     VN-CAR-CAP-1-eth5')}
+{'Et42': ('', 'down', 'notpresent', 'Et42                           down           notpresent ')}
+{'Et43': ('', 'down', 'down', 'Et43                           down           down     ')}
+{'Et44': ('', 'down', 'notpresent', 'Et44                           down           notpresent ')}
+{'Et45': ('PTP from VN-CAR-GPS-1', 'up', 'up', 'Et45                           up             up       PTP from VN-CAR-GPS-1')}
+{'Et46': ('', 'down', 'notpresent', 'Et46                           down           notpresent ')}
+{'Et47': ('QH', 'down', 'down', 'Et47                           down           down     QH')}
+{'Et48': ('QHN-nyccar-lf01-21407 T1/49', 'up', 'up', 'Et48                           up             up       QHN-nyccar-lf01-21407 T1/49')}
+{'Et49': ('QHN-nyccar-sp02-21407 E49', 'up', 'up', 'Et49                           up             up       QHN-nyccar-sp02-21407 E49')}
+{'Et50': ('QHN-nyccar-sp02-21407 E50', 'up', 'up', 'Et50                           up             up       QHN-nyccar-sp02-21407 E50')}
+{'Et51': ('QHN-nyccar-sp02-21407 E51', 'up', 'up', 'Et51                           up             up       QHN-nyccar-sp02-21407 E51')}
+{'Et52': ('QHN-nyccar-sp02-21407 E52', 'up', 'up', 'Et52                           up             up       QHN-nyccar-sp02-21407 E52')}
+{'Lo0': ('Management_IP', 'up', 'up', 'Lo0                            up             up       Management_IP')}
+{'Lo1': ('', 'up', 'up', 'Lo1                            up             up       ')}
+{'Lo250': ('', 'up', 'up', 'Lo250                          up             up       ')}
+{'Ma1': ('', 'up', 'up', 'Ma1                            up             up       ')}
+{'Po1': ('QHN-nyccar-sp02-21407 PO1', 'up', 'up', 'Po1                            up             up       QHN-nyccar-sp02-21407 PO1')}
+{'Vl30': ('Sumo_10.66.18.32/27', 'up', 'up', 'Vl30                           up             up       Sumo_10.66.18.32/27')}
+{'Vl50': ('Victory_10.66.18.80/28', 'down', 'lowerlayerdown', 'Vl50                           down           lowerlayerdown Victory_10.66.18.80/28')}
+{'Vl51': ('PTP-10.66.252.0/26', 'up', 'up', 'Vl51                           up             up       PTP-10.66.252.0/26')}
+{'Vl100': ('PTP-Capture-10.66.128.0/28', 'down', 'lowerlayerdown', 'Vl100                          down           lowerlayerdown PTP-Capture-10.66.128.0/28')}
+{'Vl2003': ('nyccar-sp-2-21407-10.66.254.36/30', 'up', 'up', 'Vl2003                         up             up       nyccar-sp-2-21407-10.66.254.36/30')}
+10.66.254.8	arista
+SEND COMMAND: show interface description
+{'Et1': ('LIME-20G', 'up', 'up', 'Et1                            up             up       LIME-20G')}
+{'Et2': ('LIME-20G', 'up', 'up', 'Et2                            up             up       LIME-20G')}
+{'Et3': ('DWDM-NY4-C57', 'up', 'up', 'Et3                            up             up       DWDM-NY4-C57')}
+{'Et4': ('DWDM-NY4-C59', 'up', 'up', 'Et4                            up             up       DWDM-NY4-C59')}
+{'Et5': ('DWDM-NY4-C58', 'up', 'up', 'Et5                            up             up       DWDM-NY4-C58')}
+{'Et6': ('DWDM-NY4-C60', 'up', 'up', 'Et6                            up             up       DWDM-NY4-C60')}
+{'Et7': ('Peak-6', 'down', 'down', 'Et7                            down           down     Peak-6')}
+{'Et8': ('Peak-6', 'down', 'down', 'Et8                            down           down     Peak-6')}
+{'Et9': ('Hehmeyer-Trading', 'up', 'up', 'Et9                            up             up       Hehmeyer-Trading')}
+{'Et10': ('Monadnock', 'up', 'up', 'Et10                           up             up       Monadnock')}
+{'Et11': ('Options-IT B side', 'up', 'up', 'Et11                           up             up       Options-IT B side')}
+{'Et12': ('Options-IT B side', 'up', 'up', 'Et12                           up             up       Options-IT B side')}
+{'Et13': ('', 'down', 'notpresent', 'Et13                           down           notpresent ')}
+{'Et14': ('QHN-nyccar-lf02-21407 G1/44', 'up', 'up', 'Et14                           up             up       QHN-nyccar-lf02-21407 G1/44')}
+{'Et15': ('SM-CAR-LAE-1', 'up', 'up', 'Et15                           up             up       SM-CAR-LAE-1')}
+{'Et16': ('SM-CAR-LAE-2', 'up', 'up', 'Et16                           up             up       SM-CAR-LAE-2')}
+{'Et17': ('SM-CAR-LAE-3', 'up', 'up', 'Et17                           up             up       SM-CAR-LAE-3')}
+{'Et18': ('SM-CAR-LAE-4', 'up', 'up', 'Et18                           up             up       SM-CAR-LAE-4')}
+{'Et19': ('SM-CAR-LAE-5', 'up', 'up', 'Et19                           up             up       SM-CAR-LAE-5')}
+{'Et20': ('SM-CAR-LAE-6', 'up', 'up', 'Et20                           up             up       SM-CAR-LAE-6')}
+{'Et21': ('SM-CAR-LAW-1', 'up', 'up', 'Et21                           up             up       SM-CAR-LAW-1')}
+{'Et22': ('SM-CAR-LAW-2', 'up', 'up', 'Et22                           up             up       SM-CAR-LAW-2')}
+{'Et23': ('', 'down', 'down', 'Et23                           down           down     ')}
+{'Et24': ('VN-CAR-CAP-1-MGT', 'up', 'up', 'Et24                           up             up       VN-CAR-CAP-1-MGT')}
+{'Et25': ('', 'down', 'down', 'Et25                           down           down     ')}
+{'Et26': ('', 'down', 'down', 'Et26                           down           down     ')}
+{'Et27': ('', 'down', 'down', 'Et27                           down           down     ')}
+{'Et28': ('', 'down', 'down', 'Et28                           down           down     ')}
+{'Et29': ('', 'down', 'down', 'Et29                           down           down     ')}
+{'Et30': ('', 'down', 'down', 'Et30                           down           down     ')}
+{'Et31': ('', 'down', 'down', 'Et31                           down           down     ')}
+{'Et32': ('', 'down', 'down', 'Et32                           down           down     ')}
+{'Et33': ('', 'down', 'notpresent', 'Et33                           down           notpresent ')}
+{'Et34': ('', 'down', 'notpresent', 'Et34                           down           notpresent ')}
+{'Et35': ('', 'down', 'notpresent', 'Et35                           down           notpresent ')}
+{'Et36': ('', 'down', 'notpresent', 'Et36                           down           notpresent ')}
+{'Et37': ('', 'down', 'down', 'Et37                           down           down     ')}
+{'Et38': ('', 'down', 'down', 'Et38                           down           down     ')}
+{'Et39': ('', 'down', 'notpresent', 'Et39                           down           notpresent ')}
+{'Et40': ('QHN-nyccar-lf01-21407 T1/50', 'up', 'up', 'Et40                           up             up       QHN-nyccar-lf01-21407 T1/50')}
+{'Et41': ('', 'down', 'notpresent', 'Et41                           down           notpresent ')}
+{'Et42': ('', 'down', 'down', 'Et42                           down           down     ')}
+{'Et43': ('', 'down', 'notpresent', 'Et43                           down           notpresent ')}
+{'Et44': ('', 'down', 'notpresent', 'Et44                           down           notpresent ')}
+{'Et45': ('Peak6-1', 'down', 'notpresent', 'Et45                           down           notpresent Peak6-1')}
+{'Et46': ('Peak6-2', 'down', 'notpresent', 'Et46                           down           notpresent Peak6-2')}
+{'Et47': ('QH', 'up', 'up', 'Et47                           up             up       QH')}
+{'Et48': ('Monadnock', 'down', 'notpresent', 'Et48                           down           notpresent Monadnock')}
+{'Et49': ('QHN-nyccar-sp01-21407 E49', 'up', 'up', 'Et49                           up             up       QHN-nyccar-sp01-21407 E49')}
+{'Et50': ('QHN-nyccar-sp01-21407 E50', 'up', 'up', 'Et50                           up             up       QHN-nyccar-sp01-21407 E50')}
+{'Et51': ('QHN-nyccar-sp01-21407 E51', 'up', 'up', 'Et51                           up             up       QHN-nyccar-sp01-21407 E51')}
+{'Et52': ('QHN-nyccar-sp01-21407 E52', 'up', 'up', 'Et52                           up             up       QHN-nyccar-sp01-21407 E52')}
+{'Lo0': ('Management_IP', 'up', 'up', 'Lo0                            up             up       Management_IP')}
+{'Lo1': ('', 'up', 'up', 'Lo1                            up             up       ')}
+{'Lo250': ('', 'up', 'up', 'Lo250                          up             up       ')}
+{'Ma1': ('', 'up', 'up', 'Ma1                            up             up       ')}
+{'Po1': ('QHN-nyccar-sp01-21407 PO1', 'up', 'up', 'Po1                            up             up       QHN-nyccar-sp01-21407 PO1')}
+{'Po2': ('Options-IT-B', 'up', 'up', 'Po2                            up             up       Options-IT-B')}
+{'Po3': ('VN-CAR-SP-2-20G', 'up', 'up', 'Po3                            up             up       VN-CAR-SP-2-20G')}
+{'Po31': ('VN-NY4-SP-2', 'up', 'up', 'Po31                           up             up       VN-NY4-SP-2')}
+{'Po33': ('Peak6', 'down', 'lowerlayerdown', 'Po33                           down           lowerlayerdown Peak6')}
+{'Vl50': ('Victory_10.66.18.80/28', 'up', 'up', 'Vl50                           up             up       Victory_10.66.18.80/28')}
+{'Vl130': ('Sumo_10.66.118.32/27', 'up', 'up', 'Vl130                          up             up       Sumo_10.66.118.32/27')}
+{'Vl2002': ('VN-10.66.253.32/30', 'up', 'up', 'Vl2002                         up             up       VN-10.66.253.32/30')}
+{'Vl2003': ('nyccar-sp01-201407-10.66.254.36/30', 'up', 'up', 'Vl2003                         up             up       nyccar-sp01-201407-10.66.254.36/30')}
+10.63.254.1	nexus
+SEND COMMAND: show interface status
+{'Eth1/1': ('VN-CH1-LF-1-TE1/50', 'connected', 'trunk', 'Eth1/1        VN-CH1-LF-1-TE1/50 connected trunk     full    10G     10Gbase-LR     ')}
+{'Eth1/2': ('VN-CH1-LF-2-GE1/48', 'connected', 'trunk', 'Eth1/2        VN-CH1-LF-2-GE1/48 connected trunk     full    1000    1000base-LH    ')}
+{'Eth1/3': ('VN-CH1-LF-2-GE1/46', 'connected', 'trunk', 'Eth1/3        VN-CH1-LF-2-GE1/46 connected trunk     full    1000    1000base-LH    ')}
+{'Eth1/4': ('Cogent-to-400S', 'notconnec', 'trunk', 'Eth1/4        Cogent-to-400S     notconnec trunk     full    1000    1000base-SX    ')}
+{'Eth1/5': ('BRE_Crossconnect', 'sfpAbsent', 'routed', 'Eth1/5        BRE_Crossconnect   sfpAbsent routed    full    1000    --             ')}
+{'Eth1/6': ('VN-335-SP-1.G3/1-L', 'connected', 'routed', 'Eth1/6        VN-335-SP-1.G3/1-L connected routed    full    1000    1000base-LH    ')}
+{'Eth1/7': ('VN-350-SP-1-E4', 'connected', 'routed', 'Eth1/7        VN-350-SP-1-E4     connected routed    full    10G     10Gbase-LR     ')}
+{'Eth1/8': ('--', 'sfpAbsent', 'routed', 'Eth1/8        --                 sfpAbsent routed    full    1000    --             ')}
+{'Eth1/9': ('--', 'notconnec', 'routed', 'Eth1/9        --                 notconnec routed    full    10G     10Gbase-SR     ')}
+{'Eth1/10': ('--', 'connected', '80', 'Eth1/10       --                 connected 80        full    1000    10Gbase-SR     ')}
+{'Eth1/11': ('--', 'notconnec', 'routed', 'Eth1/11       --                 notconnec routed    full    100     1000base-T     ')}
+{'Eth1/12': ('Balyasny-181-Madis', 'connected', 'routed', 'Eth1/12       Balyasny-181-Madis connected routed    full    100     1000base-T     ')}
+{'Eth1/13': ('PICO', 'connected', 'routed', 'Eth1/13       PICO               connected routed    full    10G     10Gbase-LR     ')}
+{'Eth1/14': ('--', 'connected', '80', 'Eth1/14       --                 connected 80        full    1000    1000base-T     ')}
+{'Eth1/15': ('Activ_Cross_Connec', 'notconnec', 'routed', 'Eth1/15       Activ_Cross_Connec notconnec routed    full    10G     10Gbase-LR     ')}
+{'Eth1/16': ('Victory_Firewalls', 'connected', '70', 'Eth1/16       Victory_Firewalls  connected 70        full    1000    1000base-T     ')}
+{'Eth1/17': ('Metro-to-400s_zayo', 'connected', 'routed', 'Eth1/17       Metro-to-400s_zayo connected routed    full    10G     10Gbase-LR     ')}
+{'Eth1/18': ('NASDAQ-NFX-2029172', 'connected', 'routed', 'Eth1/18       NASDAQ-NFX-2029172 connected routed    full    10G     10Gbase-LR     ')}
+{'Eth1/19': ('Blufin-DR', 'notconnec', 'routed', 'Eth1/19       Blufin-DR          notconnec routed    full    10G     10Gbase-LR     ')}
+{'Eth1/20': ('VDIWare', 'connected', 'trunk', 'Eth1/20       VDIWare            connected trunk     full    10G     10Gbase-LR     ')}
+{'Eth1/21': ('Balyasny-QTS', 'connected', 'routed', 'Eth1/21       Balyasny-QTS       connected routed    full    1000    1000base-LH    ')}
+{'Eth1/22': ('--', 'notconnec', '1', 'Eth1/22       --                 notconnec 1         full    10G     10Gbase-SR     ')}
+{'Eth1/23': ('--', 'notconnec', '1', 'Eth1/23       --                 notconnec 1         full    10G     10Gbase-SR     ')}
+{'Eth1/24': ('--', 'notconnec', '1', 'Eth1/24       --                 notconnec 1         full    10G     10Gbase-SR     ')}
+{'Eth1/25': ('--', 'sfpAbsent', '1', 'Eth1/25       --                 sfpAbsent 1         full    10G     --             ')}
+{'Eth1/26': ('--', 'sfpAbsent', '1', 'Eth1/26       --                 sfpAbsent 1         full    10G     --             ')}
+{'Eth1/27': ('--', 'sfpAbsent', '1', 'Eth1/27       --                 sfpAbsent 1         full    10G     --             ')}
+{'Eth1/28': ('--', 'sfpAbsent', '1', 'Eth1/28       --                 sfpAbsent 1         full    10G     --             ')}
+{'Eth1/29': ('--', 'sfpAbsent', '1', 'Eth1/29       --                 sfpAbsent 1         full    10G     --             ')}
+{'Eth1/30': ('Hanweck', 'connected', 'routed', 'Eth1/30       Hanweck            connected routed    full    1000    1000base-X     ')}
+{'Eth1/31': ('--', 'sfpAbsent', '1', 'Eth1/31       --                 sfpAbsent 1         full    10G     --             ')}
+{'Eth1/32': ('--', 'sfpAbsent', '1', 'Eth1/32       --                 sfpAbsent 1         full    10G     --             ')}
+{'Eth1/33': ('--', 'sfpAbsent', 'routed', 'Eth1/33       --                 sfpAbsent routed    full    1000    --             ')}
+{'Eth1/34': ('Nadex-via-Cogent-C', 'connected', 'trunk', 'Eth1/34       Nadex-via-Cogent-C connected trunk     full    1000    1000base-LH    ')}
+{'Eth1/35': ('--', 'sfpAbsent', '1', 'Eth1/35       --                 sfpAbsent 1         full    10G     --             ')}
+{'Eth1/36': ('--', 'sfpAbsent', '1', 'Eth1/36       --                 sfpAbsent 1         full    10G     --             ')}
+{'Eth1/37': ('--', 'notconnec', '1', 'Eth1/37       --                 notconnec 1         full    10G     10Gbase-SR     ')}
+{'Eth1/38': ('REVO-CH1-PROD-1', 'connected', '32', 'Eth1/38       REVO-CH1-PROD-1    connected 32        full    10G     10Gbase-SR     ')}
+{'Eth1/39': ('--', 'notconnec', '1', 'Eth1/39       --                 notconnec 1         full    10G     10Gbase-SR     ')}
+{'Eth1/40': ('233-CH1-PROD-1', 'connected', '69', 'Eth1/40       233-CH1-PROD-1     connected 69        full    10G     10Gbase-SR     ')}
+{'Eth1/41': ('SocGen', 'sfpAbsent', '1', 'Eth1/41       SocGen             sfpAbsent 1         full    1000    --             ')}
+{'Eth1/42': ('--', 'sfpAbsent', '1', 'Eth1/42       --                 sfpAbsent 1         full    10G     --             ')}
+{'Eth1/43': ('--', 'sfpAbsent', '1', 'Eth1/43       --                 sfpAbsent 1         full    10G     --             ')}
+{'Eth1/44': ('--', 'sfpAbsent', '1', 'Eth1/44       --                 sfpAbsent 1         full    10G     --             ')}
+{'Eth1/45': ('--', 'sfpAbsent', 'routed', 'Eth1/45       --                 sfpAbsent routed    full    1000    --             ')}
+{'Eth1/46': ('--', 'sfpAbsent', '1', 'Eth1/46       --                 sfpAbsent 1         full    10G     --             ')}
+{'Eth1/47': ('MST-CH1-CAP-1', 'connected', '81', 'Eth1/47       MST-CH1-CAP-1      connected 81        full    10G     SFP-H10GB-CU3M ')}
+{'Eth1/48': ('MST-CH1-CAP-1', 'disabled', '82', 'Eth1/48       MST-CH1-CAP-1      disabled  82        full    10G     SFP-H10GB-CU3M ')}
+{'Eth1/49': ('--', 'connected', 'trunk', 'Eth1/49       --                 connected trunk     full    40G     40Gbase-CR(Pass')}
+{'Eth1/50': ('--', 'connected', 'trunk', 'Eth1/50       --                 connected trunk     full    40G     40Gbase-CR(Pass')}
+{'Eth1/51': ('--', 'connected', '1', 'Eth1/51       --                 connected 1         full    40G     40Gbase-CR(Pass')}
+{'Eth1/52': ('--', 'connected', '1', 'Eth1/52       --                 connected 1         full    40G     40Gbase-CR(Pass')}
+{'mgmt0': ('--', 'notconnec', 'routed', 'mgmt0         --                 notconnec routed    Full    auto    --             ')}
+{'Lo0': ('--', 'connected', 'routed', 'Lo0           --                 connected routed    Full    auto    --             ')}
+{'Lo5': ('--', 'connected', 'routed', 'Lo5           --                 connected routed    Full    auto    --             ')}
+{'Lo6': ('Anycast RP for And', 'connected', 'routed', 'Lo6           Anycast RP for And connected routed    Full    auto    --             ')}
+10.62.254.2	nexus
+SEND COMMAND: show interface status
+{'Eth1/1': ('VN-350-SP-1-E1', 'connected', 'routed', 'Eth1/1        VN-350-SP-1-E1     connected routed    full    1000    1000base-LH    ')}
+{'Eth1/2': ('VN-350-SP-1-E2', 'connected', 'routed', 'Eth1/2        VN-350-SP-1-E2     connected routed    full    1000    1000base-LH    ')}
+{'Eth1/3': ('--', 'disabled', 'routed', 'Eth1/3        --                 disabled  routed    full    1000    1000base-SX    ')}
+{'Eth1/4': ('VN-CH1-SP-2-E1/7', 'connected', 'routed', 'Eth1/4        VN-CH1-SP-2-E1/7   connected routed    full    10G     10Gbase-LR     ')}
+{'Eth1/5': ('VN-350-LF-1-TE50', 'connected', 'routed', 'Eth1/5        VN-350-LF-1-TE50   connected routed    full    1000    1000base-LH    ')}
+{'Eth1/6': ('VN-350-LF-2-GE1/46', 'connected', 'routed', 'Eth1/6        VN-350-LF-2-GE1/46 connected routed    full    1000    1000base-LH    ')}
+{'Eth1/7': ('--', 'notconnec', 'routed', 'Eth1/7        --                 notconnec routed    full    1000    1000base-T     ')}
+{'Eth1/8': ('VDIware_CC', 'sfpAbsent', 'routed', 'Eth1/8        VDIware_CC         sfpAbsent routed    full    10G     --             ')}
+{'Eth1/9': ('--', 'sfpAbsent', '1', 'Eth1/9        --                 sfpAbsent 1         full    10G     --             ')}
+{'Eth1/10': ('--', 'sfpAbsent', '1', 'Eth1/10       --                 sfpAbsent 1         full    10G     --             ')}
+{'Eth1/11': ('--', 'sfpAbsent', '1', 'Eth1/11       --                 sfpAbsent 1         full    10G     --             ')}
+{'Eth1/12': ('--', 'sfpAbsent', '1', 'Eth1/12       --                 sfpAbsent 1         full    10G     --             ')}
+{'Eth1/13': ('BUDO-350-TT-1-SF-2', 'connected', '10', 'Eth1/13       BUDO-350-TT-1-SF-2 connected 10        full    10G     10Gbase-SR     ')}
+{'Eth1/14': ('BUDO-350-TT-2-SF-2', 'notconnec', '10', 'Eth1/14       BUDO-350-TT-2-SF-2 notconnec 10        full    10G     10Gbase-SR     ')}
+{'Eth1/15': ('BUDO-350-ACT-1-SF-', 'connected', '10', 'Eth1/15       BUDO-350-ACT-1-SF- connected 10        full    10G     10Gbase-SR     ')}
+{'Eth1/16': ('BUDO-350-ACT-2-SF-', 'connected', '10', 'Eth1/16       BUDO-350-ACT-2-SF- connected 10        full    10G     10Gbase-SR     ')}
+{'Eth1/17': ('BUDO-350-VM-1-SF-2', 'connected', '10', 'Eth1/17       BUDO-350-VM-1-SF-2 connected 10        full    10G     10Gbase-SR     ')}
+{'Eth1/18': ('--', 'notconnec', '1', 'Eth1/18       --                 notconnec 1         full    10G     10Gbase-SR     ')}
+{'Eth1/19': ('BUDO-350-ACT-3_SF2', 'connected', '10', 'Eth1/19       BUDO-350-ACT-3_SF2 connected 10        full    10G     10Gbase-SR     ')}
+{'Eth1/20': ('BUDO-350-TT-3_SF2', 'connected', '10', 'Eth1/20       BUDO-350-TT-3_SF2  connected 10        full    10G     10Gbase-SR     ')}
+{'Eth1/21': ('BUDO-350-RIVAL-1_S', 'connected', '25', 'Eth1/21       BUDO-350-RIVAL-1_S connected 25        full    10G     10Gbase-SR     ')}
+{'Eth1/22': ('--', 'notconnec', '1', 'Eth1/22       --                 notconnec 1         full    10G     10Gbase-SR     ')}
+{'Eth1/23': ('BUDO-350-TCX-1_SF2', 'connected', '10', 'Eth1/23       BUDO-350-TCX-1_SF2 connected 10        full    10G     10Gbase-SR     ')}
+{'Eth1/24': ('--', 'notconnec', '1', 'Eth1/24       --                 notconnec 1         full    10G     10Gbase-SR     ')}
+{'Eth1/25': ('BUDO-350-ACT-2-sol', 'connected', '1', 'Eth1/25       BUDO-350-ACT-2-sol connected 1         full    10G     10Gbase-SR     ')}
+{'Eth1/26': ('--', 'notconnec', '1', 'Eth1/26       --                 notconnec 1         full    10G     10Gbase-SR     ')}
+{'Eth1/27': ('--', 'notconnec', '1', 'Eth1/27       --                 notconnec 1         full    10G     10Gbase-SR     ')}
+{'Eth1/28': ('--', 'notconnec', '1', 'Eth1/28       --                 notconnec 1         full    10G     10Gbase-SR     ')}
+{'Eth1/29': ('--', 'notconnec', '1', 'Eth1/29       --                 notconnec 1         full    10G     10Gbase-SR     ')}
+{'Eth1/30': ('--', 'notconnec', '1', 'Eth1/30       --                 notconnec 1         full    10G     10Gbase-SR     ')}
+{'Eth1/31': ('--', 'notconnec', '1', 'Eth1/31       --                 notconnec 1         full    10G     10Gbase-SR     ')}
+{'Eth1/32': ('ICE_B_new', 'connected', 'routed', 'Eth1/32       ICE_B_new          connected routed    full    10G     10Gbase-LR     ')}
+{'Eth1/33': ('--', 'sfpAbsent', '1', 'Eth1/33       --                 sfpAbsent 1         full    10G     --             ')}
+{'Eth1/34': ('--', 'sfpAbsent', '1', 'Eth1/34       --                 sfpAbsent 1         full    10G     --             ')}
+{'Eth1/35': ('R2G_B', 'connected', 'routed', 'Eth1/35       R2G_B              connected routed    full    10G     10Gbase-LR     ')}
+{'Eth1/36': ('--', 'sfpAbsent', '1', 'Eth1/36       --                 sfpAbsent 1         full    10G     --             ')}
+{'Eth1/37': ('ICE_B_Feed_10G', 'disabled', 'routed', 'Eth1/37       ICE_B_Feed_10G     disabled  routed    full    10G     10Gbase-LR     ')}
+{'Eth1/38': ('--', 'sfpAbsent', '1', 'Eth1/38       --                 sfpAbsent 1         full    10G     --             ')}
+{'Eth1/39': ('--', 'sfpAbsent', '1', 'Eth1/39       --                 sfpAbsent 1         full    10G     --             ')}
+{'Eth1/40': ('--', 'sfpAbsent', '1', 'Eth1/40       --                 sfpAbsent 1         full    10G     --             ')}
+{'Eth1/41': ('--', 'sfpAbsent', '1', 'Eth1/41       --                 sfpAbsent 1         full    10G     --             ')}
+{'Eth1/42': ('--', 'sfpAbsent', '1', 'Eth1/42       --                 sfpAbsent 1         full    10G     --             ')}
+{'Eth1/43': ('--', 'sfpAbsent', '1', 'Eth1/43       --                 sfpAbsent 1         full    10G     --             ')}
+{'Eth1/44': ('--', 'sfpAbsent', '1', 'Eth1/44       --                 sfpAbsent 1         full    10G     --             ')}
+{'Eth1/45': ('--', 'sfpAbsent', '1', 'Eth1/45       --                 sfpAbsent 1         full    10G     --             ')}
+{'Eth1/46': ('--', 'sfpAbsent', '1', 'Eth1/46       --                 sfpAbsent 1         full    10G     --             ')}
+{'Eth1/47': ('--', 'sfpAbsent', '1', 'Eth1/47       --                 sfpAbsent 1         full    10G     --             ')}
+{'Eth1/48': ('--', 'sfpAbsent', '1', 'Eth1/48       --                 sfpAbsent 1         full    10G     --             ')}
+{'Eth1/49/1': ('--', 'sfpAbsent', '1', 'Eth1/49/1     --                 sfpAbsent 1         full    10G     --             ')}
+{'Eth1/49/2': ('--', 'sfpAbsent', '1', 'Eth1/49/2     --                 sfpAbsent 1         full    10G     --             ')}
+{'Eth1/49/3': ('--', 'sfpAbsent', '1', 'Eth1/49/3     --                 sfpAbsent 1         full    10G     --             ')}
+{'Eth1/49/4': ('--', 'sfpAbsent', '1', 'Eth1/49/4     --                 sfpAbsent 1         full    10G     --             ')}
+{'Eth1/50/1': ('--', 'sfpAbsent', '1', 'Eth1/50/1     --                 sfpAbsent 1         full    10G     --             ')}
+{'Eth1/50/2': ('--', 'sfpAbsent', '1', 'Eth1/50/2     --                 sfpAbsent 1         full    10G     --             ')}
+{'Eth1/50/3': ('--', 'sfpAbsent', '1', 'Eth1/50/3     --                 sfpAbsent 1         full    10G     --             ')}
+{'Eth1/50/4': ('--', 'sfpAbsent', '1', 'Eth1/50/4     --                 sfpAbsent 1         full    10G     --             ')}
+{'Eth1/51/1': ('--', 'sfpAbsent', '1', 'Eth1/51/1     --                 sfpAbsent 1         full    10G     --             ')}
+{'Eth1/51/2': ('--', 'sfpAbsent', '1', 'Eth1/51/2     --                 sfpAbsent 1         full    10G     --             ')}
+{'Eth1/51/3': ('--', 'sfpAbsent', '1', 'Eth1/51/3     --                 sfpAbsent 1         full    10G     --             ')}
+{'Eth1/51/4': ('--', 'sfpAbsent', '1', 'Eth1/51/4     --                 sfpAbsent 1         full    10G     --             ')}
+{'Eth1/52/1': ('--', 'sfpAbsent', '1', 'Eth1/52/1     --                 sfpAbsent 1         full    10G     --             ')}
+{'Eth1/52/2': ('--', 'sfpAbsent', '1', 'Eth1/52/2     --                 sfpAbsent 1         full    10G     --             ')}
+{'Eth1/52/3': ('--', 'sfpAbsent', '1', 'Eth1/52/3     --                 sfpAbsent 1         full    10G     --             ')}
+{'Eth1/52/4': ('--', 'sfpAbsent', '1', 'Eth1/52/4     --                 sfpAbsent 1         full    10G     --             ')}
+{'mgmt0': ('--', 'notconnec', 'routed', 'mgmt0         --                 notconnec routed    Full    auto    --             ')}
+{'Lo0': ('Management_IP', 'connected', 'routed', 'Lo0           Management_IP      connected routed    Full    auto    --             ')}
+10.10.4.4	nexus
+SEND COMMAND: show interface status
+{'Eth1/1': ('MS-NY4-CAP-2-eth4-', 'connected', '18', 'Eth1/1        MS-NY4-CAP-2-eth4- connected 18        full    10G     10Gbase-(un')}
+{'Eth1/2': ('Goldman-cross-conn', 'connected', '2554', 'Eth1/2        Goldman-cross-conn connected 2554      full    1000    SFP-1000BAS')}
+{'Eth1/3': ('QH-Broker-B', 'connected', 'trunk', 'Eth1/3        QH-Broker-B        connected trunk     full    1000    SFP-1000BAS')}
+{'Eth1/4': ('LiquidPoint-for-C&', 'connected', '2580', 'Eth1/4        LiquidPoint-for-C& connected 2580      full    1000    SFP-1000BAS')}
+{'Eth1/5': ('FFastFill', 'connected', '2570', 'Eth1/5        FFastFill          connected 2570      full    1000    SFP-1000BAS')}
+{'Eth1/6': ('LiquidPoint-A', 'connected', 'trunk', 'Eth1/6        LiquidPoint-A      connected trunk     full    1000    SFP-1000BAS')}
+{'Eth1/7': ('MIAX', 'connected', '2581', 'Eth1/7        MIAX               connected 2581      full    1000    SFP-1000BAS')}
+{'Eth1/8': ('ITG', 'connected', '2563', 'Eth1/8        ITG                connected 2563      full    1000    SFP-1000BAS')}
+{'Eth1/9': ('MWhitman-2', 'connected', '200', 'Eth1/9        MWhitman-2         connected 200       full    10G     SFP-H10GB-C')}
+{'Eth1/10': ('PROD29-STY-SRV-MWH', 'connected', '200', 'Eth1/10       PROD29-STY-SRV-MWH connected 200       full    10G     SFP-H10GB-C')}
+{'Eth1/11': ('SM-NY4-SQF-1(PROD1', 'connected', '12', 'Eth1/11       SM-NY4-SQF-1(PROD1 connected 12        full    10G     SFP-H10GB-C')}
+{'Eth1/12': ('MT-NY4-BRY-2', 'connected', '233', 'Eth1/12       MT-NY4-BRY-2       connected 233       full    10G     SFP-Twinax ')}
+{'Eth1/13': ('SM-NY4-TT-1', 'connected', '309', 'Eth1/13       SM-NY4-TT-1        connected 309       full    10G     10Gbase-(un')}
+{'Eth1/14': ('VN-NY4-SANDBOX-1', 'sfpAbsent', '33', 'Eth1/14       VN-NY4-SANDBOX-1   sfpAbsent 33        full    10G     --         ')}
+{'Eth1/15': ('SC-NY4-JME-3', 'sfpAbsent', '245', 'Eth1/15       SC-NY4-JME-3       sfpAbsent 245       full    10G     --         ')}
+{'Eth1/16': ('RC-NY4-VM-1', 'connected', 'trunk', 'Eth1/16       RC-NY4-VM-1        connected trunk     full    10G     10Gbase-(un')}
+{'Eth1/17': ('VN-NY4-SP-1', 'connected', 'trunk', 'Eth1/17       VN-NY4-SP-1        connected trunk     full    10G     SFP-H10GB-C')}
+{'Eth1/18': ('VN-NY4-SP-1', 'connected', 'trunk', 'Eth1/18       VN-NY4-SP-1        connected trunk     full    10G     SFP-H10GB-C')}
+{'Eth1/19': ('MT-NY4-BRY-3', 'connected', '233', 'Eth1/19       MT-NY4-BRY-3       connected 233       full    10G     SFP-H10GB-C')}
+{'Eth1/20': ('MT-NY4-BRY-2', 'connected', '233', 'Eth1/20       MT-NY4-BRY-2       connected 233       full    10G     SFP-H10GB-C')}
+{'Eth2/1': ('MT-SRV-BRY-1-CSM', 'connected', '233', 'Eth2/1        MT-SRV-BRY-1-CSM   connected 233       full    10G     SFP-H10GB-C')}
+{'Eth2/2': ('VN-NY4-EVAL-1', 'connected', '254', 'Eth2/2        VN-NY4-EVAL-1      connected 254       full    10G     10Gbase-(un')}
+{'Eth2/3': ('MCM-NY4-PROD-1-Act', 'connected', '251', 'Eth2/3        MCM-NY4-PROD-1-Act connected 251       full    10G     10Gbase-(un')}
+{'Eth2/4': ('UBS', 'connected', '2600', 'Eth2/4        UBS                connected 2600      full    10G     10Gbase-LR ')}
+{'Eth2/5': ('RBC-NY4-PROD-1', 'sfpAbsent', '310', 'Eth2/5        RBC-NY4-PROD-1     sfpAbsent 310       full    10G     --         ')}
+{'Eth2/6': ('SM-NY4-STE-1', 'connected', '218', 'Eth2/6        SM-NY4-STE-1       connected 218       full    10G     SFP-H10GB-C')}
+{'Po1': ('Trunk to xl2-dist-', 'disabled', '1', 'Po1           Trunk to xl2-dist- disabled  1         auto    10G     --         ')}
+{'Po2': ('VN-NY4-SP-1', 'connected', 'trunk', 'Po2           VN-NY4-SP-1        connected trunk     full    10G     --         ')}
+{'mgmt0': ('Management to ml3-', 'connected', 'routed', 'mgmt0         Management to ml3- connected routed    full    a-100   --         ')}

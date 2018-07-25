@@ -1,0 +1,172 @@
+10.63.254.1	nexus
+SEND COMMAND: show interface description
+THROUGH AWAY: -------------------------------------------------------------------------------
+THROUGH AWAY: Port          Type   Speed   Description
+THROUGH AWAY: -------------------------------------------------------------------------------
+THROUGH AWAY: Eth1/5        eth    10G     BRE_Crossconnect
+THROUGH AWAY: Eth1/6        eth    10G     VN-335-SP-1.G3/1-LightTower-CirID: 40015-ET-CHCJILWB-CHCGILDT
+THROUGH AWAY: Eth1/13       eth    10G     PICO
+THROUGH AWAY: Eth1/15       eth    10G     Activ_Cross_Connect
+THROUGH AWAY: Eth1/16       eth    10G     Victory_Firewalls
+THROUGH AWAY: Eth1/20       eth    10G     VDIWare
+THROUGH AWAY: Eth1/30       eth    10G     Hanweck
+THROUGH AWAY: Eth1/34       eth    10G     Nadex-via-Cogent-CID:1-300161237,1-300161242,1-300161239; 1-877-726-4368
+THROUGH AWAY: Eth1/41       eth    10G     SocGen
+THROUGH AWAY: -------------------------------------------------------------------------------
+THROUGH AWAY: Interface                Description                                            
+THROUGH AWAY: -------------------------------------------------------------------------------
+THROUGH AWAY: Lo0                      --
+THROUGH AWAY: Lo5                      --
+THROUGH AWAY: Lo6                      Anycast RP for Andrie
+Eth1/1	eth	10G	VN-CH1-LF-1-TE1/50
+Eth1/2	eth	10G	VN-CH1-LF-2-GE1/48
+Eth1/3	eth	10G	VN-CH1-LF-2-GE1/46
+Eth1/4	eth	10G	Cogent-to-400S
+Eth1/7	eth	10G	VN-350-SP-1-E4
+Eth1/8	eth	10G	--
+Eth1/9	eth	10G	--
+Eth1/10	eth	10G	--
+Eth1/11	eth	10G	--
+Eth1/12	eth	10G	Balyasny-181-Madison
+Eth1/14	eth	10G	--
+Eth1/17	eth	10G	Metro-to-400s_zayocid-FBDK/622490//ZFS
+Eth1/18	eth	10G	NASDAQ-NFX-20291726-A
+Eth1/19	eth	10G	Blufin-DR
+Eth1/21	eth	10G	Balyasny-QTS
+Eth1/22	eth	10G	--
+Eth1/23	eth	10G	--
+Eth1/24	eth	10G	--
+Eth1/25	eth	10G	--
+Eth1/26	eth	10G	--
+Eth1/27	eth	10G	--
+Eth1/28	eth	10G	--
+Eth1/29	eth	10G	--
+Eth1/31	eth	10G	--
+Eth1/32	eth	10G	--
+Eth1/33	eth	10G	--
+Eth1/35	eth	10G	--
+Eth1/36	eth	10G	--
+Eth1/37	eth	10G	--
+Eth1/38	eth	10G	REVO-CH1-PROD-1
+Eth1/39	eth	10G	--
+Eth1/40	eth	10G	233-CH1-PROD-1
+Eth1/42	eth	10G	--
+Eth1/43	eth	10G	--
+Eth1/44	eth	10G	--
+Eth1/45	eth	10G	--
+Eth1/46	eth	10G	--
+Eth1/47	eth	10G	MST-CH1-CAP-1
+Eth1/48	eth	10G	MST-CH1-CAP-1
+Eth1/49	eth	40G	--
+Eth1/50	eth	40G	--
+Eth1/51	eth	40G	--
+Eth1/52	eth	40G	--
+10.62.254.2	nexus
+SEND COMMAND: show interface description
+THROUGH AWAY: -------------------------------------------------------------------------------
+THROUGH AWAY: Port          Type   Speed   Description
+THROUGH AWAY: -------------------------------------------------------------------------------
+THROUGH AWAY: Eth1/8        eth    10G     VDIware_CC
+THROUGH AWAY: Eth1/32       eth    10G     ICE_B_new
+THROUGH AWAY: Eth1/35       eth    10G     R2G_B
+THROUGH AWAY: Eth1/37       eth    10G     ICE_B_Feed_10G
+THROUGH AWAY: -------------------------------------------------------------------------------
+THROUGH AWAY: Interface                Description                                            
+THROUGH AWAY: -------------------------------------------------------------------------------
+THROUGH AWAY: Lo0                      Management_IP
+Eth1/1	eth	10G	VN-350-SP-1-E1
+Eth1/2	eth	10G	VN-350-SP-1-E2
+Eth1/3	eth	10G	--
+Eth1/4	eth	10G	VN-CH1-SP-2-E1/7
+Eth1/5	eth	10G	VN-350-LF-1-TE50
+Eth1/6	eth	10G	VN-350-LF-2-GE1/46
+Eth1/7	eth	10G	--
+Eth1/9	eth	10G	--
+Eth1/10	eth	10G	--
+Eth1/11	eth	10G	--
+Eth1/12	eth	10G	--
+Eth1/13	eth	10G	BUDO-350-TT-1-SF-2
+Eth1/14	eth	10G	BUDO-350-TT-2-SF-2
+Eth1/15	eth	10G	BUDO-350-ACT-1-SF-2
+Eth1/16	eth	10G	BUDO-350-ACT-2-SF-2
+Eth1/17	eth	10G	BUDO-350-VM-1-SF-2
+Eth1/18	eth	10G	--
+Eth1/19	eth	10G	BUDO-350-ACT-3_SF2
+Eth1/20	eth	10G	BUDO-350-TT-3_SF2
+Eth1/21	eth	10G	BUDO-350-RIVAL-1_SF2
+Eth1/22	eth	10G	--
+Eth1/23	eth	10G	BUDO-350-TCX-1_SF2
+Eth1/24	eth	10G	--
+Eth1/25	eth	10G	BUDO-350-ACT-2-solarflare
+Eth1/26	eth	10G	--
+Eth1/27	eth	10G	--
+Eth1/28	eth	10G	--
+Eth1/29	eth	10G	--
+Eth1/30	eth	10G	--
+Eth1/31	eth	10G	--
+Eth1/33	eth	10G	--
+Eth1/34	eth	10G	--
+Eth1/36	eth	10G	--
+Eth1/38	eth	10G	--
+Eth1/39	eth	10G	--
+Eth1/40	eth	10G	--
+Eth1/41	eth	10G	--
+Eth1/42	eth	10G	--
+Eth1/43	eth	10G	--
+Eth1/44	eth	10G	--
+Eth1/45	eth	10G	--
+Eth1/46	eth	10G	--
+Eth1/47	eth	10G	--
+Eth1/48	eth	10G	--
+Eth1/49/1	eth	10G	--
+Eth1/49/2	eth	10G	--
+Eth1/49/3	eth	10G	--
+Eth1/49/4	eth	10G	--
+Eth1/50/1	eth	10G	--
+Eth1/50/2	eth	10G	--
+Eth1/50/3	eth	10G	--
+Eth1/50/4	eth	10G	--
+Eth1/51/1	eth	10G	--
+Eth1/51/2	eth	10G	--
+Eth1/51/3	eth	10G	--
+Eth1/51/4	eth	10G	--
+Eth1/52/1	eth	10G	--
+Eth1/52/2	eth	10G	--
+Eth1/52/3	eth	10G	--
+Eth1/52/4	eth	10G	--
+10.10.4.4	nexus
+SEND COMMAND: show interface description
+THROUGH AWAY: -------------------------------------------------------------------------------
+THROUGH AWAY: Port          Type   Speed   Description
+THROUGH AWAY: -------------------------------------------------------------------------------
+THROUGH AWAY: Eth1/5        eth    10G     FFastFill
+THROUGH AWAY: Eth1/7        eth    10G     MIAX
+THROUGH AWAY: Eth1/8        eth    10G     ITG
+THROUGH AWAY: Eth2/4        eth    10G     UBS
+THROUGH AWAY: -------------------------------------------------------------------------------
+THROUGH AWAY: Interface                Description                                            
+THROUGH AWAY: -------------------------------------------------------------------------------
+THROUGH AWAY: Po2                      VN-NY4-SP-1
+Eth1/1	eth	10G	MS-NY4-CAP-2-eth4-onboard
+Eth1/2	eth	10G	Goldman-cross-connect
+Eth1/3	eth	10G	QH-Broker-B
+Eth1/4	eth	10G	LiquidPoint-for-C&C
+Eth1/6	eth	10G	LiquidPoint-A
+Eth1/9	eth	10G	MWhitman-2
+Eth1/10	eth	10G	PROD29-STY-SRV-MWH-1
+Eth1/11	eth	10G	SM-NY4-SQF-1(PROD143)
+Eth1/12	eth	10G	MT-NY4-BRY-2
+Eth1/13	eth	10G	SM-NY4-TT-1
+Eth1/14	eth	10G	VN-NY4-SANDBOX-1
+Eth1/15	eth	10G	SC-NY4-JME-3
+Eth1/16	eth	10G	RC-NY4-VM-1
+Eth1/17	eth	10G	VN-NY4-SP-1
+Eth1/18	eth	10G	VN-NY4-SP-1
+Eth1/19	eth	10G	MT-NY4-BRY-3
+Eth1/20	eth	10G	MT-NY4-BRY-2
+Eth2/1	eth	10G	MT-SRV-BRY-1-CSM
+Eth2/2	eth	10G	VN-NY4-EVAL-1
+Eth2/3	eth	10G	MCM-NY4-PROD-1-Activ
+Eth2/5	eth	10G	RBC-NY4-PROD-1
+Eth2/6	eth	10G	SM-NY4-STE-1
+Po1	Trunk	to	xl2-dist-2-755s

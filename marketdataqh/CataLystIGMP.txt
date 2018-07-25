@@ -1,0 +1,45 @@
+10.10.4.6	catalyst
+SEND COMMAND: show ip igmp snooping group
+Vlan      Group                    Type        Version     Port List
+-----------------------------------------------------------------------
+219       233.58.54.255            igmp        v2          Gi1/0/33, Po4
+10.10.129.3	catalyst
+SEND COMMAND: show ip igmp snooping group
+Vlan      Group          Version     Port List
+---------------------------------------------------------
+12        224.1.1.2      v2          Po3
+17        239.255.255.253v3          Gi1/26
+53        239.255.255.250v2          Gi1/47
+
+10.10.0.2	catalyst
+SEND COMMAND: show ip igmp snooping group
+Vlan      Group                    Type        Version     Port List
+-----------------------------------------------------------------------
+12        224.1.1.2                igmp        v2          Gi2/0/11, Po1
+10.10.4.200	catalyst
+SEND COMMAND: show ip igmp snooping group
+Vlan      Group                    Type        Version     Port List
+-----------------------------------------------------------------------
+10        239.255.255.250          igmp                    Fa0/9, Fa0/10, 
+                                                           Fa0/11, Gi0/1
+10.10.4.201	catalyst
+SEND COMMAND: show ip igmp snooping group
+10.13.128.1	catalyst
+unable to connect, moving on to next
+10.10.128.1	catalyst
+SEND COMMAND: show ip igmp snooping group
+Vlan      Group             Version     Port List
+------------------------------------------------------------
+10        239.255.255.250   v2          Gi2/1
+12        224.1.1.2         v2          Po1
+12        239.168.1.1       v2          Po1
+213       239.192.0.0       v3          Po2
+213       239.255.255.250   v3          Po2
+214       224.0.131.132     v3          Po9
+214       224.0.131.133     v3          Po9
+214       233.130.124.132   v3          Po9
+214       233.130.124.133   v3          Po9
+219       233.58.54.255     v2          Po4
+505       224.0.1.40        v2          Po5
+506       224.0.1.40        v2          Po9
+
